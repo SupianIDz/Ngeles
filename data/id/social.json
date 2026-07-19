@@ -32,7 +32,12 @@
       "Aduh [TARGET], aku tiba-tiba disuruh jaga adikku yang masih kecil karena orang tuaku ada urusan mendadak.",
       "Sori [TARGET], aku lupa banget kalau hari ini aku udah janji mau jenguk kakek-nenekku di luar kota.",
       "Eh [TARGET], aki mobilku soak banget dan mobilnya nggak mau nyala sama sekali, maaf ya aku batalin.",
-      "Maaf [TARGET], energiku benar-benar habis setelah kerja rodi seharian, aku butuh rebahan total."
+      "Maaf [TARGET], energiku benar-benar habis setelah kerja rodi seharian, aku butuh rebahan total.",
+      "Maaf banget [TARGET], perutku tiba-tiba bunyi keroncongan sekencang toa masjid, aku kena muntaber parah nih.",
+      "Aduh [TARGET], motor yang baru kupinjam dari temanku ditilang polisi dan aku harus nemenin dia nebus motornya di kejaksaan.",
+      "Sori [TARGET], kunci kamarku patah di dalem dan tukang kunci terdekat lagi mudik ke kampung.",
+      "Eh [TARGET], aku salah makan sambal level dewa dari warung padang, sekarang mulut dan lambungku kayak kebakar api neraka.",
+      "Maaf [TARGET], aku disuruh emakku nimba air di sumur karena pompa air mendadak mati terbakar korslet."
     ],
     "ridiculous": [
       "Sorry ya [TARGET], gue gak bisa keluar rumah malam ini karena tiba-tiba peliharaan gue memperlihatkan tatapan menghakimi yang bikin gue merasa bersalah kalau ditinggal pergi.",
@@ -61,7 +66,12 @@
       "Aduh [TARGET], sepatu kiriku dicuri sama monyet liar pas aku lagi jemur baju di belakang rumah.",
       "Maaf [TARGET], aku terkunci di luar apartemenku sendiri dalam keadaan hanya pakai handuk, tolong jangan tunggu aku.",
       "Halo [TARGET], aku terjebak gara-gara merakit lemari pakaian Ikea yang rubuh dan menimpaku.",
-      "Eh [TARGET], aku nggak sengaja menelan bawang putih utuh satu bonggol, napasku bau naga dan perutku panas."
+      "Eh [TARGET], aku nggak sengaja menelan bawang putih utuh satu bonggol, napasku bau naga dan perutku panas.",
+      "Sori [TARGET], aku nggak bisa datang soalnya ketiak kananku tiba-tiba bau durian busuk meski udah mandi kembang 7 rupa.",
+      "Aduh [TARGET], aku dikejar sekawanan kalkun marah dari peternakan ujung jalan, aku terpaksa manjat genteng rumah tetangga.",
+      "Maaf [TARGET], gigiku yang satu tiba-tiba lepas pas aku lagi gigit kerupuk alot, aku malu banget buat senyum di tongkrongan.",
+      "Halo [TARGET], celana jeans-ku menyusut drastis setelah dicuci, pas kupakai aku malah kelihatan kayak pakai legging zumba.",
+      "Eh [TARGET], aku batal datang karena aku lagi ngambek sama Siri di iPhone-ku, dia terus-terusan ngeledek suaraku."
     ],
     "realityBending": [
       "Sorry [TARGET], gue gak bisa nongkrong. Rumah gue tiba-tiba dikepung oleh pasukan alien ramah yang minta diajarin cara bikin kopi lokal, gak sopan kalau ditinggal.",
@@ -90,7 +100,12 @@
       "Sori [TARGET], aku baru saja dipanggil secara paksa untuk wajib militer dalam perang intergalaksi melawan alien.",
       "Aduh [TARGET], seorang penyihir mengutukku sehingga aku hanya bisa berbicara menggunakan pantun teka-teki.",
       "Eh [TARGET], aku nggak sengaja bertukar tubuh dengan bapak kosku, aku harus mencari dia untuk bertukar kembali.",
-      "Maaf [TARGET], matahari di atas perumahanku mendadak meledak menjadi supernova, jalannya jadi macet total."
+      "Maaf [TARGET], matahari di atas perumahanku mendadak meledak menjadi supernova, jalannya jadi macet total.",
+      "Maaf [TARGET], warna di tubuhku mendadak luntur jadi hitam putih seperti film jadul, aku malu terlihat monokrom di keramaian.",
+      "Sori [TARGET], aku dipanggil menjadi juri di turnamen panco antar iblis di dimensi ketujuh, bayarannya terlalu menggiurkan.",
+      "Aduh [TARGET], karma buruk dari kehidupanku di zaman Romawi kuno menimpaku hari ini, kakiku mendadak berubah menjadi pilar marmer.",
+      "Eh [TARGET], eksistensiku ditolak oleh server realita karena ping-ku terlalu tinggi, aku akan re-connect besok pagi.",
+      "Maaf [TARGET], suara hatiku mendadak bocor jadi *loudspeaker* ke seluruh kota, semua rahasiaku terbongkar kalau aku ke luar rumah."
     ]
   }
 }

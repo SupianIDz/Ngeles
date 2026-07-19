@@ -32,7 +32,12 @@
       "Oh man [TARGET], I was suddenly told to babysit my little sibling because my parents have an emergency.",
       "Sorry [TARGET], I completely forgot that I promised to visit my grandparents out of town today.",
       "Hey [TARGET], my car battery is completely dead and the car won't start at all, sorry I have to cancel.",
-      "Sorry [TARGET], my energy is completely drained after a grueling day at work, I just need to lie down."
+      "Sorry [TARGET], my energy is completely drained after a grueling day at work, I just need to lie down.",
+      "I'm so sorry [TARGET], my stomach is rumbling louder than a megaphone. I caught a severe case of gastroenteritis.",
+      "Oh man [TARGET], the bike I borrowed from a friend just got impounded by the police, I have to accompany him to the prosecutor's office.",
+      "Sorry [TARGET], my room key snapped inside the lock and the nearest locksmith is out of town.",
+      "Hey [TARGET], I ate the legendary god-level spicy chili at a local diner, and my mouth and stomach feel like they are burning in hellfire.",
+      "Sorry [TARGET], my mom forced me to draw water from the well because our water pump suddenly short-circuited and caught fire."
     ],
     "ridiculous": [
       "Sorry [TARGET], I can't leave the house tonight — my pet is giving me a look of pure judgment that I simply cannot ignore.",
@@ -61,7 +66,12 @@
       "Oh man [TARGET], my left shoe was stolen by a wild monkey while I was hanging laundry out back.",
       "Sorry [TARGET], I locked myself out of my own apartment completely naked, please don't wait for me.",
       "Hello [TARGET], I am trapped under an Ikea wardrobe that collapsed on me while I was assembling it.",
-      "Hey [TARGET], I accidentally swallowed a whole garlic clove, my breath smells like a dragon and my stomach burns."
+      "Hey [TARGET], I accidentally swallowed a whole garlic clove, my breath smells like a dragon and my stomach burns.",
+      "Sorry [TARGET], I can't come because my right armpit suddenly smells like rotten durian despite me taking three flower baths.",
+      "Oh man [TARGET], I was chased by a flock of furious turkeys from the farm down the street, I had to climb onto a neighbor's roof.",
+      "Sorry [TARGET], one of my front teeth suddenly fell out when biting a stale cracker, I'm too embarrassed to smile in public.",
+      "Hello [TARGET], my jeans shrank drastically in the wash. When I put them on, I look like I'm wearing Zumba leggings.",
+      "Hey [TARGET], I cancelled because I'm currently throwing a tantrum at Siri on my iPhone for constantly mocking my voice."
     ],
     "realityBending": [
       "Sorry [TARGET], my house is surrounded by friendly aliens who asked me to teach them how to make local coffee. Abandoning them mid-lesson would be rude.",
@@ -90,7 +100,12 @@
       "Oh man [TARGET], I was just forcibly drafted into an intergalactic war against aliens.",
       "Sorry [TARGET], a wizard cursed me so that I can only speak in confusing riddles.",
       "Hey [TARGET], I accidentally swapped bodies with my landlord, I have to find him to swap back.",
-      "Sorry [TARGET], the sun above my neighborhood suddenly went supernova, the traffic is completely jammed."
+      "Sorry [TARGET], the sun above my neighborhood suddenly went supernova, the traffic is completely jammed.",
+      "Sorry [TARGET], the colors on my body suddenly faded into black and white like an old movie, I'm too embarrassed to be seen in monochrome.",
+      "Oh man [TARGET], I was summoned to be a judge in an arm-wrestling tournament between demons in the seventh dimension. The pay is too good.",
+      "Sorry [TARGET], bad karma from my past life in ancient Rome caught up to me; my legs suddenly turned into marble pillars.",
+      "Hey [TARGET], my existence was rejected by the reality server because my ping is too high, I'll reconnect tomorrow morning.",
+      "Sorry [TARGET], my inner thoughts suddenly leaked and broadcasted like a loudspeaker to the whole city. All my secrets will be exposed if I go out."
     ]
   }
 }

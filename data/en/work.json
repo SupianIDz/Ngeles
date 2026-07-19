@@ -32,7 +32,12 @@
       "Hello [TARGET], I suffered a severe allergic reaction after eating seafood last night, my face is swollen.",
       "Excuse me [TARGET], I sprained my wrist badly and I absolutely cannot type.",
       "Sorry [TARGET], the streets in my neighborhood are flooded knee-deep and vehicles cannot pass.",
-      "I apologize [TARGET], I am helping a hit-and-run victim on the road and need to accompany them to the hospital."
+      "I apologize [TARGET], I am helping a hit-and-run victim on the road and need to accompany them to the hospital.",
+      "Sorry [TARGET], I'm trapped behind a massive crowd of Zumba-dancing moms completely blocking the main road out of my neighborhood.",
+      "Hello [TARGET], I just realized I arrived at the office parking lot wearing last year's festive holiday pyjamas. I have to go home and change.",
+      "Excuse me [TARGET], the zipper on my trousers broke at the gas station toilet, and now I have to wait for a friend to bring spare pants.",
+      "Sorry [TARGET], a rushing delivery guy stepped on my glasses and snapped them in half. My world is completely blurred and I can't drive.",
+      "I apologize [TARGET], I'm experiencing temporary amnesia because I smacked my forehead extremely hard on the closet corner right after waking up."
     ],
     "ridiculous": [
       "My sincerest apologies [TARGET], but my cat had an emotional breakdown this morning after failing to catch a lizard. I can't in good conscience leave during her recovery.",
@@ -61,7 +66,12 @@
       "Hello [TARGET], I was chased by a swarm of large bees on my way out and now I am hiding in a ditch.",
       "Excuse me [TARGET], I accidentally superglued both my hands together and am waiting for medical assistance.",
       "Sorry [TARGET], my pants ripped entirely in half when getting off the bus, I have to go home to change.",
-      "Hey [TARGET], I accidentally swallowed a fishbone and now I cannot speak at all."
+      "Hey [TARGET], I accidentally swallowed a fishbone and now I cannot speak at all.",
+      "Sorry [TARGET], I can't come in today because I'm being interrogated by neighborhood security after being caught stealing the mayor's Wi-Fi.",
+      "Hello [TARGET], I am currently being held hostage by a traveling massage therapist who insists on giving me a 5-hour massage.",
+      "Excuse me [TARGET], my motorcycle helmet was taken over by a giant wasp nest overnight. I dare not even touch it.",
+      "Sorry [TARGET], I was chased by a mob of aggressive street performers for 5 miles and am currently hiding up a tree.",
+      "Hey [TARGET], a mythological goblin stole my left work shoe. I offered it coins but it demanded crispy fried chicken."
     ],
     "realityBending": [
       "Sorry boss [TARGET], I was forcibly recruited by interdimensional agents to repair a space-time leak in 2045. I should be back in this timeline by tomorrow, maybe.",
@@ -90,7 +100,12 @@
       "Hello [TARGET], my body accidentally turned into a translucent ghost, I cannot physically press the keyboard.",
       "Excuse me [TARGET], my room suddenly teleported to the middle of the Pacific Ocean, I am waiting for a rescue ship.",
       "Sorry [TARGET], I was kidnapped by a secret society of underground mole people, I need time to negotiate.",
-      "Hey [TARGET], gravity in my bedroom inverted, I am stuck on the ceiling and cannot reach the doorknob."
+      "Hey [TARGET], gravity in my bedroom inverted, I am stuck on the ceiling and cannot reach the doorknob.",
+      "Sorry [TARGET], my body suddenly became a super strong magnet, and every pan, spoon, and the fridge is currently stuck to my torso.",
+      "Hello [TARGET], I was thrown back into the Jurassic era because I tuned my car radio to the wrong frequency while listening to folk music.",
+      "Excuse me [TARGET], my soul swapped with the office photocopier. Whenever I try to speak, I just dispense blank A4 paper.",
+      "Sorry [TARGET], I was abducted by aliens from the Andromeda galaxy because they mistook me for a grandmaster cosmic chef.",
+      "Hey [TARGET], the earth stopped rotating, but specifically only in my neighborhood, so I'm permanently stuck at 3 AM in total darkness."
     ]
   }
 }

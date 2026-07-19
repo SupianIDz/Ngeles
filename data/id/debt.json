@@ -23,7 +23,12 @@
       "Halo [TARGET], ada darurat medis di keluargaku yang menghabiskan seluruh tabunganku bulan ini.",
       "Aduh [TARGET], aku baru saja kena tipu *scammer* online dan saldoku dikuras habis tak tersisa.",
       "Maaf [TARGET], perusahaanku menunda pembayaran gaji selama dua bulan ini, aku benar-benar tidak pegang uang.",
-      "Sori ya [TARGET], uangnya terpaksa aku pakai dulu buat bayar tunggakan SPP anak sekolah yang mau ujian."
+      "Sori ya [TARGET], uangnya terpaksa aku pakai dulu buat bayar tunggakan SPP anak sekolah yang mau ujian.",
+      "Maaf banget [TARGET], gajiku bulan ini dipotong 70% karena aku ngilangin alat mahal di kantor, aku pusing banget cari pinjaman.",
+      "Halo [TARGET], rekening tabunganku keblokir gara-gara terindikasi penipuan pinjol oleh sistem bank, padahal aku nggak ngapa-ngapain.",
+      "Aduh [TARGET], uang tunai yang mau kubuat bayar kamu nggak sengaja terendam di mesin cuci sampai hancur jadi bubur kertas.",
+      "Maaf [TARGET], ATM-ku tertelan di mesin tua yang rusak, dan pihak bank baru bisa mengurusnya minggu depan.",
+      "Sori ya [TARGET], uangku habis buat ganti rugi nyerempet mobil Alphard orang di lampu merah kemarin sore."
     ],
     "ridiculous": [
       "Maaf [TARGET], uang yang mau kubayar dimakan rayap karena kusimpan di bawah kasur. Aku lagi usahakan ke BI buat tukar uang rusak.",
@@ -48,7 +53,12 @@
       "Aduh [TARGET], seekor kambing lepas memakan habis semua uang kertas yang aku taruh di atas meja teras.",
       "Maaf [TARGET], aku nggak sengaja membuang dompetku ke dalam api unggun saat lagi kamping kemarin malam.",
       "Halo [TARGET], uangnya aku investasikan untuk membeli biji kacang ajaib yang katanya bisa tumbuh sampai ke awan.",
-      "Sori [TARGET], celenganku diculik oleh seekor rakun yang masuk lewat jendela dapur, uangku habis dibawa kabur."
+      "Sori [TARGET], celenganku diculik oleh seekor rakun yang masuk lewat jendela dapur, uangku habis dibawa kabur.",
+      "Sori [TARGET], uang tunainya aku simpan di bawah bantal, tapi ternyata bantalku dicuri tikus wirok mutan semalam.",
+      "Aduh [TARGET], aku nggak sengaja bayarin belanjaan ibu-ibu di kasir Indomaret gara-gara grogi dikira dia ibuku sendiri.",
+      "Maaf [TARGET], uangnya kugunakan untuk memborong tiket konser orkes dangdut gerobak keliling demi mendukung karir teman masa kecilku.",
+      "Halo [TARGET], celenganku ternyata isinya cuma batu kerikil yang disulap keponakanku pakai trik sulap murahan.",
+      "Sori [TARGET], jariku kesemutan kronis setiap mau transfer uang ke rekeningmu, sepertinya ini pertanda buruk dari alam semesta."
     ],
     "realityBending": [
       "Dengar [TARGET], secara teknis uang itu adalah energi. Dan menurut Hukum Termodinamika, energi tidak bisa diciptakan atau dimusnahkan. Jadi uangmu tidak hilang, hanya berubah bentuk menjadi aura kosmik di sekitarku.",
@@ -73,7 +83,12 @@
       "Sori [TARGET], saldo bank-ku tersedot masuk ke dalam *black hole* ekonomi kosmik yang tak terlihat.",
       "Aduh [TARGET], seorang penjelajah waktu dari masa depan mencuri uangku untuk mendanai pasukan pemberontak cyborg.",
       "Halo [TARGET], secara ajaib semua uang di tabunganku berubah menjadi koin cokelat berbungkus kertas emas.",
-      "Maaf [TARGET], Federasi Galaksi menyita semua aset duniawiku karena aku dituduh menyelundupkan antimateri."
+      "Maaf [TARGET], Federasi Galaksi menyita semua aset duniawiku karena aku dituduh menyelundupkan antimateri.",
+      "Maaf [TARGET], saldo bank-ku berubah menjadi deretan huruf hieroglif Mesir kuno yang tidak bisa dicairkan di bank modern.",
+      "Sori [TARGET], uang yang mau kubayarkan mendadak berubah wujud menjadi kupu-kupu emas dan beterbangan keluar dari jendela.",
+      "Aduh [TARGET], malaikat penagih utang dari alam barzah mendatangiku dan menyatakan bahwa utangku padamu sudah lunas dalam bentuk amal jariyah.",
+      "Halo [TARGET], uang kertas milikku melakukan demonstrasi menuntut kenaikan nilai tukar dan menolak berpindah tangan ke dompetmu.",
+      "Maaf [TARGET], aku terjebak di *timeline* alternatif di mana sistem ekonomi hanya menggunakan cangkang keong laut sebagai alat tukar sah."
     ]
   },
   "meta": {

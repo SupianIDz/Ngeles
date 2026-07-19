@@ -23,7 +23,12 @@
       "Hello [TARGET], there was a medical emergency in my family that drained all my savings this month.",
       "Oh man [TARGET], I just got tricked by an online scammer and my balance was drained to zero.",
       "Sorry [TARGET], my company delayed paying salaries for two months now, I literally have no money.",
-      "Sorry [TARGET], I had to use the money to pay for my children's overdue tuition fees before their exams."
+      "Sorry [TARGET], I had to use the money to pay for my children's overdue tuition fees before their exams.",
+      "I'm really sorry [TARGET], my salary this month was cut by 70% because I lost an expensive piece of equipment at work. I'm struggling to find a loan.",
+      "Hello [TARGET], my savings account was blocked because the bank's system flagged it for loan fraud, even though I did nothing.",
+      "Oh man [TARGET], the cash I was going to pay you with was accidentally left in the washing machine until it turned into paper mush.",
+      "Sorry [TARGET], my ATM card was swallowed by an old broken machine, and the bank said they can only sort it out next week.",
+      "Sorry [TARGET], my money was completely drained to compensate someone after I scraped their luxury car at a red light yesterday afternoon."
     ],
     "ridiculous": [
       "I'm sorry [TARGET], the cash I saved for you was eaten by termites under my mattress. I'm currently trying to piece the bills back together.",
@@ -48,7 +53,12 @@
       "Oh man [TARGET], a loose goat ate all the banknotes I left on my patio table.",
       "Sorry [TARGET], I accidentally threw my wallet into the bonfire while camping last night.",
       "Hello [TARGET], I invested the money to buy magic beans that are supposed to grow up to the clouds.",
-      "Sorry [TARGET], my piggy bank was kidnapped by a raccoon that entered through the kitchen window."
+      "Sorry [TARGET], my piggy bank was kidnapped by a raccoon that entered through the kitchen window.",
+      "Sorry [TARGET], I hid the cash under my pillow, but it turns out my pillow was stolen by a mutant sewer rat last night.",
+      "Oh man [TARGET], I accidentally paid for an elderly woman's groceries at the cashier because I was so nervous I thought she was my own mother.",
+      "Sorry [TARGET], I used the money to buy out tickets for a traveling street dangdut concert to support my childhood friend's career.",
+      "Hello [TARGET], my piggy bank turned out to only contain gravel stones swapped by my nephew using a cheap magic trick.",
+      "Sorry [TARGET], my fingers go chronically numb every time I try to transfer money to your account, it must be a bad omen from the universe."
     ],
     "realityBending": [
       "Listen [TARGET], technically money is energy. According to the Laws of Thermodynamics, energy cannot be created or destroyed. So your money isn't gone, it has just changed into a cosmic aura surrounding me.",
@@ -73,7 +83,12 @@
       "Hey [TARGET], my bank balance was sucked into an invisible cosmic economic black hole.",
       "Oh no [TARGET], a time traveler from the future stole my money to fund a cyborg rebellion.",
       "Hello [TARGET], magically all the money in my savings turned into chocolate coins wrapped in gold foil.",
-      "Sorry [TARGET], the Galactic Federation confiscated all my earthly assets because I was accused of smuggling antimatter."
+      "Sorry [TARGET], the Galactic Federation confiscated all my earthly assets because I was accused of smuggling antimatter.",
+      "Sorry [TARGET], my bank balance transformed into ancient Egyptian hieroglyphics that cannot be cashed out at modern banks.",
+      "Hey [TARGET], the money I was about to pay you with suddenly transformed into golden butterflies and fluttered out the window.",
+      "Oh no [TARGET], an angelic debt collector from the afterlife visited me and declared that my debt to you is already paid in spiritual karma points.",
+      "Hello [TARGET], my paper money went on a strike demanding a higher exchange rate and refused to change hands into your wallet.",
+      "Sorry [TARGET], I am trapped in an alternate timeline where the economic system only uses sea conch shells as legal tender."
     ]
   },
   "meta": {

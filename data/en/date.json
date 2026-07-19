@@ -23,7 +23,12 @@
       "Oh man [TARGET], my toothache suddenly flared up so badly my cheek is swollen, I have to see a dentist now.",
       "Hello [TARGET], I am stuck in a total 4-hour traffic gridlock due to a massive protest on the main road.",
       "Sorry [TARGET], I got food poisoning after eating a salad for lunch, my stomach is completely destroyed.",
-      "Sorry [TARGET], I completely forgot that tonight is a mandatory extended family dinner I must attend."
+      "Sorry [TARGET], I completely forgot that tonight is a mandatory extended family dinner I must attend.",
+      "I'm so sorry [TARGET], I have to find a 24-hour pharmacy because my mom got a severe asthma attack and her inhaler is empty.",
+      "Oh man [TARGET], my eye suddenly developed a massive swollen stye. I'm too ashamed to meet you with one eye half-closed.",
+      "Hello [TARGET], I got food poisoning from the ultra-spicy street food I had for lunch. My stomach feels like it's being wrung out.",
+      "Sorry [TARGET], my wallet and vehicle registration were pickpocketed while I was lining up for gas. I have to report to the police immediately.",
+      "Sorry [TARGET], my bedroom ceiling suddenly collapsed onto my bed because it was eaten by termites. I'm in shock and have to clean up."
     ],
     "ridiculous": [
       "I'm sorry [TARGET], I just realized our zodiac signs are fundamentally incompatible and Mercury is in retrograde. My aura reader said it's too dangerous.",
@@ -48,7 +53,12 @@
       "Oh man [TARGET], I accidentally sprayed bug killer on myself thinking it was deodorant.",
       "Sorry [TARGET], my only good shirt ripped a huge hole in the armpit when I bent down to tie my shoe.",
       "Hello [TARGET], I am trapped in a station public restroom because there's no toilet paper and the door is jammed.",
-      "Sorry [TARGET], I was chased by a vicious flock of wild pigeons from the park all the way to my house."
+      "Sorry [TARGET], I was chased by a vicious flock of wild pigeons from the park all the way to my house.",
+      "Sorry [TARGET], I accidentally shaved off exactly half of my mustache. I'm waiting for it to grow back or deciding if I should shave it all.",
+      "Oh man [TARGET], I can't make the date because I got wedged between the sliding doors of a minimart whose sensors are completely broken.",
+      "Sorry [TARGET], I accidentally fell asleep on the clothesline out back and now my body smells like stale sun mixed with laundry detergent.",
+      "Hello [TARGET], my pants zipper is so badly jammed I can't close it, and these are my only clean good pants.",
+      "Sorry [TARGET], I was chased by a mob of angry women who mistook me for a pot thief. I'm currently hiding in a sewer drain."
     ],
     "realityBending": [
       "Listen [TARGET], an agent from the future just appeared in my room and warned me that our date tonight triggers a zombie apocalypse in 2030. For the sake of humanity, I must cancel.",
@@ -73,7 +83,12 @@
       "Hey [TARGET], I accidentally pressed pause on the universe's time, and I forgot how to unpause it.",
       "Oh no [TARGET], my reflection in the mirror ran out and stole my identity, I am trapped in the mirror world.",
       "Hello [TARGET], I teleported to the medieval era and am currently being challenged to a duel by a knight.",
-      "Sorry [TARGET], the universe reset today's save file, our date was automatically wiped from reality's log."
+      "Sorry [TARGET], the universe reset today's save file, our date was automatically wiped from reality's log.",
+      "Sorry [TARGET], I accidentally activated a level-99 cupid charm. If I step outside, every citizen in the city will chase me down.",
+      "Hey [TARGET], my form suddenly turns into an ancient Greek marble statue every time a romantic song plays.",
+      "Oh no [TARGET], our date was detected as an anomaly causing the collapse of galactic balance by the inter-dimensional space police.",
+      "Hello [TARGET], I can't date you because I just realized that I am merely a fictional character in a novel you wrote yourself.",
+      "Sorry [TARGET], my lips were cursed by a shaman so that every time I try to flirt with you, the only sound that comes out is a screaming duck."
     ]
   },
   "meta": {

@@ -23,7 +23,12 @@
       "Aduh [TARGET], sakit gigiku tiba-tiba kumat parah banget sampai pipiku bengkak, aku harus ke dokter gigi sekarang.",
       "Halo [TARGET], aku terjebak kemacetan total selama 4 jam karena ada demo besar-besaran di jalan protokol.",
       "Maaf ya [TARGET], aku keracunan makanan setelah makan salad siang tadi, perutku hancur banget.",
-      "Sori [TARGET], aku benar-benar lupa kalau malam ini ada acara makan malam keluarga besar yang wajib hadir."
+      "Sori [TARGET], aku benar-benar lupa kalau malam ini ada acara makan malam keluarga besar yang wajib hadir.",
+      "Maaf banget [TARGET], aku harus nyari apotek 24 jam karena ibuku mendadak asma berat dan *inhaler*-nya habis.",
+      "Aduh [TARGET], sori banget mataku mendadak bintitan bengkak parah, aku malu banget mau ketemu kamu dengan mata setengah tertutup.",
+      "Halo [TARGET], aku keracunan seblak super pedas yang tadi siang kumakan, lambungku berasa dipelintir-pelintir dari dalam.",
+      "Maaf ya [TARGET], STNK dan dompetku kecopetan waktu aku lagi antre beli bensin, aku harus lapor polisi sekarang juga.",
+      "Sori [TARGET], genteng kamarku tiba-tiba ambruk menimpa kasur gara-gara dimakan rayap, aku syok banget dan harus bersih-bersih."
     ],
     "ridiculous": [
       "Maaf [TARGET], aku baru nyadar ternyata kita beda zodiak dan merkurius lagi *retrograde*. Menurut ahli auraku, ini sangat berbahaya buat keselamatan kita.",
@@ -48,7 +53,12 @@
       "Aduh [TARGET], aku nggak sengaja menyemprotkan cairan pembasmi serangga ke tubuhku karena mengira itu deodoran.",
       "Maaf [TARGET], satu-satunya kemeja bagusku robek besar di bagian ketiak saat aku mau pakai sepatu.",
       "Halo [TARGET], aku terjebak di toilet umum stasiun karena tisunya habis dan pintunya macet.",
-      "Sori [TARGET], aku dikejar sekawanan burung merpati liar yang beringas dari taman sampai ke rumah."
+      "Sori [TARGET], aku dikejar sekawanan burung merpati liar yang beringas dari taman sampai ke rumah.",
+      "Sori [TARGET], aku salah cukur kumis dan jadinya cuma sisa sebelah kiri aja. Aku nunggu numbuh lagi atau kucukur habis sekalian.",
+      "Aduh [TARGET], aku nggak bisa kencan karena aku terjepit di antara pintu *sliding* minimarket yang sensornya rusak parah.",
+      "Maaf [TARGET], aku nggak sengaja tertidur di jemuran baju belakang rumah dan sekarang badanku bau apek matahari bercampur sabun cuci.",
+      "Halo [TARGET], ritsleting celanaku nyangkut parah sampai nggak bisa ditutup, dan ini satu-satunya celana bagusku yang belum dicuci.",
+      "Sori [TARGET], aku dikejar kawanan ibu-ibu yang salah paham ngira aku maling panci kreditannya, aku masih ngumpet di gorong-gorong."
     ],
     "realityBending": [
       "Dengar [TARGET], agen dari masa depan baru saja datang ke kamarku dan memperingatkan bahwa kencan kita malam ini akan memicu kiamat zombie di tahun 2030. Demi umat manusia, aku harus *cancel*.",
@@ -73,7 +83,12 @@
       "Sori [TARGET], aku tidak sengaja menekan tombol *pause* pada waktu semesta, dan aku lupa cara untuk me-*resume*-nya.",
       "Aduh [TARGET], bayanganku di cermin berlari keluar dan mencuri identitasku, aku terjebak di dunia cermin.",
       "Halo [TARGET], aku berteleportasi ke era abad pertengahan dan saat ini sedang ditantang duel oleh seorang ksatria.",
-      "Maaf [TARGET], alam semesta me-reset *save file* hari ini, kencan kita otomatis terhapus dari log realita."
+      "Maaf [TARGET], alam semesta me-reset *save file* hari ini, kencan kita otomatis terhapus dari log realita.",
+      "Maaf [TARGET], aku secara tidak sengaja mengaktifkan pesona dewa asmara tingkat 99, jika aku keluar rumah, semua warga kota akan mengejarku.",
+      "Sori [TARGET], wujudku mendadak berubah menjadi patung pualam Yunani kuno setiap kali mendengarkan lagu romantis.",
+      "Aduh [TARGET], kencan kita terdeteksi sebagai anomali penyebab runtuhnya keseimbangan galaksi oleh polisi dimensi antariksa.",
+      "Halo [TARGET], aku nggak bisa nge-date karena aku baru sadar bahwa aku hanyalah karakter fiksi di dalam novel karanganmu sendiri.",
+      "Maaf [TARGET], bibirku dikutuk oleh dukun sehingga setiap kali aku mencoba merayumu, yang keluar hanyalah suara bebek berteriak."
     ]
   },
   "meta": {

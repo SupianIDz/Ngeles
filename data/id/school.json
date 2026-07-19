@@ -29,7 +29,12 @@
       "Halo [TARGET], saya tidak bisa ke sekolah karena tas punggung saya tertinggal di dalam kereta.",
       "Mohon maaf [TARGET], saya harus pergi ke kantor imigrasi pagi ini untuk memperpanjang paspor yang sangat mendesak.",
       "Permisi [TARGET], kunci pintu rumah saya patah di dalam lubang kunci, saya terkunci di dalam rumah.",
-      "Maaf [TARGET], mata saya tidak sengaja tercolok saat main basket kemarin, pandangan saya kabur."
+      "Maaf [TARGET], mata saya tidak sengaja tercolok saat main basket kemarin, pandangan saya kabur.",
+      "Maaf [TARGET], saya tidak bisa hadir karena tidak sengaja menelan biji duku dan tenggorokan saya tersumbat parah.",
+      "Halo [TARGET], ban sepeda saya bukan bocor, tapi dicuri orang beserta pelknya saat saya beli sarapan.",
+      "Mohon maaf [TARGET], seragam olahraga saya dipakai tidur oleh kucing tetangga dan sekarang penuh bulu serta kutu.",
+      "Permisi [TARGET], saya salah minum obat sirop penurun panas yang ternyata obat bius anjing peliharaan, saya sangat lemas.",
+      "Maaf [TARGET], pagar rumah saya digembok oleh penagih utang ayah saya dari luar, saya benar-benar terkurung."
     ],
     "ridiculous": [
       "Maaf Pak/Bu [TARGET], saya telat karena tadi pagi ayam tetangga berkokok dalam nada minor yang membuat saya merenungi tujuan hidup selama tiga jam.",
@@ -55,7 +60,12 @@
       "Halo [TARGET], saya terjebak di dalam lift apartemen bersama grup band mariachi yang terus bermain musik dengan keras.",
       "Mohon izin [TARGET], saya tidak sengaja menyemprotkan *pepper spray* ke wajah saya sendiri karena mengira itu parfum.",
       "Maaf [TARGET], saya dikejar anjing liar dari halte sampai kembali ke rumah, saya terlalu trauma untuk keluar lagi.",
-      "Waduh [TARGET], saya tiba-tiba lupa cara membaca teks alfabet, saya butuh waktu untuk belajar membaca lagi hari ini."
+      "Waduh [TARGET], saya tiba-tiba lupa cara membaca teks alfabet, saya butuh waktu untuk belajar membaca lagi hari ini.",
+      "Maaf [TARGET], saya telat karena saya harus menjadi penengah perkelahian dua tukang bubur ayam yang adu mekanik mangkok.",
+      "Halo [TARGET], saya batal sekolah karena rambut saya mengeras menjadi batu setelah mencoba bereksperimen dengan gel rambut kadaluarsa.",
+      "Mohon izin [TARGET], buku tugas matematika saya dimakan kambing kurban yang lepas dan masuk ke ruang tamu.",
+      "Maaf [TARGET], saya terjatuh ke selokan yang penuh lumpur hijau dan sekarang saya berbau seperti alien empang.",
+      "Waduh [TARGET], saya tidak sengaja mengelem mulut saya sendiri saat mengerjakan tugas kerajinan tangan prakarya."
     ],
     "realityBending": [
       "Maaf [TARGET], saya tidak bisa masuk hari ini karena saya terlempar ke dimensi paralel di mana sekolah belum ditemukan dan saya ditugaskan untuk menciptakannya.",
@@ -81,7 +91,12 @@
       "Halo [TARGET], saya tidak sengaja melakukan perjalanan waktu ke tahun 2050 saat sedang berlari pagi.",
       "Mohon izin [TARGET], saya terperosok ke dalam lubang tanpa dasar di halaman belakang rumah saya.",
       "Maaf [TARGET], saya terjebak di dalam dunia *video game*, saya harus mengalahkan bos terakhir untuk bisa keluar.",
-      "Waduh [TARGET], buku PR saya mendadak memiliki kesadaran sendiri, menumbuhkan kaki, dan berlari kabur dari rumah."
+      "Waduh [TARGET], buku PR saya mendadak memiliki kesadaran sendiri, menumbuhkan kaki, dan berlari kabur dari rumah.",
+      "Maaf [TARGET], tas ransel sekolah saya ternyata adalah portal menuju Narnia, saya tersedot ke dalamnya saat mencari pensil.",
+      "Halo [TARGET], bayangan saya di dinding memberontak, mencuri tas saya, dan lari berangkat ke sekolah duluan tanpa saya.",
+      "Mohon izin [TARGET], akuarium di kamarku bocor dan airnya mengubah kamarku menjadi dunia Atlantis yang penuh hiu lapar.",
+      "Maaf [TARGET], nilai gravitasi di raporku terlalu rendah, sehingga aku terus mengambang layaknya balon gas helium.",
+      "Waduh [TARGET], aku tidak sengaja mengucapkan mantra terlarang dari buku biologi dan sekarang aku berubah wujud menjadi sel amoeba raksasa."
     ]
   }
 }

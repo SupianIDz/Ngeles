@@ -29,7 +29,12 @@
       "Hello [TARGET], I can't come to school because I left my backpack on the train.",
       "I apologize [TARGET], I have to go to the immigration office this morning to urgently renew my passport.",
       "Excuse me [TARGET], my house key snapped inside the lock and I am locked inside my own home.",
-      "Sorry [TARGET], my eye was accidentally poked while playing basketball yesterday and my vision is severely blurred."
+      "Sorry [TARGET], my eye was accidentally poked while playing basketball yesterday and my vision is severely blurred.",
+      "Sorry [TARGET], I cannot attend today because I accidentally swallowed a large fruit pit and my throat is severely blocked.",
+      "Hello [TARGET], I'm late because my bicycle wheels were entirely stolen while I was buying breakfast.",
+      "I apologize [TARGET], the neighbor's cat slept on my gym uniform and now it's covered in fleas and fur.",
+      "Excuse me [TARGET], I mistakenly drank my dog's heavy sedative instead of my cough syrup, I am completely immobilized.",
+      "Sorry [TARGET], debt collectors padlocked my front gate from the outside, I am literally caged inside my own house."
     ],
     "ridiculous": [
       "I'm so sorry [TARGET], I'm late because the neighbor's rooster crowed in a minor key this morning, sending me into a three-hour existential crisis.",
@@ -55,7 +60,12 @@
       "Hello [TARGET], I am stuck inside an apartment elevator with a mariachi band playing extremely loud music.",
       "Excuse me [TARGET], I accidentally sprayed pepper spray on my own face thinking it was perfume.",
       "Sorry [TARGET], I was chased by a stray dog from the bus stop all the way home, I am too traumatized to go out.",
-      "Hey [TARGET], I suddenly forgot how to read the alphabet, I need time to relearn reading today."
+      "Hey [TARGET], I suddenly forgot how to read the alphabet, I need time to relearn reading today.",
+      "Sorry [TARGET], I'm late because I had to mediate a brutal mechanical bowl-throwing fight between two street food vendors.",
+      "Hello [TARGET], my hair hardened into solid rock after I experimented with a 10-year expired hair gel.",
+      "Excuse me [TARGET], my math homework was eaten by a rogue sacrificial goat that barged into my living room.",
+      "Sorry [TARGET], I fell into a ditch full of glowing green mud and now I smell like a swamp alien.",
+      "Hey [TARGET], I accidentally superglued my own mouth shut while doing an arts and crafts assignment."
     ],
     "realityBending": [
       "Sorry [TARGET], I won't be in class today because I accidentally stepped into a parallel dimension where school hasn't been invented yet, and it's my duty to establish it.",
@@ -81,7 +91,12 @@
       "Hello [TARGET], I accidentally time-traveled to the year 2050 while doing my morning jog.",
       "Excuse me [TARGET], I fell into a bottomless pit in my backyard and am currently still falling.",
       "Sorry [TARGET], I am trapped inside a video game, I have to defeat the final boss before I can exit.",
-      "Hey [TARGET], my homework suddenly gained self-awareness, grew legs, and ran away from home."
+      "Hey [TARGET], my homework suddenly gained self-awareness, grew legs, and ran away from home.",
+      "Sorry [TARGET], my school backpack is actually a portal to Narnia. I got sucked in while trying to find my pencil.",
+      "Hello [TARGET], my shadow on the wall rebelled, stole my bag, and ran to school without me.",
+      "Excuse me [TARGET], my fish tank leaked and its water transformed my bedroom into an Atlantis dimension filled with hungry sharks.",
+      "Sorry [TARGET], my gravity grades were too low, causing me to continuously float upwards like a helium balloon.",
+      "Hey [TARGET], I accidentally chanted a forbidden spell from the biology book and morphed into a giant amoeba cell."
     ]
   }
 }
