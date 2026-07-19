@@ -22,7 +22,12 @@
       "Hello [TARGET], I'll be coming in late today, my car key broke off inside the ignition.",
       "Excuse me [TARGET], I need to take the day off because my neighbor is doing major renovations and the dust is triggering my asthma severely.",
       "Sorry [TARGET], I must be absent today because my babysitter suddenly fell ill and I have no one to watch my kid.",
-      "I'm sorry [TARGET], I cannot make it because there is an emergency road repair right in front of my driveway blocking my car."
+      "I'm sorry [TARGET], I cannot make it because there is an emergency road repair right in front of my driveway blocking my car.",
+      "Sorry [TARGET], my car tire blew out on the highway and I am waiting for a tow truck.",
+      "Hello [TARGET], I am stuck inside my apartment elevator for 30 minutes, the technician is on the way.",
+      "Excuse me [TARGET], my blood pressure dropped suddenly and I fainted this morning, the doctor advised bed rest.",
+      "Sorry [TARGET], I have to rush my father to the ER due to a sudden heart attack.",
+      "I apologize [TARGET], my house was just broken into by burglars, I am waiting for the police to investigate."
     ],
     "ridiculous": [
       "My sincerest apologies [TARGET], but my cat had an emotional breakdown this morning after failing to catch a lizard. I can't in good conscience leave during her recovery.",
@@ -41,7 +46,12 @@
       "Hello [TARGET], I'm late because I had to be a silent witness to a stray cat wedding taking place in my garage.",
       "Excuse me [TARGET], I accidentally applied glow-in-the-dark wall paint instead of lotion this morning, I need time to scrub it off.",
       "Sorry boss [TARGET], I can't come in. My kitchen coffee maker exploded and is currently holding me hostage with bursts of hot espresso.",
-      "Hey [TARGET], my pet parrot learned the sound of the fire alarm and my neighbors and I spent three hours evacuating in a panic."
+      "Hey [TARGET], my pet parrot learned the sound of the fire alarm and my neighbors and I spent three hours evacuating in a panic.",
+      "Sorry [TARGET], I am being chased by a flock of wild geese in the park and had to climb a tree, I dare not come down.",
+      "Hello [TARGET], I accidentally swallowed a flying fly and I cannot stop coughing violently.",
+      "Excuse me [TARGET], I mistakenly wore my uncle's giant clown shoes and the zipper is jammed, I can't take them off.",
+      "Sorry [TARGET], the neighbor's goat broke in and ate my tie along with my presentation documents.",
+      "Hey [TARGET], I got stuck in a children's playground swing and the firefighters are currently trying to cut the metal."
     ],
     "realityBending": [
       "Sorry boss [TARGET], I was forcibly recruited by interdimensional agents to repair a space-time leak in 2045. I should be back in this timeline by tomorrow, maybe.",
@@ -60,7 +70,12 @@
       "Hello [TARGET], I accidentally swapped bodies with my pet goldfish. Please give me some time to figure out how to reverse the spell.",
       "Excuse me [TARGET], my house rendered in 144p resolution this morning, and I literally cannot find the pixels for my front door.",
       "Sorry [TARGET], I was just recruited by the wizard council to defend earth from astral dragons, I need one day of leave.",
-      "Hey [TARGET], gravity on the highway to the office suddenly reversed, my car is floating and stuck in a cirrus cloud."
+      "Hey [TARGET], gravity on the highway to the office suddenly reversed, my car is floating and stuck in a cirrus cloud.",
+      "Sorry [TARGET], I accidentally got sucked into my high-tech vacuum cleaner, currently waiting for the reverse mode.",
+      "Hello [TARGET], time suddenly stopped but only for me, I need a whole day to catch up with your timeline.",
+      "Excuse me [TARGET], I got sucked into the Mona Lisa painting in my living room and I'm lost in the museum.",
+      "Sorry [TARGET], my WiFi router accidentally created a mini black hole that swallowed my office desk.",
+      "Hey [TARGET], my body turned into a 2D drawing after being crushed by a comic book, I need time to revert to 3D."
     ]
   }
 }

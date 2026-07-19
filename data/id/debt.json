@@ -13,7 +13,12 @@
       "Halo [TARGET], gajiku bulan ini dipotong gara-gara banyak absen, aku janji bulan depan aku cicil dua kali lipat.",
       "Aduh [TARGET], aplikasi bank-ku keblokir gara-gara salah masukin PIN 3 kali, ini harus diurus ke kantor cabang dulu.",
       "Maaf [TARGET], kontrakan rumahku naik dan aku dipaksa bayar hari ini juga, sisa uangku habis sama sekali.",
-      "Sori ya [TARGET], uangku kepakai buat benerin motor yang rusak parah ditabrak orang dari belakang."
+      "Sori ya [TARGET], uangku kepakai buat benerin motor yang rusak parah ditabrak orang dari belakang.",
+      "Maaf banget [TARGET], uangnya kepakai buat bayar denda pajak kendaraan yang nunggak bertahun-tahun.",
+      "Halo [TARGET], dompetku hilang beserta semua kartu ATM-ku, aku lagi ngurus pemblokiran dan kartu baru di bank.",
+      "Aduh [TARGET], tempat kerjaku tiba-tiba bangkrut dan gajiku bulan ini tidak dibayarkan sama sekali.",
+      "Maaf [TARGET], tabunganku habis dipakai buat benerin atap rumah yang ambruk karena angin kencang kemarin.",
+      "Sori ya [TARGET], uangku dipinjam sama kakakku buat nebus motornya yang ditahan bengkel, minggu depan baru diganti."
     ],
     "ridiculous": [
       "Maaf [TARGET], uang yang mau kubayar dimakan rayap karena kusimpan di bawah kasur. Aku lagi usahakan ke BI buat tukar uang rusak.",
@@ -28,7 +33,12 @@
       "Aduh [TARGET], celenganku ternyata dibobol sama tuyul dari kampung sebelah, ludes semuanya.",
       "Maaf [TARGET], uangnya aku investasikan ke peternakan dinosaurus virtual, katanya minggu depan bakal profit besar.",
       "Halo [TARGET], mesin ATM yang mau kupakai malah mengeluarkan suara ketawa lalu memakan kartuku tanpa sisa.",
-      "Sori [TARGET], uang tunainya aku kasih makan ke kambing karena kupikir itu daun pisang, aku lagi ngantuk banget."
+      "Sori [TARGET], uang tunainya aku kasih makan ke kambing karena kupikir itu daun pisang, aku lagi ngantuk banget.",
+      "Sori [TARGET], uangnya dimakan sama sapi pas aku lagi lewat peternakan, sapinya kelihatan lapar banget.",
+      "Aduh [TARGET], uang tunainya aku kasihin ke patung pengemis karena kupikir itu orang beneran.",
+      "Maaf [TARGET], aku lagi nungguin hujan uang karena kata peramal cuaca hari ini akan ada badai cuan.",
+      "Halo [TARGET], uang di ATM-ku berubah jadi koin receh semua, aku butuh waktu seminggu buat ngitungnya.",
+      "Sori [TARGET], aku nggak bisa bayar karena jariku kesemutan setiap kali mau ngetik PIN transfer."
     ],
     "realityBending": [
       "Dengar [TARGET], secara teknis uang itu adalah energi. Dan menurut Hukum Termodinamika, energi tidak bisa diciptakan atau dimusnahkan. Jadi uangmu tidak hilang, hanya berubah bentuk menjadi aura kosmik di sekitarku.",
@@ -43,7 +53,12 @@
       "Sori [TARGET], uang tiba-tiba berubah wujud menjadi sekumpulan kupu-kupu emas dan terbang meninggalkan dompetku.",
       "Aduh [TARGET], dewa kemiskinan sedang memberkatiku sehingga setiap uang yang kusentuh otomatis menguap menjadi udara.",
       "Halo [TARGET], akun bankku diretas oleh entitas AI dari masa depan yang menganggap konsep hutang adalah produk primitif manusia.",
-      "Maaf [TARGET], sistem perbankan global sedang dilanda anomali ruang waktu, sehingga saldo kita kembali ke angka nol seperti saat baru lahir."
+      "Maaf [TARGET], sistem perbankan global sedang dilanda anomali ruang waktu, sehingga saldo kita kembali ke angka nol seperti saat baru lahir.",
+      "Maaf [TARGET], sistem perbankan di realitaku masih menggunakan sistem tukar menukar kerang purba, uang tidak laku di sini.",
+      "Sori [TARGET], saldo rekeningku terkunci di dalam peti ajaib yang kuncinya hilang di lautan antartika.",
+      "Aduh [TARGET], uangku mendadak berevolusi menjadi makhluk berkesadaran tinggi dan menolak untuk ditransfer.",
+      "Halo [TARGET], hutangku padamu telah dibayar oleh diriku dari dimensi alternatif menggunakan logam mulia kosmik, cek saja.",
+      "Maaf [TARGET], angka nol di saldoku dicuri oleh perompak waktu dari abad ke-22, nilainya jadi minus."
     ]
   },
   "meta": {

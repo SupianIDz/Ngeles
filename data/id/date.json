@@ -13,7 +13,12 @@
       "Aduh [TARGET], sori perutku lagi nggak bersahabat dari tadi pagi, kayaknya kena radang usus ringan.",
       "Halo [TARGET], ban motorku bocor di tempat yang sepi banget, ini masih nyari tukang tambal ban, kita atur ulang jadwal ya.",
       "Maaf ya [TARGET], cuaca lagi ekstrem banget badai angin, aku takut bahaya kalau maksain jalan sekarang.",
-      "Sori [TARGET], aku baru inget ada jadwal periksa gigi bulanan yang udah ku-booking dari tiga bulan lalu dan nggak bisa digeser."
+      "Sori [TARGET], aku baru inget ada jadwal periksa gigi bulanan yang udah ku-booking dari tiga bulan lalu dan nggak bisa digeser.",
+      "Maaf banget [TARGET], bosku nge-WA suruh revisi dokumen malam ini juga, sumpah nggak bisa diganggu gugat.",
+      "Aduh [TARGET], kucing kesayanganku kabur dari rumah, ini aku lagi keliling kompleks nyariin dia.",
+      "Halo [TARGET], ada pemadaman listrik se-kecamatan dan rumahku gelap gulita, aku nggak bisa mandi atau siap-siap.",
+      "Maaf ya [TARGET], aku ketilang polisi karena STNK-ku ternyata udah mati, urusannya agak panjang nih.",
+      "Sori [TARGET], sepupuku yang masih kecil tiba-tiba dititipin ke rumahku karena ibunya masuk rumah sakit."
     ],
     "ridiculous": [
       "Maaf [TARGET], aku baru nyadar ternyata kita beda zodiak dan merkurius lagi *retrograde*. Menurut ahli auraku, ini sangat berbahaya buat keselamatan kita.",
@@ -28,7 +33,12 @@
       "Aduh [TARGET], celanaku robek pas lagi pakai sepatu, dan semua celana panjangku yang lain lagi dicuci semua.",
       "Maaf [TARGET], aku nggak bisa nge-date karena kucingku melototin aku terus seolah-olah dia ngelarang aku pacaran.",
       "Halo [TARGET], aku nggak bisa keluar, aku ketiduran pas lagi maskeran lumpur dan maskernya sekarang mengeras kayak semen.",
-      "Sori [TARGET], aku nggak sengaja nelan permen karet dan sekarang aku merasa harus bed rest supaya ususku nggak lengket."
+      "Sori [TARGET], aku nggak sengaja nelan permen karet dan sekarang aku merasa harus bed rest supaya ususku nggak lengket.",
+      "Sori [TARGET], aku nggak sengaja pakai parfum rasa sate ayam, nanti malah diikutin anjing liar kalau aku keluar.",
+      "Aduh [TARGET], resleting tasku nyangkut di rambutku sendiri, ini lagi berusaha digunting hati-hati.",
+      "Maaf [TARGET], aku nggak bisa nge-date karena aku lagi latihan ngomong sama cermin tapi cerminnya malah ngejek aku.",
+      "Halo [TARGET], aku batal datang karena kakiku digigit semut dan aku nggak mau merusak ekosistem dengan membunuhnya.",
+      "Sori [TARGET], aku salah jadwal. Aku pikir hari ini hari kiamat, jadi aku ngumpet di bunker seharian."
     ],
     "realityBending": [
       "Dengar [TARGET], agen dari masa depan baru saja datang ke kamarku dan memperingatkan bahwa kencan kita malam ini akan memicu kiamat zombie di tahun 2030. Demi umat manusia, aku harus *cancel*.",
@@ -43,7 +53,12 @@
       "Sori [TARGET], tempat kencan kita tiba-tiba pindah posisi ke luar angkasa, aku tidak punya baju astronot yang cocok.",
       "Aduh [TARGET], tombol 'Undo' pada realitaku macet, aku terus-terusan kembali ke hari kemarin setiap mau berangkat.",
       "Halo [TARGET], aku diculik oleh alien yang ingin mempelajari cara manusia melakukan pdkt, mereka butuh aku sebagai sampel.",
-      "Maaf [TARGET], diriku dari alam semesta lain datang dan menggantikanku pergi kencan denganmu, semoga kamu suka padanya."
+      "Maaf [TARGET], diriku dari alam semesta lain datang dan menggantikanku pergi kencan denganmu, semoga kamu suka padanya.",
+      "Maaf [TARGET], aku baru saja membaca ramalan bintang kuno yang mengatakan kencan kita akan menyebabkan meteor jatuh ke kotamu.",
+      "Sori [TARGET], aku terjebak di dalam TV dan sedang menjadi cameo di sinetron tahun 90-an.",
+      "Aduh [TARGET], aku mendadak kehilangan konsep cinta karena memori emosional-ku dihapus oleh alien.",
+      "Halo [TARGET], waktu berjalan dua kali lipat lebih cepat di sekitarku, jika aku kencan denganmu, aku akan menjadi tua dalam hitungan menit.",
+      "Maaf [TARGET], bumi baru saja di-reset oleh *developer* kosmik, kencan kita tidak pernah ter-simpan di *save data*."
     ]
   },
   "meta": {

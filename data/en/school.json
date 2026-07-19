@@ -19,7 +19,12 @@
       "Hello [TARGET], I am arriving late because my school uniform is still soaking wet due to a broken washing machine.",
       "I apologize [TARGET], I can't attend because there is a mandatory traditional family event in my hometown that requires my presence.",
       "Excuse me [TARGET], I am taking sick leave today. My throat hurts terribly and I have completely lost my voice.",
-      "Sorry [TARGET], I'm late because I was stuck in a massive traffic jam caused by a fallen tree on the main road."
+      "Sorry [TARGET], I'm late because I was stuck in a massive traffic jam caused by a fallen tree on the main road.",
+      "Sorry [TARGET], I cannot attend today because I got food poisoning from eating street food last night.",
+      "Hello [TARGET], I'm late because the morning train derailed and all stations are closed.",
+      "I apologize [TARGET], I have to submit my scholarship documents before the deadline at noon today.",
+      "Excuse me [TARGET], I fell down the stairs at home and severely sprained my ankle.",
+      "Sorry [TARGET], the city water supply has been completely shut off since yesterday, I haven't showered at all."
     ],
     "ridiculous": [
       "I'm so sorry [TARGET], I'm late because the neighbor's rooster crowed in a minor key this morning, sending me into a three-hour existential crisis.",
@@ -35,7 +40,12 @@
       "Hello [TARGET], I'm late because I had to chase a squirrel that stole my favorite eraser all the way to the city park.",
       "Excuse me [TARGET], I'm skipping school because my little sibling accidentally shaved a bald spot on my head while I was sleeping.",
       "Sorry [TARGET], I am trapped inside my bathroom because the doorknob spontaneously crumbled into dust when I touched it.",
-      "Hey [TARGET], my left and right shoes keep arguing and walking in opposite directions this morning."
+      "Hey [TARGET], my left and right shoes keep arguing and walking in opposite directions this morning.",
+      "Sorry [TARGET], my school hat was kidnapped by an eagle while I was walking to school.",
+      "Hello [TARGET], I can't attend because my hair puffed up like a lion after I accidentally used dog shampoo.",
+      "Excuse me [TARGET], I'm late because I had to discuss global inflation with a street food vendor.",
+      "Sorry [TARGET], my backpack zipper got caught on a neighbor's fence and I can't leave it behind.",
+      "Hey [TARGET], I accidentally wore my little sibling's elementary uniform and it ripped when I tried to breathe."
     ],
     "realityBending": [
       "Sorry [TARGET], I won't be in class today because I accidentally stepped into a parallel dimension where school hasn't been invented yet, and it's my duty to establish it.",
@@ -51,7 +61,12 @@
       "Hello [TARGET], my schedule was erased from the universe's matrix memory today, the system doesn't recognize me as a student.",
       "Excuse me [TARGET], time is running backwards in my house. I am currently re-eating yesterday's dinner.",
       "Sorry [TARGET], my history textbook opened a portal to the past and I was forced to attend a war preparation meeting.",
-      "Hey [TARGET], the writings in my notebook suddenly came alive and demanded human rights, I am currently negotiating with them."
+      "Hey [TARGET], the writings in my notebook suddenly came alive and demanded human rights, I am currently negotiating with them.",
+      "Sorry [TARGET], our school was never on the map, I drove around the city but the building vanished.",
+      "Hello [TARGET], I am trapped inside a simulation glitch while trying to cross the street.",
+      "Excuse me [TARGET], the whiteboard in my room sucked me into a math dimension, I must solve calculus to escape.",
+      "Sorry [TARGET], I suddenly gained telepathic powers and the thoughts of all students are making my head explode.",
+      "Hey [TARGET], my biology textbook spawned a T-Rex dinosaur, I am currently hiding under my bed."
     ]
   }
 }

@@ -13,7 +13,12 @@
       "Hello [TARGET], my salary was cut this month due to too many absences. I promise to pay you double next month in installments.",
       "Oh man [TARGET], my banking app got blocked because I entered the wrong PIN 3 times. I have to sort it out at the branch office.",
       "Sorry [TARGET], my landlord raised the rent and forced me to pay today, I literally have zero cash left.",
-      "Sorry [TARGET], my money went to fixing my motorcycle that was badly damaged after being rear-ended."
+      "Sorry [TARGET], my money went to fixing my motorcycle that was badly damaged after being rear-ended.",
+      "I'm really sorry [TARGET], the money was used to pay off my vehicle tax fines that I hadn't paid for years.",
+      "Hello [TARGET], my wallet was lost along with all my ATM cards, I'm currently at the bank blocking them.",
+      "Oh man [TARGET], my workplace suddenly went bankrupt and my salary for this month is not being paid at all.",
+      "Sorry [TARGET], my savings were drained to fix the roof of my house that collapsed due to strong winds yesterday.",
+      "Sorry [TARGET], my money was borrowed by my brother to retrieve his motorcycle from the shop, he'll pay me next week."
     ],
     "ridiculous": [
       "I'm sorry [TARGET], the cash I saved for you was eaten by termites under my mattress. I'm currently trying to piece the bills back together.",
@@ -28,7 +33,12 @@
       "Oh man [TARGET], my piggy bank was broken into by a mythical goblin from the next village, everything is gone.",
       "Sorry [TARGET], I invested the money in a virtual dinosaur farm. They promised massive profits next week.",
       "Hello [TARGET], the ATM machine I tried to use literally laughed at me and swallowed my card without a trace.",
-      "Sorry [TARGET], I fed the cash to a goat because I was so sleepy I thought it was banana leaves."
+      "Sorry [TARGET], I fed the cash to a goat because I was so sleepy I thought it was banana leaves.",
+      "Sorry [TARGET], the money was eaten by a cow when I walked past a farm, the cow looked extremely hungry.",
+      "Oh man [TARGET], I handed the cash to a beggar statue because I thought it was a real person.",
+      "Sorry [TARGET], I'm waiting for it to rain money because the weather forecaster said there will be a cash storm today.",
+      "Hello [TARGET], the money in my ATM turned entirely into pennies, I need a week just to count them.",
+      "Sorry [TARGET], I can't pay because my fingers go numb every time I try to type my transfer PIN."
     ],
     "realityBending": [
       "Listen [TARGET], technically money is energy. According to the Laws of Thermodynamics, energy cannot be created or destroyed. So your money isn't gone, it has just changed into a cosmic aura surrounding me.",
@@ -43,7 +53,12 @@
       "Hey [TARGET], the money suddenly transformed into a swarm of golden butterflies and flew out of my wallet.",
       "Oh no [TARGET], the god of poverty is blessing me so that every bill I touch automatically evaporates into thin air.",
       "Hello [TARGET], my bank account was hacked by a future AI entity that deemed the concept of debt as a primitive human flaw.",
-      "Sorry [TARGET], the global banking system is hit by a spacetime anomaly, returning all our balances to zero like when we were born."
+      "Sorry [TARGET], the global banking system is hit by a spacetime anomaly, returning all our balances to zero like when we were born.",
+      "Sorry [TARGET], the banking system in my reality still uses ancient shells, your money has no value here.",
+      "Hey [TARGET], my account balance is locked inside a magic chest whose key was lost in the Antarctic Ocean.",
+      "Oh no [TARGET], my money suddenly evolved into highly conscious beings and refused to be transferred.",
+      "Hello [TARGET], my debt to you was paid by an alternate version of me using cosmic precious metals, just check.",
+      "Sorry [TARGET], the zeros in my balance were stolen by time pirates from the 22nd century, it's now in the negatives."
     ]
   },
   "meta": {

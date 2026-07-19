@@ -13,7 +13,12 @@
       "Oh man [TARGET], sorry but my stomach has been really unfriendly since morning, I think I have mild enteritis.",
       "Hello [TARGET], my motorcycle tire blew out in the middle of nowhere. Still looking for a repair guy, let's reschedule.",
       "Sorry [TARGET], the weather is extremely bad with severe wind storms, I'm afraid it's too dangerous to travel now.",
-      "Sorry [TARGET], I just remembered I have a monthly dental appointment that I booked three months ago and can't be moved."
+      "Sorry [TARGET], I just remembered I have a monthly dental appointment that I booked three months ago and can't be moved.",
+      "I'm so sorry [TARGET], my boss just texted me to revise a document tonight, I absolutely cannot ignore it.",
+      "Oh man [TARGET], my beloved cat ran away from home, I'm currently circling the neighborhood looking for him.",
+      "Hello [TARGET], there's a district-wide power outage and my house is pitch black, I can't shower or get ready.",
+      "Sorry [TARGET], I got a ticket from the police because my vehicle registration is expired, this will take a while.",
+      "Sorry [TARGET], my little cousin was suddenly dropped off at my house because his mom was hospitalized."
     ],
     "ridiculous": [
       "I'm sorry [TARGET], I just realized our zodiac signs are fundamentally incompatible and Mercury is in retrograde. My aura reader said it's too dangerous.",
@@ -28,7 +33,12 @@
       "Oh man [TARGET], my pants ripped while putting on my shoes, and all my other pants are currently in the laundry.",
       "Sorry [TARGET], I can't go on the date because my cat keeps glaring at me as if he's forbidding me from dating.",
       "Hello [TARGET], I can't go out. I fell asleep with a mud mask on and now it has hardened into solid cement.",
-      "Sorry [TARGET], I accidentally swallowed chewing gum and now I feel the need to bed-rest so my intestines don't stick together."
+      "Sorry [TARGET], I accidentally swallowed chewing gum and now I feel the need to bed-rest so my intestines don't stick together.",
+      "Sorry [TARGET], I accidentally used chicken satay flavored perfume, I'll be followed by stray dogs if I go out.",
+      "Oh man [TARGET], the zipper on my bag got tangled in my own hair, I'm trying to carefully cut it out.",
+      "Sorry [TARGET], I can't go on the date because I was practicing talking to a mirror but the mirror mocked me.",
+      "Hello [TARGET], I cancelled because an ant bit my foot and I don't want to ruin the ecosystem by killing it.",
+      "Sorry [TARGET], I got the date wrong. I thought today was doomsday, so I hid in my bunker all day."
     ],
     "realityBending": [
       "Listen [TARGET], an agent from the future just appeared in my room and warned me that our date tonight triggers a zombie apocalypse in 2030. For the sake of humanity, I must cancel.",
@@ -43,7 +53,12 @@
       "Hey [TARGET], the place we agreed on suddenly shifted its coordinates into outer space, and I don't own a spacesuit.",
       "Oh no [TARGET], the 'Undo' button on my reality is jammed, I keep getting thrown back to yesterday every time I try to leave.",
       "Hello [TARGET], I was abducted by aliens who want to study human flirting behavior, they need me as a sample.",
-      "Sorry [TARGET], an alternate version of me from another universe came and replaced me on our date, hope you like them."
+      "Sorry [TARGET], an alternate version of me from another universe came and replaced me on our date, hope you like them.",
+      "Sorry [TARGET], I just read an ancient horoscope stating that our date will cause a meteor to strike your city.",
+      "Hey [TARGET], I'm trapped inside my TV and currently making a cameo in a 90s soap opera.",
+      "Oh no [TARGET], I suddenly lost the concept of love because my emotional memories were wiped by aliens.",
+      "Hello [TARGET], time runs twice as fast around me. If I date you, I will grow old in a matter of minutes.",
+      "Sorry [TARGET], the earth was just reset by a cosmic developer, our date was never stored in the save data."
     ]
   },
   "meta": {

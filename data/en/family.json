@@ -22,7 +22,12 @@
       "Hello [TARGET], I'm really sorry but I have a high fever, and I'm afraid of infecting the cousins and the little kids.",
       "Oh no [TARGET], my car broke down and has to be towed, so I can't make it to our hometown today.",
       "Sorry [TARGET], I have an urgent matter dealing with my lost ID card and important documents because my wallet was stolen last night.",
-      "Sorry [TARGET], there's a gas leak in my kitchen and I have to wait for the technician to come fix it."
+      "Sorry [TARGET], there's a gas leak in my kitchen and I have to wait for the technician to come fix it.",
+      "Sorry [TARGET], I can't come to the family event because my child got severe diarrhea since dawn.",
+      "Hello [TARGET], I'm really sorry I have a sudden job interview schedule that I absolutely cannot reschedule.",
+      "Oh no [TARGET], my roof is leaking terribly from last night's rain, I'm busy moving all the furniture.",
+      "Sorry [TARGET], I bought the wrong train ticket, it's actually for tomorrow, so I can't go home today.",
+      "Sorry [TARGET], I have to standby at home waiting for a courier to deliver super important documents from my office."
     ],
     "ridiculous": [
       "Deeply sorry [TARGET], my only decent family-gathering outfit was commandeered as a bed by a stray cat and is now covered in inexplicably magical fur.",
@@ -41,7 +46,12 @@
       "Hey [TARGET], my pet pigeon is heartbroken over the neighbor's dove, and I need to console him all day.",
       "Oh no [TARGET], I'm trapped inside my room because my dog swallowed the doorknob.",
       "Sorry [TARGET], I'm busy looking for the end of the rainbow behind my house because I heard there's a pot of gold.",
-      "Hello [TARGET], I can't come because my partner is punishing me by making me count the exact number of grains in a kilo of rice."
+      "Hello [TARGET], I can't come because my partner is punishing me by making me count the exact number of grains in a kilo of rice.",
+      "Sorry [TARGET], I can't come because I'm busy giving life advice to the neighbor's rooster whose crow sounds out of tune.",
+      "Hey [TARGET], a soybean got stuck in my nose and I have to find an ENT specialist open on a holiday.",
+      "Oh no [TARGET], I can't travel because my suitcase refuses to be closed even though it's completely empty.",
+      "Sorry [TARGET], I'm waiting for the ice cubes in the fridge to freeze, the process requires my full supervision.",
+      "Hello [TARGET], I can't come because I forgot how to walk, currently watching a tutorial on YouTube."
     ],
     "realityBending": [
       "So sorry uncle/aunt [TARGET], I'm not currently on Earth. I accidentally walked through a wardrobe portal and I'm now stranded in Narnia with a very talkative lion.",
@@ -60,7 +70,12 @@
       "Hey [TARGET], my physical body is hijacked by a 4th-dimensional being, this is just a hologram of me apologizing.",
       "Oh no [TARGET], the flow of time in my house slowed down. 1 hour for you is 1 year for me. I can't afford the trip.",
       "Sorry [TARGET], my house was sucked into a micro black hole that spawned from my microwave oven.",
-      "Hello [TARGET], our family tree suddenly came alive and is scolding me for rarely watering its roots."
+      "Hello [TARGET], our family tree suddenly came alive and is scolding me for rarely watering its roots.",
+      "Sorry [TARGET], I accidentally deleted our family tree from the universe database, we are now bloodless strangers.",
+      "Hey [TARGET], my house shifted to the 8th dimension, I have to wait for planetary rotation to align with earth again.",
+      "Oh no [TARGET], I'm locked out of my house because my front door turned into a surrealist painting.",
+      "Sorry [TARGET], I am currently participating in a galactic tournament against future robots to save the earth.",
+      "Hello [TARGET], my true form changed into pure energy, you won't be able to see me even if I come."
     ]
   }
 }

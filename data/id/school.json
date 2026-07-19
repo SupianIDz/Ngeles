@@ -19,7 +19,12 @@
       "Halo [TARGET], saya datang terlambat karena seragam sekolah saya masih basah kuyup akibat mesin cuci yang rusak.",
       "Mohon maaf [TARGET], saya tidak bisa hadir karena ada acara adat di kampung halaman yang mewajibkan seluruh anggota keluarga hadir.",
       "Permisi [TARGET], saya izin sakit hari ini, tenggorokan saya sangat sakit dan suara saya hilang total.",
-      "Maaf [TARGET], saya telat karena terjebak kemacetan parah akibat ada pohon tumbang di jalan utama."
+      "Maaf [TARGET], saya telat karena terjebak kemacetan parah akibat ada pohon tumbang di jalan utama.",
+      "Maaf [TARGET], saya izin tidak masuk karena saya keracunan makanan setelah makan di pinggir jalan semalam.",
+      "Halo [TARGET], saya telat karena kereta jadwal pagi anjlok dan semua stasiun ditutup.",
+      "Mohon maaf [TARGET], saya harus mengurus dokumen beasiswa yang deadline-nya siang ini di kantor dinas pendidikan.",
+      "Permisi [TARGET], saya terjatuh dari tangga rumah dan pergelangan kaki saya terkilir parah.",
+      "Maaf [TARGET], air PDAM mati total dari kemarin sehingga saya tidak bisa mandi sama sekali pagi ini."
     ],
     "ridiculous": [
       "Maaf Pak/Bu [TARGET], saya telat karena tadi pagi ayam tetangga berkokok dalam nada minor yang membuat saya merenungi tujuan hidup selama tiga jam.",
@@ -35,7 +40,12 @@
       "Halo [TARGET], saya telat karena saya harus mengejar tupai yang mencuri penghapus kesayangan saya sampai ke taman kota.",
       "Mohon izin [TARGET], saya tidak sekolah karena rambut saya tidak sengaja tercukur pitak oleh adik saya saat tertidur.",
       "Maaf [TARGET], saya terjebak di dalam kamar mandi karena knop pintunya tiba-tiba hancur menjadi debu saat dipegang.",
-      "Waduh [TARGET], sepatu kanan dan kiri saya terus bertengkar dan berjalan ke arah yang berlawanan pagi ini."
+      "Waduh [TARGET], sepatu kanan dan kiri saya terus bertengkar dan berjalan ke arah yang berlawanan pagi ini.",
+      "Maaf [TARGET], topi seragam saya diculik oleh elang yang melintas saat saya berjalan kaki ke sekolah.",
+      "Halo [TARGET], saya tidak bisa hadir karena rambut saya mengembang seperti singa setelah salah pakai sampo anjing.",
+      "Mohon izin [TARGET], saya telat karena saya harus berdiskusi dengan tukang cilok tentang inflasi global.",
+      "Maaf [TARGET], ritsleting tas saya nyangkut di pagar tetangga dan saya tidak bisa meninggalkannya.",
+      "Waduh [TARGET], saya salah pakai seragam SD adik saya dan baju ini sobek saat saya mencoba bernapas."
     ],
     "realityBending": [
       "Maaf [TARGET], saya tidak bisa masuk hari ini karena saya terlempar ke dimensi paralel di mana sekolah belum ditemukan dan saya ditugaskan untuk menciptakannya.",
@@ -51,7 +61,12 @@
       "Halo [TARGET], hari ini jadwal saya terhapus dari memori matriks semesta, sistem mendeteksi saya tidak terdaftar sebagai murid.",
       "Mohon izin [TARGET], waktu berjalan mundur di rumah saya, saat ini saya sedang mengulang makan malam kemarin.",
       "Maaf [TARGET], buku sejarah saya membuka portal ke masa lalu dan saya terpaksa harus menghadiri rapat persiapan kemerdekaan.",
-      "Waduh [TARGET], tulisan di buku catatan saya tiba-tiba hidup dan menuntut hak asasi sebagai karya sastra, saya sedang bernegosiasi."
+      "Waduh [TARGET], tulisan di buku catatan saya tiba-tiba hidup dan menuntut hak asasi sebagai karya sastra, saya sedang bernegosiasi.",
+      "Maaf [TARGET], sekolah kita ternyata tidak pernah ada di peta, saya sudah keliling kota tapi ruangannya hilang.",
+      "Halo [TARGET], saya terperangkap di dalam *glitch* simulasi saat mencoba menyeberang jalan.",
+      "Mohon izin [TARGET], papan tulis di kamarku menghisapku ke dimensi matematika, saya harus menyelesaikan soal kalkulus untuk keluar.",
+      "Maaf [TARGET], saya mendadak memiliki kekuatan telepati dan suara pikiran semua siswa membuat kepala saya meledak.",
+      "Waduh [TARGET], buku biologi saya mengeluarkan dinosaurus T-Rex, saya sedang bersembunyi di bawah kasur."
     ]
   }
 }

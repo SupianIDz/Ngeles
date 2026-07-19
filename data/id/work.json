@@ -22,7 +22,12 @@
       "Halo [TARGET], saya izin terlambat masuk hari ini, kunci mobil saya patah di dalam lubang kunci kontak.",
       "Permisi [TARGET], saya izin tidak masuk karena tetangga rumah saya sedang renovasi dan debunya membuat asma saya kambuh parah.",
       "Maaf [TARGET], hari ini saya terpaksa izin karena pengasuh anak saya mendadak sakit dan tidak ada yang bisa menjaga anak saya.",
-      "Mohon maaf [TARGET], saya tidak bisa hadir karena ada perbaikan darurat pada infrastruktur jalan di depan rumah yang memblokir akses kendaraan."
+      "Mohon maaf [TARGET], saya tidak bisa hadir karena ada perbaikan darurat pada infrastruktur jalan di depan rumah yang memblokir akses kendaraan.",
+      "Maaf [TARGET], ban mobil saya meledak di jalan tol dan saya sedang menunggu bantuan derek.",
+      "Halo [TARGET], saya terjebak di dalam lift apartemen sejak 30 menit yang lalu, teknisi sedang dalam perjalanan.",
+      "Mohon izin [TARGET], tekanan darah saya drop mendadak dan saya pingsan tadi pagi, dokter menyarankan bed rest.",
+      "Permisi [TARGET], saya harus mengantar ayah saya ke IGD karena serangan jantung mendadak.",
+      "Maaf [TARGET], rumah saya baru saja dibobol maling, saya sedang menunggu pihak kepolisian untuk olah TKP."
     ],
     "ridiculous": [
       "Maaf [TARGET], hari ini saya tidak bisa masuk kerja dulu karena kucing peliharaan saya mendadak depresi setelah gagal menangkap cicak, saya harus menemani masa pemulihan emosionalnya.",
@@ -41,7 +46,12 @@
       "Halo [TARGET], saya terlambat karena harus menjadi saksi bisu pernikahan dua ekor kucing liar di garasi saya.",
       "Mohon izin [TARGET], saya tidak sengaja menggunakan cat tembok bercahaya sebagai pengganti lotion pagi ini, saya harus membersihkannya dulu.",
       "Maaf bos [TARGET], saya tidak bisa ke kantor karena mesin kopi di dapur saya meledak dan menyandera saya dengan semburan espresso panas.",
-      "Waduh [TARGET], burung beo peliharaan saya meniru suara alarm kebakaran, saya dan tetangga panik mengevakuasi barang selama tiga jam."
+      "Waduh [TARGET], burung beo peliharaan saya meniru suara alarm kebakaran, saya dan tetangga panik mengevakuasi barang selama tiga jam.",
+      "Maaf [TARGET], saya dikejar kawanan angsa liar di taman dan terpaksa memanjat pohon, sekarang saya tidak berani turun.",
+      "Halo [TARGET], saya tidak sengaja menelan lalat terbang dan tidak bisa berhenti batuk parah.",
+      "Mohon izin [TARGET], saya salah memakai sepatu badut ukuran raksasa milik paman saya dan tidak bisa dilepas karena resletingnya macet.",
+      "Maaf [TARGET], kambing tetangga masuk ke rumah dan memakan dasi serta dokumen presentasi saya.",
+      "Waduh [TARGET], saya terjebak di ayunan taman bermain anak-anak dan petugas pemadam kebakaran sedang berusaha memotong besinya."
     ],
     "realityBending": [
       "Maaf bos [TARGET], saya baru saja dijemput paksa oleh agen lintas dimensi untuk memperbaiki kebocoran ruang-waktu di tahun 2045. Mungkin besok baru bisa kembali ke lini masa ini.",
@@ -60,7 +70,12 @@
       "Halo [TARGET], saya tidak sengaja tertukar tubuh dengan ikan mas koki peliharaan saya. Tolong beri saya waktu untuk menukar kembali.",
       "Mohon izin [TARGET], rumah saya ter-render dalam resolusi 144p pagi ini, saya tidak bisa menemukan jalan keluar dari pintu depan.",
       "Maaf [TARGET], saya baru saja direkrut oleh dewan penyihir untuk mempertahankan bumi dari naga astral, saya butuh cuti satu hari.",
-      "Waduh [TARGET], gravitasi di jalan raya menuju kantor tiba-tiba berbalik arah, kendaraan saya melayang dan tersangkut di awan cirrus."
+      "Waduh [TARGET], gravitasi di jalan raya menuju kantor tiba-tiba berbalik arah, kendaraan saya melayang dan tersangkut di awan cirrus.",
+      "Maaf [TARGET], saya tidak sengaja tersedot ke dalam *vacuum cleaner* canggih milik saya, sedang menunggu mode *reverse*.",
+      "Halo [TARGET], waktu mendadak berhenti tapi hanya untuk saya, saya butuh seharian untuk mengejar ketertinggalan dengan waktu kalian.",
+      "Mohon izin [TARGET], saya tersedot masuk ke dalam lukisan Monalisa di dinding ruang tamu dan tersesat di museum.",
+      "Maaf [TARGET], router WiFi saya secara tidak sengaja menciptakan lubang hitam kecil yang menelan meja kerja saya.",
+      "Waduh [TARGET], tubuh saya berubah menjadi gambar 2D setelah tertimpa komik, butuh waktu untuk kembali ke dimensi 3D."
     ]
   }
 }
