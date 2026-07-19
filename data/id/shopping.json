@@ -10,21 +10,36 @@
       "Aduh [TARGET], sori banget mendadak saya ada kebutuhan *urgent* keluarga, uangnya kepakai jadi saya batal beli ya.",
       "Maaf [TARGET], setelah saya ukur ulang, ternyata ukuran barangnya nggak muat di ruangan saya, saya *cancel* ya.",
       "Halo [TARGET], lokasi COD-nya ternyata jauh banget dari rumah saya, saya nggak ada kendaraan ke sana, batal aja ya.",
-      "Sori [TARGET], saya mendadak harus dinas ke luar kota berbulan-bulan, barangnya pasti nggak ada yang nerima di rumah."
+      "Sori [TARGET], saya mendadak harus dinas ke luar kota berbulan-bulan, barangnya pasti nggak ada yang nerima di rumah.",
+      "Maaf [TARGET], aku batal beli ya karena setelah kubaca lagi deskripsinya, spesifikasinya kurang cocok.",
+      "Halo [TARGET], sori banget batal, ternyata ongkos kirim ke tempatku jauh lebih mahal dari harga barangnya.",
+      "Aduh [TARGET], aku *cancel* ya, ternyata istriku diem-diem udah beliin barang yang sama buat kejutan.",
+      "Sori [TARGET], tiba-tiba ada pengeluaran mendadak untuk bayar listrik yang nunggak, uangnya habis.",
+      "Maaf [TARGET], saya batal beli setelah membaca *review* di internet kalau barang ini nggak awet buat pemakaian panjang."
     ],
     "ridiculous": [
       "Maaf [TARGET], saya batal beli soalnya kata dukun langganan saya, barang dagangan Anda auranya tidak cocok dengan weton saya.",
       "Aduh [TARGET], kucing saya mendesis marah setiap kali saya melihat foto barang jualan Anda, dia pasti punya indera keenam.",
       "Sori [TARGET], uang saya ternyata palsu hasil fotokopi ponakan saya buat mainan monopoli, saya tidak berani pakai buat bayar.",
       "Halo [TARGET], saya batal beli ya, soalnya paket internet saya habis tepat saat mau ngetik 'deal'.",
-      "Maaf [TARGET], saya salah sangka. Saya kira Anda jualan panci, ternyata *casing* HP. Saya benar-benar tidak fokus."
+      "Maaf [TARGET], saya salah sangka. Saya kira Anda jualan panci, ternyata *casing* HP. Saya benar-benar tidak fokus.",
+      "Sori [TARGET], aku batal beli karena warna barangnya katanya bertabrakan dengan aura chakra batinku.",
+      "Aduh [TARGET], arwah leluhurku hadir di mimpiku semalam dan melarang keras aku beli barang ini.",
+      "Maaf [TARGET], kucingku langsung histeris dan panik ngelihat foto barang yang kamu jual, aku nggak mau ambil risiko.",
+      "Halo [TARGET], aku batal beli karena nama jalan rumahku baru aja diubah sepihak sama RT, kurirnya pasti nyasar.",
+      "Sori [TARGET], jari telunjukku keseleo parah, aku nggak kuat mencet tombol konfirmasi pesanan."
     ],
     "realityBending": [
       "Maaf [TARGET], barang yang Anda jual ternyata *cursed artifact* dari zaman Babilonia yang akan mengutuk 7 keturunan saya.",
       "Sori [TARGET], saya terjebak di dimensi masa lalu di mana sistem transaksi digital Anda belum ditemukan.",
       "Aduh [TARGET], bayangan saya di cermin melarang keras saya membelinya, dan dia membawa pedang.",
       "Halo [TARGET], alam semesta me-*reject* transaksi kita karena hal itu akan memicu efek kupu-kupu yang menghancurkan bumi.",
-      "Maaf [TARGET], tubuh fisikku baru saja terurai menjadi debu piksel, aku tidak bisa lagi menerima paket fisik."
+      "Maaf [TARGET], tubuh fisikku baru saja terurai menjadi debu piksel, aku tidak bisa lagi menerima paket fisik.",
+      "Maaf [TARGET], barang yang kamu jual ternyata adalah artefak pemicu kiamat yang dicari-cari oleh *Time Patrol*.",
+      "Aduh [TARGET], aku *cancel* karena masa depanku datang dan menampar mukaku sebelum aku mentransfer pembayarannya.",
+      "Sori [TARGET], paket fisik sudah usang di garis waktuku, kami sekarang hanya men- *download* barang secara langsung ke pikiran.",
+      "Halo [TARGET], transaksinya dibatalkan oleh karma, setiap kali aku mau bayar, uangku berubah jadi abu sisa pembakaran.",
+      "Maaf [TARGET], dimensi sakuku sudah penuh dengan perabotan gaib, tidak ada ruang lagi untuk barangmu."
     ]
   }
 }

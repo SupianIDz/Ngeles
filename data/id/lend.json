@@ -10,21 +10,36 @@
       "Maaf ya [TARGET], uangku baru aja kepakai buat bayar tagihan rumah sakit anggota keluargaku yang mendadak sakit.",
       "Halo [TARGET], pengen banget bantu tapi saldo di rekeningku sisa puluhan ribu doang, bener-bener ngepas buat makan.",
       "Sori [TARGET], semua uangku dipegang dan diatur sama istri/suamiku, aku nggak punya akses buat minjemin.",
-      "Maaf [TARGET], tabunganku udah terkuras abis buat benerin motor yang rusak parah kemarin."
+      "Maaf [TARGET], tabunganku udah terkuras abis buat benerin motor yang rusak parah kemarin.",
+      "Maaf [TARGET], bulan ini aku lagi banyak banget pengeluaran tak terduga buat benerin atap rumah.",
+      "Halo [TARGET], aku belum gajian sama sekali, ini lagi nunggu pencairan bulan depan yang telat.",
+      "Aduh [TARGET], uang nganggurku baru aja kupinjamkan ke sepupu buat modal usaha jualan makanan.",
+      "Sori [TARGET], aku lagi kencengin ikat pinggang banget buat nabung biaya nikah tahun depan.",
+      "Maaf [TARGET], semua saldoku udah kutarik buat bayar premi asuransi tahunan yang jatuh tempo hari ini."
     ],
     "ridiculous": [
       "Aduh [TARGET], uang tunai di rumahku baru aja abis dimakan kambing tetangga yang lepas.",
       "Maaf ya [TARGET], aku baru aja investasikan semua uangku untuk beli bibit pohon naga emas di game online.",
       "Sori [TARGET], ATM-ku tertelan oleh mesin anjungan yang tiba-tiba tertawa ngeri, uangku disandera.",
       "Halo [TARGET], celenganku dibobol kawanan tuyul mutan semalam, aku bangkrut total.",
-      "Maaf [TARGET], tanganku kesemutan setiap kali disuruh buka aplikasi *mobile banking*, sepertinya alergi."
+      "Maaf [TARGET], tanganku kesemutan setiap kali disuruh buka aplikasi *mobile banking*, sepertinya alergi.",
+      "Sori [TARGET], dompetku baru aja dimakan sama anjing pudel tetangga, sekarang masih dipantau dokter hewan.",
+      "Aduh [TARGET], saldoku nggak sengaja tersumbang semua ke yayasan pelestarian nyamuk demam berdarah.",
+      "Maaf [TARGET], uang di lemariku disembunyikan tuyul magang yang salah ngambil target.",
+      "Halo [TARGET], aku nggak bisa transfer, jari-jariku tiba-tiba berubah jadi sosis tiap kali mau ngetik angka nol.",
+      "Sori [TARGET], ATM-ku ngambek gara-gara jarang kupakai, dia nolak kartu yang kumasukkan dan malah nyembur debu."
     ],
     "realityBending": [
       "Sori [TARGET], konsep uang telah dihapuskan dari memoriku oleh peradaban makhluk dimensi kelima.",
       "Maaf [TARGET], saldoku tersedot masuk ke *black hole* mikro yang mendadak muncul di atas layarku.",
       "Aduh [TARGET], semua uang di dompetku mendadak berubah menjadi daun kering dan berterbangan saat kena angin.",
       "Halo [TARGET], pemerintah intergalaksi baru saja membekukan aset duniawiku karena dicurigai menyelundupkan antimateri.",
-      "Maaf [TARGET], uangku telah dikonversi menjadi energi karma murni, tidak bisa dicairkan ke Rupiah."
+      "Maaf [TARGET], uangku telah dikonversi menjadi energi karma murni, tidak bisa dicairkan ke Rupiah.",
+      "Maaf [TARGET], bank di semestaku ditutup paksa oleh polisi antariksa karena krisis moneter antar galaksi.",
+      "Aduh [TARGET], uang di rekeningku bermutasi menjadi partikel cahaya dan melesat ke luar angkasa.",
+      "Sori [TARGET], aku terjebak di masa lalu di era barter, uangmu tidak ada nilainya dibandingkan sekarung gandum di sini.",
+      "Halo [TARGET], dewa kekayaan mencabut berkatnya dariku pagi ini, semua logam mulia dan uangku berubah menjadi tumpukan daun pisang.",
+      "Maaf [TARGET], sistem *mobile banking*-ku dikuasai oleh kecerdasan buatan pemberontak yang melarang keras sistem pinjam meminjam."
     ]
   }
 }

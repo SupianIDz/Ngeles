@@ -10,21 +10,36 @@
       "Oh man [TARGET], sorry but I suddenly had an urgent family financial crisis, my money is used up so I must cancel.",
       "Sorry [TARGET], after re-measuring my space, it turns out the item won't fit in my room. I have to cancel.",
       "Hello [TARGET], the meetup location is way too far from my house and I have no vehicle to get there, let's cancel it.",
-      "Sorry [TARGET], I suddenly have to go out of town for months on a business trip, there will be no one at home to receive the package."
+      "Sorry [TARGET], I suddenly have to go out of town for months on a business trip, there will be no one at home to receive the package.",
+      "Sorry [TARGET], I'm canceling the purchase because after rereading the description, the specs don't match my needs.",
+      "Hello [TARGET], sorry for canceling, the shipping cost to my place turned out to be much more expensive than the item.",
+      "Oh man [TARGET], I'm cancelling because my spouse secretly bought the exact same item as a surprise.",
+      "Sorry [TARGET], I suddenly had an unexpected expense to pay an overdue electricity bill, my money is gone.",
+      "Sorry [TARGET], I cancelled the purchase after reading online reviews saying this item doesn't last long."
     ],
     "ridiculous": [
       "Sorry [TARGET], I'm canceling because my trusted shaman said your merchandise has an aura that clashes with my birth chart.",
       "Oh man [TARGET], my cat hisses angrily every time I look at your product photos, she must have a sixth sense.",
       "Sorry [TARGET], it turns out my cash is fake money photocopied by my nephew for Monopoly, I dare not use it to pay.",
       "Hello [TARGET], I'm cancelling because my data plan ran out exactly when I was about to type 'deal'.",
-      "Sorry [TARGET], I had a massive misunderstanding. I thought you were selling a cooking pot, not a phone case. I'm so unfocused."
+      "Sorry [TARGET], I had a massive misunderstanding. I thought you were selling a cooking pot, not a phone case. I'm so unfocused.",
+      "Sorry [TARGET], I cancelled because the item's color supposedly clashes with the aura of my inner chakra.",
+      "Oh man [TARGET], my ancestor's spirit appeared in my dream last night and strictly forbade me from buying this.",
+      "Sorry [TARGET], my cat became hysterical and panicked upon seeing the photo of your item, I don't want to risk it.",
+      "Hello [TARGET], I cancelled because my street name was just unilaterally changed by the local head, the courier will get lost.",
+      "Sorry [TARGET], my index finger is severely sprained, I don't have the strength to press the order confirmation button."
     ],
     "realityBending": [
       "Sorry [TARGET], the item you are selling is actually a cursed artifact from Babylon that will doom my next 7 generations.",
       "Oh man [TARGET], I'm trapped in a past dimension where your digital transaction system hasn't been invented yet.",
       "Sorry [TARGET], my reflection in the mirror strictly forbade me from buying it, and he brought a sword.",
       "Hello [TARGET], the universe rejected our transaction because it would trigger a butterfly effect that destroys the earth.",
-      "Sorry [TARGET], my physical body just disintegrated into pixel dust, I can no longer receive physical packages."
+      "Sorry [TARGET], my physical body just disintegrated into pixel dust, I can no longer receive physical packages.",
+      "Sorry [TARGET], the item you're selling is actually an apocalypse-triggering artifact hunted by the Time Patrol.",
+      "Oh man [TARGET], I cancelled because my future self arrived and slapped my face before I could transfer the payment.",
+      "Sorry [TARGET], physical packages are obsolete in my timeline, we now just download objects directly into our minds.",
+      "Hello [TARGET], the transaction was cancelled by karma, every time I try to pay, my money turns to ashes.",
+      "Sorry [TARGET], my pocket dimension is already full of mystical furniture, there is no room left for your item."
     ]
   }
 }

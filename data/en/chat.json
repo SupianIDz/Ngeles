@@ -10,21 +10,36 @@
       "Oh man [TARGET], sorry I just saw this. My phone died all day and I just found a charger.",
       "Sorry [TARGET], I fell into a deep sleep right after coming home from work, just woke up.",
       "Hello [TARGET], sorry for the delay, I was outdoors all day and there was absolutely zero internet signal.",
-      "Sorry [TARGET], I was driving a long distance since noon and didn't dare to check my phone on the road."
+      "Sorry [TARGET], I was driving a long distance since noon and didn't dare to check my phone on the road.",
+      "Sorry [TARGET] for the late reply, my phone slipped between the car seats and I just found it while cleaning.",
+      "Oh man [TARGET], I'm so sorry my mobile data ran out and I just got around to buying a new package.",
+      "Hello [TARGET], sorry for the delay, I fell asleep in front of my laptop while doing my assignments.",
+      "Sorry [TARGET], I've been stuck in a long meeting with a very demanding client since this afternoon.",
+      "Sorry [TARGET] for the late read, I got completely absorbed in binge-watching K-dramas and lost track of time."
     ],
     "ridiculous": [
       "Sorry [TARGET] for the late reply, my toddler nephew confiscated my phone and insisted on watching Cocomelon all day.",
       "Oh man [TARGET], my right thumb suddenly cramped up terribly every time I touched the screen, I had to type with my nose.",
       "Sorry [TARGET], I replied late because I was meditating waiting for inspiration from heaven on how to respond.",
       "Hello [TARGET], my phone was hidden under the sofa by my cat, and I only retrieved it after she fell asleep.",
-      "Sorry [TARGET], my touchscreen went on strike and would only respond if I spoke to it in sign language."
+      "Sorry [TARGET], my touchscreen went on strike and would only respond if I spoke to it in sign language.",
+      "Oh man [TARGET], I typed out a long reply but accidentally deleted the whole thing, and I was too lazy to retype it until now.",
+      "Sorry [TARGET] for the delay, I was held hostage by my boss who ordered me to push my mobile game rank to Mythic.",
+      "Sorry [TARGET], my right thumb is severely sprained from playing fighting games, I have to type very slowly with my pinky.",
+      "Hello [TARGET], my cat slept on my phone screen for hours and I didn't dare wake her up to reply to you.",
+      "Sorry [TARGET], my screen was covered in drool from me falling asleep, and the touchscreen wouldn't work."
     ],
     "realityBending": [
       "Sorry [TARGET], your notification got caught in an orbiting satellite and just dropped into my atmosphere this second.",
       "Oh man [TARGET], I was trapped in a time zone where 1 minute equals 1 week of your time.",
       "Sorry [TARGET], your message was encrypted in ancient alien linguistics, I needed hours to decode it.",
       "Hello [TARGET], when you texted, my phone suddenly transformed into a slice of bread, I had to wait for the spell to wear off.",
-      "Sorry [TARGET], time suddenly froze right as I was about to hit send, it just thawed right now."
+      "Sorry [TARGET], time suddenly froze right as I was about to hit send, it just thawed right now.",
+      "Sorry [TARGET], the letters on my phone keyboard suddenly changed into ancient alien runes, I needed time to memorize them.",
+      "Oh man [TARGET], the earth's rotation reversed around me, your message arrived yesterday but was only delivered tomorrow.",
+      "Sorry [TARGET], when you texted, my phone grew spider legs and ran around the room, I just caught it.",
+      "Hello [TARGET], your notification caused an electromagnetic radiation blast in my room, I had to wear a hazmat suit to reply.",
+      "Sorry [TARGET], I got trapped inside a virtual chat room with no back button, it took a hacker to get me out."
     ]
   }
 }

@@ -10,21 +10,36 @@
       "Sorry [TARGET], my money was just spent on hospital bills for a family member who got sick suddenly.",
       "Hello [TARGET], I'd love to help but my bank balance literally only has a few dollars left, just enough for meals.",
       "Sorry [TARGET], my spouse manages all our finances and holds the money, I don't have access to lend it out.",
-      "Sorry [TARGET], my savings were completely drained to repair my severely damaged motorcycle yesterday."
+      "Sorry [TARGET], my savings were completely drained to repair my severely damaged motorcycle yesterday.",
+      "Sorry [TARGET], I have a lot of unexpected expenses this month for repairing my leaking roof.",
+      "Hello [TARGET], my salary hasn't been paid at all, I'm waiting for a delayed disbursement next month.",
+      "Oh man [TARGET], my spare cash was just lent to my cousin for food business capital.",
+      "Sorry [TARGET], I'm tightening my belt extremely hard to save up for wedding expenses next year.",
+      "Sorry [TARGET], all my balance was withdrawn to pay my annual insurance premium that was due today."
     ],
     "ridiculous": [
       "Oh man [TARGET], the cash in my house was just eaten by a loose goat from the neighborhood.",
       "Sorry [TARGET], I just invested all my money in buying golden dragon seeds in an online game.",
       "Hello [TARGET], my ATM card was swallowed by a machine that suddenly laughed creepily, my money is held hostage.",
       "Sorry [TARGET], my piggy bank was broken into by a gang of mutant goblins last night, I'm completely bankrupt.",
-      "Oh man [TARGET], my hands get chronically numb every time I'm asked to open my mobile banking app, it must be an allergy."
+      "Oh man [TARGET], my hands get chronically numb every time I'm asked to open my mobile banking app, it must be an allergy.",
+      "Sorry [TARGET], my wallet was just eaten by a neighbor's poodle, it's currently under veterinary observation.",
+      "Oh man [TARGET], my balance was accidentally donated entirely to a dengue mosquito preservation foundation.",
+      "Sorry [TARGET], the money in my closet was hidden by an intern goblin who picked the wrong target.",
+      "Hello [TARGET], I can't transfer, my fingers suddenly turn into sausages every time I try to type a zero.",
+      "Sorry [TARGET], my ATM machine threw a tantrum because I rarely use it, it rejected my card and spat out dust."
     ],
     "realityBending": [
       "Sorry [TARGET], the concept of money has been erased from my memory by a fifth-dimensional civilization.",
       "Oh man [TARGET], my balance was sucked into a micro black hole that suddenly appeared above my phone screen.",
       "Sorry [TARGET], all the money in my wallet suddenly turned into dry leaves and blew away in the wind.",
       "Hello [TARGET], the intergalactic government just froze my earthly assets due to suspicions of antimatter smuggling.",
-      "Sorry [TARGET], my money has been converted into pure karmic energy and cannot be withdrawn as cash."
+      "Sorry [TARGET], my money has been converted into pure karmic energy and cannot be withdrawn as cash.",
+      "Sorry [TARGET], the bank in my universe was forcibly shut down by space police due to an intergalactic monetary crisis.",
+      "Oh man [TARGET], the money in my account mutated into light particles and shot off into outer space.",
+      "Sorry [TARGET], I am trapped in the past during the barter era, your money has no value compared to a sack of wheat here.",
+      "Hello [TARGET], the god of wealth revoked his blessing from me this morning, all my money turned into a pile of banana leaves.",
+      "Sorry [TARGET], my mobile banking system was taken over by a rebel AI that strictly prohibits borrowing and lending."
     ]
   }
 }

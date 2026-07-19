@@ -10,21 +10,36 @@
       "Sori banget [TARGET], aku salah lihat kalender, kuingatnya acara itu masih minggu depan, aku benar-benar minta maaf.",
       "Aduh [TARGET], aku ketiduran seharian karena kelelahan ekstrim dan HP-ku mati, aku melewatkan notifikasi alarmnya.",
       "Maaf [TARGET], aku baru ngeh hari ini tanggal berapa. Aku lagi banyak banget masalah keluarga sampai lupa segalanya.",
-      "Halo [TARGET], maafkan aku yang super teledor ini, catatanku hilang dan aku nggak ingat sama sekali."
+      "Halo [TARGET], maafkan aku yang super teledor ini, catatanku hilang dan aku nggak ingat sama sekali.",
+      "Sori banget [TARGET], belakangan ini aku kecapekan kerja parah sampai kalender di otakku berantakan.",
+      "Aduh [TARGET], maaf aku lupa, kalender di HP-ku ternyata nggak nge-sinkron dari email jadi nggak ada notif sama sekali.",
+      "Maaf [TARGET], pikiranku lagi kalut banget mikirin banyak masalah sampai tanggal penting ini aja kelewat.",
+      "Halo [TARGET], aku beneran lupa nyatet hari ini di buku *planner*-ku, aku teledor banget asli.",
+      "Sori [TARGET], aku salah atur alarm pengingat, malah ku- *setting* di bulan depan, ampun deh."
     ],
     "ridiculous": [
       "Sori [TARGET], kalender dinding di rumahku dimakan rayap tepat di bagian angka tanggal hari ini, aku kehilangan konsep waktu.",
       "Aduh [TARGET], kepalaku terbentur pinggiran meja tadi pagi dan aku mengalami amnesia selektif tentang hari-hari penting.",
       "Maaf [TARGET], alarm HP-ku berbunyi dengan suara yang meninabobokan sehingga aku malah masuk ke fase mimpi terdalam.",
       "Halo [TARGET], aku nggak bermaksud lupa, tapi kucingku menghapus *reminder* di HP dengan injakan kakinya yang polos.",
-      "Sori [TARGET], aku sibuk menghitung jumlah butiran nasi di piringku sampai-sampai hari pergantian tanggal terlewatkan."
+      "Sori [TARGET], aku sibuk menghitung jumlah butiran nasi di piringku sampai-sampai hari pergantian tanggal terlewatkan.",
+      "Sori [TARGET], otakku kayaknya baru aja kena *blue screen of death* gara-gara kebanyakan makan seblak level 10.",
+      "Aduh [TARGET], aku terlalu sibuk ngurusin ayam tetangga yang kabur masuk rumahku sampai lupa ada hari penting ini.",
+      "Maaf [TARGET], aku nggak sengaja kehipnotis tayangan *home shopping* panci ajaib seharian penuh sampai hilang ingatan sesaat.",
+      "Halo [TARGET], aku terdistraksi nyari ujung lakban bening yang hilang selama 24 jam berturut-turut.",
+      "Sori [TARGET], ingatanku soal tanggal ini terhapus gara-gara aku kebanyakan nyium bau bensin eceran."
     ],
     "realityBending": [
       "Maaf [TARGET], alien dari konstelasi Zeta Reticuli menculik ingatanku tentang hari penting ini untuk penelitian emosi manusia.",
       "Aduh [TARGET], tanggal hari ini tidak pernah di- *render* dalam simulasi realitaku, layar kalenderku tertulis *Error 404*.",
       "Sori [TARGET], aku sedang *traveling* menembus waktu ke masa depan, jadi aku tidak pernah melewati hari ini.",
       "Halo [TARGET], dewa waktu memberikan *skip button* padaku pagi ini dan aku tidak sengaja menekannya tanpa sadar.",
-      "Maaf [TARGET], hari ini telah dihapus dari *timeline* eksistensiku oleh penyihir dimensi, aku baru saja pulih kembali."
+      "Maaf [TARGET], hari ini telah dihapus dari *timeline* eksistensiku oleh penyihir dimensi, aku baru saja pulih kembali.",
+      "Maaf [TARGET], dimensi waktuku patah jadi dua, aku meloncati tanggal ini dan langsung mendarat di lusa.",
+      "Aduh [TARGET], memori tentang hari penting ini dicuri oleh perompak pikiran dari galaksi tetangga.",
+      "Sori [TARGET], aku tak sengaja memakan buah pelupa dari pohon mitologi Norse, ini baru sadar setelah efeknya hilang.",
+      "Halo [TARGET], hari ini terjebak dalam lipatan ruang, jadi secara teknis hari ini tidak pernah eksis di duniaku.",
+      "Maaf [TARGET], alam semesta me- *reboot* kesadaranku ke versi pabrik pagi ini, semua memori kalender terhapus total."
     ]
   }
 }

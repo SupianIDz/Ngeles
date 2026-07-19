@@ -10,21 +10,36 @@
       "I'm so sorry [TARGET], I misread the calendar and thought the event was next week. I am truly sorry.",
       "Oh man [TARGET], I slept all day due to extreme exhaustion and my phone died, so I missed all the alarms.",
       "Sorry [TARGET], I just realized what date it is today. I've been dealing with so many family issues I lost track of everything.",
-      "Hello [TARGET], please forgive my carelessness, I lost my planner and didn't remember it at all."
+      "Hello [TARGET], please forgive my carelessness, I lost my planner and didn't remember it at all.",
+      "I'm so sorry [TARGET], I've been so severely exhausted from work lately that the calendar in my brain is a mess.",
+      "Oh man [TARGET], sorry I forgot, the calendar on my phone didn't sync from my email so I got zero notifications.",
+      "Sorry [TARGET], my mind has been so chaotic dealing with so many problems that this important date slipped by.",
+      "Hello [TARGET], I literally forgot to write this down in my planner today, I am so completely careless.",
+      "Sorry [TARGET], I set the reminder alarm wrong, I set it for next month instead, I'm so dumb."
     ],
     "ridiculous": [
       "Sorry [TARGET], the wall calendar in my house was eaten by termites exactly on today's date, I lost my concept of time.",
       "Oh man [TARGET], I bumped my head on the table this morning and suffered selective amnesia specifically regarding important dates.",
       "Sorry [TARGET], my phone alarm played such a soothing lullaby that it actually sent me into the deepest phase of REM sleep.",
       "Hello [TARGET], I didn't mean to forget, but my cat stepped on my phone and deleted the reminder.",
-      "Sorry [TARGET], I was too busy counting the exact number of rice grains on my plate that I completely missed the date changing."
+      "Sorry [TARGET], I was too busy counting the exact number of rice grains on my plate that I completely missed the date changing.",
+      "Sorry [TARGET], my brain just hit a blue screen of death from eating too much level-10 spicy food.",
+      "Oh man [TARGET], I was too busy chasing a neighbor's escaped chicken in my house to remember this important day.",
+      "Sorry [TARGET], I was accidentally hypnotized by a magic pan home shopping channel all day and lost my memory temporarily.",
+      "Hello [TARGET], I was distracted trying to find the lost end of a roll of clear tape for 24 hours straight.",
+      "Sorry [TARGET], my memory of this date was erased because I sniffed too much retail gasoline."
     ],
     "realityBending": [
       "Sorry [TARGET], aliens from the Zeta Reticuli constellation abducted my memories of this important day for human emotion research.",
       "Oh man [TARGET], today's date was never rendered in my reality simulation, my calendar display just says Error 404.",
       "Sorry [TARGET], I was traveling through time to the future, so I literally bypassed this day entirely.",
       "Hello [TARGET], the god of time handed me a 'skip button' this morning and I accidentally pressed it subconsciously.",
-      "Sorry [TARGET], today was deleted from my existence timeline by a dimensional warlock, I just recovered."
+      "Sorry [TARGET], today was deleted from my existence timeline by a dimensional warlock, I just recovered.",
+      "Sorry [TARGET], my time dimension snapped in half, I skipped this date entirely and landed straight in the day after tomorrow.",
+      "Oh man [TARGET], the memory of this important day was stolen by mind pirates from a neighboring galaxy.",
+      "Sorry [TARGET], I accidentally ate the fruit of forgetfulness from a Norse mythology tree, just realized it after the effect wore off.",
+      "Hello [TARGET], today was trapped in a spatial fold, so technically this day never existed in my world.",
+      "Sorry [TARGET], the universe rebooted my consciousness to factory settings this morning, all calendar memories were wiped."
     ]
   }
 }
