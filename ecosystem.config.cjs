@@ -2,8 +2,8 @@ module.exports = {
   apps: [
     {
       name: "ngeles",
-      script: "bun run server/index.ts",
-      interpreter: "/bin/bash",
+      script: "npm",
+      args: "run server",
       env: {
         NODE_ENV: "production",
         PORT: 3000,
