@@ -37,7 +37,12 @@
       "Oh man [TARGET], the bike I borrowed from a friend just got impounded by the police, I have to accompany him to the prosecutor's office.",
       "Sorry [TARGET], my room key snapped inside the lock and the nearest locksmith is out of town.",
       "Hey [TARGET], I ate the legendary god-level spicy chili at a local diner, and my mouth and stomach feel like they are burning in hellfire.",
-      "Sorry [TARGET], my mom forced me to draw water from the well because our water pump suddenly short-circuited and caught fire."
+      "Sorry [TARGET], my mom forced me to draw water from the well because our water pump suddenly short-circuited and caught fire.",
+      "I'm so sorry [TARGET], there's a sudden gathering with my partner's family that I am absolutely required to attend.",
+      "Oh man [TARGET], I'm feeling really unwell, catching a flu and sneezing non-stop since this morning.",
+      "Sorry [TARGET], my boss gave me extra work that must be finished today, I'm forced to work overtime.",
+      "Hey [TARGET], my car is currently at the mechanic for its monthly routine service, so I have no vehicle.",
+      "Sorry [TARGET], my motorcycle tire is flat at home and my pump is broken, I have a headache just thinking about pushing it."
     ],
     "ridiculous": [
       "Sorry [TARGET], I can't leave the house tonight — my pet is giving me a look of pure judgment that I simply cannot ignore.",
@@ -71,7 +76,12 @@
       "Oh man [TARGET], I was chased by a flock of furious turkeys from the farm down the street, I had to climb onto a neighbor's roof.",
       "Sorry [TARGET], one of my front teeth suddenly fell out when biting a stale cracker, I'm too embarrassed to smile in public.",
       "Hello [TARGET], my jeans shrank drastically in the wash. When I put them on, I look like I'm wearing Zumba leggings.",
-      "Hey [TARGET], I cancelled because I'm currently throwing a tantrum at Siri on my iPhone for constantly mocking my voice."
+      "Hey [TARGET], I cancelled because I'm currently throwing a tantrum at Siri on my iPhone for constantly mocking my voice.",
+      "Sorry [TARGET], I walked into the wrong wedding reception of people I don't know, and now they're forcing me to sing a song.",
+      "Oh man [TARGET], I got stuck in a children's playground slide out of nostalgia, waiting for the fire department to rescue me.",
+      "Sorry [TARGET], I can't come because I'm throwing a tantrum at my own hair which refuses to be styled.",
+      "Hello [TARGET], I'm trapped in a supermarket because I'm being forced to listen to a pan salesperson vent about their life for 3 hours.",
+      "Hey [TARGET], my pants ripped right at the back while I was squatting to tie my shoelaces in front of my house."
     ],
     "realityBending": [
       "Sorry [TARGET], my house is surrounded by friendly aliens who asked me to teach them how to make local coffee. Abandoning them mid-lesson would be rude.",
@@ -105,7 +115,12 @@
       "Oh man [TARGET], I was summoned to be a judge in an arm-wrestling tournament between demons in the seventh dimension. The pay is too good.",
       "Sorry [TARGET], bad karma from my past life in ancient Rome caught up to me; my legs suddenly turned into marble pillars.",
       "Hey [TARGET], my existence was rejected by the reality server because my ping is too high, I'll reconnect tomorrow morning.",
-      "Sorry [TARGET], my inner thoughts suddenly leaked and broadcasted like a loudspeaker to the whole city. All my secrets will be exposed if I go out."
+      "Sorry [TARGET], my inner thoughts suddenly leaked and broadcasted like a loudspeaker to the whole city. All my secrets will be exposed if I go out.",
+      "Sorry [TARGET], my body just completed its evolutionary phase and transformed into an entity of pure light.",
+      "Oh man [TARGET], this world is just a matrix simulation and I just found the exit door.",
+      "Sorry [TARGET], the laws of physics in my house suddenly stopped working, water flows upward and I'm walking on the ceiling.",
+      "Hey [TARGET], my existence was temporarily suspended by the cosmic council because I used too much karma quota.",
+      "Sorry [TARGET], my mind connected to the dolphin telepathy network, I am too busy deciphering the ocean's code."
     ]
   }
 }

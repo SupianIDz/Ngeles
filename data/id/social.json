@@ -37,7 +37,12 @@
       "Aduh [TARGET], motor yang baru kupinjam dari temanku ditilang polisi dan aku harus nemenin dia nebus motornya di kejaksaan.",
       "Sori [TARGET], kunci kamarku patah di dalem dan tukang kunci terdekat lagi mudik ke kampung.",
       "Eh [TARGET], aku salah makan sambal level dewa dari warung padang, sekarang mulut dan lambungku kayak kebakar api neraka.",
-      "Maaf [TARGET], aku disuruh emakku nimba air di sumur karena pompa air mendadak mati terbakar korslet."
+      "Maaf [TARGET], aku disuruh emakku nimba air di sumur karena pompa air mendadak mati terbakar korslet.",
+      "Maaf banget [TARGET], tiba-tiba ada acara kumpul keluarga pacarku yang mendadak banget dan aku wajib hadir.",
+      "Aduh [TARGET], aku nggak enak badan banget nih, agak flu dan bersin-bersin terus dari pagi.",
+      "Sori [TARGET], bosku ngasih kerjaan tambahan yang harus kelar hari ini juga, aku terpaksa lembur.",
+      "Eh [TARGET], mobilku lagi masuk bengkel buat servis rutin bulanan, jadi aku nggak ada kendaraan.",
+      "Maaf [TARGET], ban motor kempes di rumah dan pompaku patah, pusing banget harus nuntun jauh."
     ],
     "ridiculous": [
       "Sorry ya [TARGET], gue gak bisa keluar rumah malam ini karena tiba-tiba peliharaan gue memperlihatkan tatapan menghakimi yang bikin gue merasa bersalah kalau ditinggal pergi.",
@@ -71,7 +76,12 @@
       "Aduh [TARGET], aku dikejar sekawanan kalkun marah dari peternakan ujung jalan, aku terpaksa manjat genteng rumah tetangga.",
       "Maaf [TARGET], gigiku yang satu tiba-tiba lepas pas aku lagi gigit kerupuk alot, aku malu banget buat senyum di tongkrongan.",
       "Halo [TARGET], celana jeans-ku menyusut drastis setelah dicuci, pas kupakai aku malah kelihatan kayak pakai legging zumba.",
-      "Eh [TARGET], aku batal datang karena aku lagi ngambek sama Siri di iPhone-ku, dia terus-terusan ngeledek suaraku."
+      "Eh [TARGET], aku batal datang karena aku lagi ngambek sama Siri di iPhone-ku, dia terus-terusan ngeledek suaraku.",
+      "Sori [TARGET], aku salah masuk rombongan kawinan orang yang nggak kukenal, dan sekarang aku disuruh nyumbang lagu.",
+      "Aduh [TARGET], aku nyangkut di perosotan taman anak-anak pas lagi nostalgia, ini nunggu pemadam kebakaran nolongin.",
+      "Maaf [TARGET], aku nggak bisa datang karena aku lagi ngambek sama rambutku sendiri yang nggak mau diatur.",
+      "Halo [TARGET], aku terjebak di toko swalayan karena dipaksa dengerin curhatan SPG panci selama tiga jam.",
+      "Eh [TARGET], celanaku robek di bagian belakang pas lagi jongkok ngiket sepatu di depan rumah."
     ],
     "realityBending": [
       "Sorry [TARGET], gue gak bisa nongkrong. Rumah gue tiba-tiba dikepung oleh pasukan alien ramah yang minta diajarin cara bikin kopi lokal, gak sopan kalau ditinggal.",
@@ -105,7 +115,12 @@
       "Sori [TARGET], aku dipanggil menjadi juri di turnamen panco antar iblis di dimensi ketujuh, bayarannya terlalu menggiurkan.",
       "Aduh [TARGET], karma buruk dari kehidupanku di zaman Romawi kuno menimpaku hari ini, kakiku mendadak berubah menjadi pilar marmer.",
       "Eh [TARGET], eksistensiku ditolak oleh server realita karena ping-ku terlalu tinggi, aku akan re-connect besok pagi.",
-      "Maaf [TARGET], suara hatiku mendadak bocor jadi *loudspeaker* ke seluruh kota, semua rahasiaku terbongkar kalau aku ke luar rumah."
+      "Maaf [TARGET], suara hatiku mendadak bocor jadi *loudspeaker* ke seluruh kota, semua rahasiaku terbongkar kalau aku ke luar rumah.",
+      "Maaf [TARGET], tubuhku baru saja menyelesaikan tahap evolusi dan berubah menjadi entitas cahaya murni.",
+      "Sori [TARGET], dunia ini hanyalah simulasi matriks dan aku baru saja menemukan jalan keluarnya.",
+      "Aduh [TARGET], hukum fisika di rumahku mendadak berhenti bekerja, air mengalir ke atas dan aku berjalan di langit-langit.",
+      "Eh [TARGET], eksistensiku ditangguhkan sementara oleh dewan kosmik karena aku menggunakan terlalu banyak kuota karma.",
+      "Maaf [TARGET], pikiranku terhubung dengan jaringan telepati lumba-lumba, aku terlalu sibuk memecahkan sandi samudra."
     ]
   }
 }

@@ -34,7 +34,12 @@
       "Hello [TARGET], I'm late because my bicycle wheels were entirely stolen while I was buying breakfast.",
       "I apologize [TARGET], the neighbor's cat slept on my gym uniform and now it's covered in fleas and fur.",
       "Excuse me [TARGET], I mistakenly drank my dog's heavy sedative instead of my cough syrup, I am completely immobilized.",
-      "Sorry [TARGET], debt collectors padlocked my front gate from the outside, I am literally caged inside my own house."
+      "Sorry [TARGET], debt collectors padlocked my front gate from the outside, I am literally caged inside my own house.",
+      "Sorry [TARGET], my homework notebook is soaked because my bedroom roof leaked rainwater all night.",
+      "Hello [TARGET], I have severe stomach cramps from eating random spicy street food yesterday afternoon.",
+      "I apologize [TARGET], my only school uniform hasn't dried because it rained while it was on the clothesline.",
+      "Excuse me [TARGET], the public minibus I was riding broke down on a steep hill and all passengers were ordered to get out.",
+      "Sorry [TARGET], I got lost on the wrong bus route because I fell asleep, I'm currently in the next town over."
     ],
     "ridiculous": [
       "I'm so sorry [TARGET], I'm late because the neighbor's rooster crowed in a minor key this morning, sending me into a three-hour existential crisis.",
@@ -65,7 +70,12 @@
       "Hello [TARGET], my hair hardened into solid rock after I experimented with a 10-year expired hair gel.",
       "Excuse me [TARGET], my math homework was eaten by a rogue sacrificial goat that barged into my living room.",
       "Sorry [TARGET], I fell into a ditch full of glowing green mud and now I smell like a swamp alien.",
-      "Hey [TARGET], I accidentally superglued my own mouth shut while doing an arts and crafts assignment."
+      "Hey [TARGET], I accidentally superglued my own mouth shut while doing an arts and crafts assignment.",
+      "Sorry [TARGET], I fell asleep in the neighborhood security post since last night and was just woken up by the guard.",
+      "Hello [TARGET], I was intercepted and scolded by the traveling vegetable vendor because my mom hasn't paid her cabbage debt.",
+      "Excuse me [TARGET], my backpack was abducted by a wild monkey that entered our yard, it's sitting on the roof.",
+      "Sorry [TARGET], I accidentally brushed my teeth with facial wash soap, my mouth is foaming severely and I feel nauseous.",
+      "Hey [TARGET], I wore the wrong shoes: right side is my school shoe, left side is my mom's high heel."
     ],
     "realityBending": [
       "Sorry [TARGET], I won't be in class today because I accidentally stepped into a parallel dimension where school hasn't been invented yet, and it's my duty to establish it.",
@@ -96,7 +106,12 @@
       "Hello [TARGET], my shadow on the wall rebelled, stole my bag, and ran to school without me.",
       "Excuse me [TARGET], my fish tank leaked and its water transformed my bedroom into an Atlantis dimension filled with hungry sharks.",
       "Sorry [TARGET], my gravity grades were too low, causing me to continuously float upwards like a helium balloon.",
-      "Hey [TARGET], I accidentally chanted a forbidden spell from the biology book and morphed into a giant amoeba cell."
+      "Hey [TARGET], I accidentally chanted a forbidden spell from the biology book and morphed into a giant amoeba cell.",
+      "Sorry [TARGET], our math teacher is actually a cyborg from the future, I am hiding so I don't get terminated.",
+      "Hello [TARGET], my study desk swallowed all my textbooks into an endless pocket dimension.",
+      "Excuse me [TARGET], our school's gravity system was hacked, I saw the school building floating into space.",
+      "Sorry [TARGET], I'm stuck in a time loop during lunch break, I keep eating the same dumpling millions of times.",
+      "Hey [TARGET], my shadow decided to skip school today and took over my physical body."
     ]
   }
 }

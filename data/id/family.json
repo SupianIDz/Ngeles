@@ -37,7 +37,12 @@
       "Halo [TARGET], sori banget leherku kecengklak parah gara-gara salah posisi tidur, nengok dikit aja rasanya nyetrum.",
       "Aduh [TARGET], ada anak tetangga yang ngelempar bola kasti sampai kaca jendela rumahku pecah berantakan, harus jaga rumah nunggu tukang kaca.",
       "Maaf [TARGET], aku salah pakai pomade yang ternyata itu krim rambut penghilang uban ibuku, rambutku jadi aneh banget teksturnya.",
-      "Sori [TARGET], air galon di rumahku tumpah semua ke karpet ruang tamu, aku harus nyedot airnya seharian biar nggak bau apek."
+      "Sori [TARGET], air galon di rumahku tumpah semua ke karpet ruang tamu, aku harus nyedot airnya seharian biar nggak bau apek.",
+      "Maaf [TARGET], aku harus ngerjain revisi skripsi dadakan yang diminta dosen pembimbingku besok pagi.",
+      "Halo [TARGET], sakit gigiku kumat parah banget sampai aku nggak bisa makan atau ngomong dengan jelas.",
+      "Aduh [TARGET], tiba-tiba ada kerabat jauh dari luar kota yang mampir nginep di rumah, aku harus nemenin mereka.",
+      "Maaf [TARGET], aku ada jadwal cek rutin ke dokter yang udah ku- *booking* dari sebulan lalu.",
+      "Sori [TARGET], aku ketiduran parah seharian gara-gara begadang ngerjain tugas semalaman suntuk."
     ],
     "ridiculous": [
       "Maaf banget keluarga besar [TARGET], baju batik andalan satu-satunya tidak sengaja dijadikan alas tidur oleh kucing liar dan sekarang penuh bulu magis.",
@@ -71,7 +76,12 @@
       "Sori [TARGET], aku terjebak di dalam kamar mandi karena sabun batangan jatuh ke rel pintu geser dan membuatnya macet total.",
       "Aduh [TARGET], hidungku kemasukan bulu ayam kemoceng dan aku bersin nonstop selama 4 jam berturut-turut tanpa jeda.",
       "Maaf [TARGET], celana kolor kesayanganku tertiup angin puting beliung mini dan tersangkut di kabel listrik tegangan tinggi.",
-      "Halo [TARGET], aku batal mudik karena aku dikira tukang parkir liar dan dipaksa markirin mobil di minimarket depan rumah."
+      "Halo [TARGET], aku batal mudik karena aku dikira tukang parkir liar dan dipaksa markirin mobil di minimarket depan rumah.",
+      "Maaf [TARGET], aku terkunci di dalam kulkas pas lagi nyari cemilan tengah malam, untung belum beku sepenuhnya.",
+      "Sori [TARGET], aku nggak bisa datang karena lagi asyik ngobrol sama burung gagak di atap rumah, dia pendengar yang baik.",
+      "Aduh [TARGET], kepalaku nyangkut di kerah kaos karena kekecilan pas mau kulepas, aku panik nggak bisa lihat apa-apa.",
+      "Maaf [TARGET], aku terjatuh dari kasur dan berguling masuk ke kolong tempat tidur yang banyak jaring laba-labanya.",
+      "Halo [TARGET], aku batal datang karena aku lagi ngadain upacara pemakaman buat nyamuk yang barusan kutepuk."
     ],
     "realityBending": [
       "Maaf paman/bibi [TARGET], saya sedang tidak berada di bumi. Tidak sengaja masuk ke dalam portal lemari pakaian dan sekarang tersesat di Narnia bersama kawanan singa berbicara.",
@@ -105,7 +115,12 @@
       "Sori [TARGET], rumahku terjepit di antara dua halaman buku sejarah raksasa, aku nggak bisa keluar sebelum bab ini selesai dibaca.",
       "Aduh [TARGET], algoritma silsilah keluargaku mengalami *error*, sistem sekarang membaca bahwa aku adalah bapak kandung dari kakekku sendiri.",
       "Maaf [TARGET], aku baru tahu bahwa seluruh keluarga kita hanyalah NPC di game simulasi The Sims, aku sedang mencari pemain yang mengendalikan kita.",
-      "Halo [TARGET], aliran gravitasi di ruang keluargaku berpusat pada TV, sehingga semua perabotan dan diriku tertarik ke layarnya."
+      "Halo [TARGET], aliran gravitasi di ruang keluargaku berpusat pada TV, sehingga semua perabotan dan diriku tertarik ke layarnya.",
+      "Maaf [TARGET], fotoku perlahan menghilang dari album foto keluarga, sepertinya seseorang di masa lalu mengubah sejarah.",
+      "Sori [TARGET], rumah kita tertelan oleh distorsi ruang-waktu dan sekarang berlokasi di antara Cincin Saturnus.",
+      "Aduh [TARGET], pohon silsilah keluarga kita mendadak hidup, menumbuhkan akar raksasa, dan menculikku ke sarangnya.",
+      "Maaf [TARGET], DNA-ku bermutasi menjadi *jellyfish* purba, aku tidak bisa lagi bernapas di luar air garam.",
+      "Halo [TARGET], malaikat maut salah menjemputku tadi pagi, aku sedang mengurus proses administrasi banding di akhirat."
     ]
   }
 }

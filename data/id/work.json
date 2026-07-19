@@ -37,7 +37,12 @@
       "Halo [TARGET], saya baru sadar sampai di parkiran kantor kalau saya malah pakai baju koko bekas lebaran kemarin, saya harus pulang ganti baju.",
       "Mohon izin [TARGET], resleting celana saya macet setelah dari toilet bensin, sekarang saya nunggu teman bawakan celana ganti.",
       "Permisi [TARGET], kacamata saya patah diinjak kurir paket yang buru-buru, dunia saya blur parah dan tidak bisa nyetir.",
-      "Maaf [TARGET], saya mengalami lupa ingatan sementara gara-gara jidat kepentok ujung lemari dengan keras pas baru bangun tidur."
+      "Maaf [TARGET], saya mengalami lupa ingatan sementara gara-gara jidat kepentok ujung lemari dengan keras pas baru bangun tidur.",
+      "Maaf [TARGET], saya terjebak macet total gara-gara ada pawai keliling di jalan raya dekat rumah.",
+      "Halo [TARGET], kunci mobil saya hilang entah ke mana di dalam rumah dan saya sudah nyari sejam lebih.",
+      "Mohon izin [TARGET], sol sepatu kerja saya tiba-tiba jebol lepas saat saya mau naik motor, saya harus cari sepatu ganti.",
+      "Permisi [TARGET], laptop saya mendadak mati total dan mengeluarkan asap tipis, saya harus ke tempat servis sekarang.",
+      "Maaf [TARGET], ban motor saya bocor kena tumpukan paku payung di jalan, ini lagi didorong nyari bengkel."
     ],
     "ridiculous": [
       "Maaf [TARGET], hari ini saya tidak bisa masuk kerja dulu karena kucing peliharaan saya mendadak depresi setelah gagal menangkap cicak, saya harus menemani masa pemulihan emosionalnya.",
@@ -71,7 +76,12 @@
       "Halo [TARGET], saya disandera oleh tukang pijat keliling langganan yang ngotot mau memijat saya selama 5 jam tanpa henti.",
       "Mohon izin [TARGET], helm motor saya dikuasai oleh sarang tawon vespa raksasa semalaman, saya tidak berani menyentuhnya.",
       "Maaf [TARGET], saya dikejar rombongan ondel-ondel beringas sepanjang 5 kilometer dan sekarang saya ngumpet di atas pohon.",
-      "Waduh [TARGET], sepatu kerja saya disembunyikan tuyul, saya sudah kasih uang koin tapi dia minta krispi fried chicken."
+      "Waduh [TARGET], sepatu kerja saya disembunyikan tuyul, saya sudah kasih uang koin tapi dia minta krispi fried chicken.",
+      "Maaf [TARGET], saya salah pakai celana dalam di luar gara-gara maraton nonton film Superman semalaman, saya malu buat jalan.",
+      "Halo [TARGET], saya disangka penjual cilok dan dikerubuti anak SD satu sekolahan, saya susah keluar dari kerumunan.",
+      "Mohon izin [TARGET], saya digigit angsa peliharaan pak RT sampai celana saya robek dan kaki saya memar.",
+      "Maaf [TARGET], saya kepeleset kulit pisang ala film kartun dan nyungsep masuk ke dalam got yang bau.",
+      "Waduh [TARGET], rambut saya nyangkut masuk ke dalam kipas angin meja pas saya lagi ngadem, ini lagi digunting perlahan."
     ],
     "realityBending": [
       "Maaf bos [TARGET], saya baru saja dijemput paksa oleh agen lintas dimensi untuk memperbaiki kebocoran ruang-waktu di tahun 2045. Mungkin besok baru bisa kembali ke lini masa ini.",
@@ -105,7 +115,12 @@
       "Halo [TARGET], saya terlempar ke era Jurassic karena salah memutar frekuensi radio FM saat mendengarkan dangdut koplo.",
       "Mohon izin [TARGET], jiwa saya tertukar dengan mesin fotokopi kantor. Saya hanya bisa mengeluarkan kertas HVS saat mencoba bicara.",
       "Maaf [TARGET], saya diculik alien dari galaksi Andromeda karena mereka menyangka saya adalah grandmaster masak rendang antariksa.",
-      "Waduh [TARGET], bumi berhenti berputar tapi khusus di perumahan saya saja, jadi saya masih terjebak di jam 3 pagi yang gelap gulita."
+      "Waduh [TARGET], bumi berhenti berputar tapi khusus di perumahan saya saja, jadi saya masih terjebak di jam 3 pagi yang gelap gulita.",
+      "Maaf [TARGET], gedung kantor kita tiba-tiba berteleportasi ke Planet Mars, oksigen saya tidak cukup untuk *commute* ke sana.",
+      "Halo [TARGET], saya terjebak di dalam permainan *Minesweeper*, kalau saya salah melangkah, kamar saya akan meledak.",
+      "Mohon izin [TARGET], wujud saya berubah menjadi tumpukan dokumen Excel yang belum di- *save*, tolong jangan tekan *close*.",
+      "Maaf [TARGET], alien menculik atasan saya dan menunjuk saya sebagai Duta Besar Galaksi, saya harus menghadiri sidang antariksa.",
+      "Waduh [TARGET], mesin waktu saya rusak dan saya terlempar ke hari libur nasional tahun depan, jadi saya tidak usah masuk kerja."
     ]
   }
 }

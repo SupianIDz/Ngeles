@@ -28,7 +28,12 @@
       "Halo [TARGET], rekening tabunganku keblokir gara-gara terindikasi penipuan pinjol oleh sistem bank, padahal aku nggak ngapa-ngapain.",
       "Aduh [TARGET], uang tunai yang mau kubuat bayar kamu nggak sengaja terendam di mesin cuci sampai hancur jadi bubur kertas.",
       "Maaf [TARGET], ATM-ku tertelan di mesin tua yang rusak, dan pihak bank baru bisa mengurusnya minggu depan.",
-      "Sori ya [TARGET], uangku habis buat ganti rugi nyerempet mobil Alphard orang di lampu merah kemarin sore."
+      "Sori ya [TARGET], uangku habis buat ganti rugi nyerempet mobil Alphard orang di lampu merah kemarin sore.",
+      "Maaf banget [TARGET], uangnya terpaksa kupakai buat operasi usus buntu keponakanku yang mendadak parah.",
+      "Halo [TARGET], gajiku bulan ini telat turun hampir sebulan, perusahaan lagi ada masalah *cashflow*.",
+      "Aduh [TARGET], uang tunai yang mau kukasih ke kamu hilang jatuh di jalan entah di mana, aku nangis banget ini.",
+      "Maaf [TARGET], aku baru aja kena PHK mendadak kemarin sore, aku bener-bener nggak ada pemasukan sekarang.",
+      "Sori ya [TARGET], ATM-ku keblokir gara-gara aku salah masukin PIN tiga kali berturut-turut, lagi error nih otak."
     ],
     "ridiculous": [
       "Maaf [TARGET], uang yang mau kubayar dimakan rayap karena kusimpan di bawah kasur. Aku lagi usahakan ke BI buat tukar uang rusak.",
@@ -58,7 +63,12 @@
       "Aduh [TARGET], aku nggak sengaja bayarin belanjaan ibu-ibu di kasir Indomaret gara-gara grogi dikira dia ibuku sendiri.",
       "Maaf [TARGET], uangnya kugunakan untuk memborong tiket konser orkes dangdut gerobak keliling demi mendukung karir teman masa kecilku.",
       "Halo [TARGET], celenganku ternyata isinya cuma batu kerikil yang disulap keponakanku pakai trik sulap murahan.",
-      "Sori [TARGET], jariku kesemutan kronis setiap mau transfer uang ke rekeningmu, sepertinya ini pertanda buruk dari alam semesta."
+      "Sori [TARGET], jariku kesemutan kronis setiap mau transfer uang ke rekeningmu, sepertinya ini pertanda buruk dari alam semesta.",
+      "Sori [TARGET], amplop uangnya nggak sengaja kumasukkan ke mesin penghancur kertas di kantor, hancur berkeping-keping.",
+      "Aduh [TARGET], uangnya dicuri oleh burung kakatua liar yang terbang masuk lewat jendela kamarku.",
+      "Maaf [TARGET], aku nggak sengaja ngebakar semua uangku waktu lagi mainan korek api kayak adegan di film aksi.",
+      "Halo [TARGET], uangnya aku pakai buat beli asuransi jiwa untuk ikan koki peliharaanku yang gampang stres.",
+      "Sori [TARGET], uang koin di celenganku berubah jadi karatan semua karena kebanjiran, nggak ada toko yang mau nerima."
     ],
     "realityBending": [
       "Dengar [TARGET], secara teknis uang itu adalah energi. Dan menurut Hukum Termodinamika, energi tidak bisa diciptakan atau dimusnahkan. Jadi uangmu tidak hilang, hanya berubah bentuk menjadi aura kosmik di sekitarku.",
@@ -88,7 +98,12 @@
       "Sori [TARGET], uang yang mau kubayarkan mendadak berubah wujud menjadi kupu-kupu emas dan beterbangan keluar dari jendela.",
       "Aduh [TARGET], malaikat penagih utang dari alam barzah mendatangiku dan menyatakan bahwa utangku padamu sudah lunas dalam bentuk amal jariyah.",
       "Halo [TARGET], uang kertas milikku melakukan demonstrasi menuntut kenaikan nilai tukar dan menolak berpindah tangan ke dompetmu.",
-      "Maaf [TARGET], aku terjebak di *timeline* alternatif di mana sistem ekonomi hanya menggunakan cangkang keong laut sebagai alat tukar sah."
+      "Maaf [TARGET], aku terjebak di *timeline* alternatif di mana sistem ekonomi hanya menggunakan cangkang keong laut sebagai alat tukar sah.",
+      "Maaf [TARGET], bank di dimensi ini sudah musnah terhapus oleh tembakan laser dari *Death Star*.",
+      "Sori [TARGET], uang yang mau kubayarkan padamu ternyata hanyalah ilusi optik ciptaan penyihir jalanan.",
+      "Aduh [TARGET], saldo di rekeningku telah dikonversi menjadi energi *dark matter* untuk menyalakan mesin cuci waktu.",
+      "Halo [TARGET], aku terjebak dalam kontrak hutang dengan iblis dari neraka tingkat tujuh, hutangku padamu tidak lagi relevan.",
+      "Maaf [TARGET], mata uang Rupiah sudah tidak diakui oleh Federasi Perdagangan Galaksi, mereka hanya menerima uranium murni."
     ]
   },
   "meta": {

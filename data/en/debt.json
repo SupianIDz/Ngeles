@@ -28,7 +28,12 @@
       "Hello [TARGET], my savings account was blocked because the bank's system flagged it for loan fraud, even though I did nothing.",
       "Oh man [TARGET], the cash I was going to pay you with was accidentally left in the washing machine until it turned into paper mush.",
       "Sorry [TARGET], my ATM card was swallowed by an old broken machine, and the bank said they can only sort it out next week.",
-      "Sorry [TARGET], my money was completely drained to compensate someone after I scraped their luxury car at a red light yesterday afternoon."
+      "Sorry [TARGET], my money was completely drained to compensate someone after I scraped their luxury car at a red light yesterday afternoon.",
+      "I'm really sorry [TARGET], I had to use the money for my nephew's sudden appendicitis surgery.",
+      "Hello [TARGET], my salary has been delayed for almost a month, the company is having cash flow issues.",
+      "Oh man [TARGET], the cash I was going to give you fell out of my pocket on the street somewhere, I'm literally crying right now.",
+      "Sorry [TARGET], I was suddenly laid off yesterday afternoon, I have absolutely zero income right now.",
+      "Sorry [TARGET], my ATM card got blocked because I entered the wrong PIN three times in a row, my brain is malfunctioning."
     ],
     "ridiculous": [
       "I'm sorry [TARGET], the cash I saved for you was eaten by termites under my mattress. I'm currently trying to piece the bills back together.",
@@ -58,7 +63,12 @@
       "Oh man [TARGET], I accidentally paid for an elderly woman's groceries at the cashier because I was so nervous I thought she was my own mother.",
       "Sorry [TARGET], I used the money to buy out tickets for a traveling street dangdut concert to support my childhood friend's career.",
       "Hello [TARGET], my piggy bank turned out to only contain gravel stones swapped by my nephew using a cheap magic trick.",
-      "Sorry [TARGET], my fingers go chronically numb every time I try to transfer money to your account, it must be a bad omen from the universe."
+      "Sorry [TARGET], my fingers go chronically numb every time I try to transfer money to your account, it must be a bad omen from the universe.",
+      "Sorry [TARGET], I accidentally fed the envelope of cash into the office paper shredder, it's shredded into tiny pieces.",
+      "Oh man [TARGET], the money was stolen by a wild cockatoo that flew in through my bedroom window.",
+      "Sorry [TARGET], I accidentally burned all my money while playing with matches trying to look like an action movie scene.",
+      "Hello [TARGET], I used the money to buy life insurance for my pet goldfish who gets stressed easily.",
+      "Sorry [TARGET], the coins in my piggy bank all rusted because of a flood, no store will accept them."
     ],
     "realityBending": [
       "Listen [TARGET], technically money is energy. According to the Laws of Thermodynamics, energy cannot be created or destroyed. So your money isn't gone, it has just changed into a cosmic aura surrounding me.",
@@ -88,7 +98,12 @@
       "Hey [TARGET], the money I was about to pay you with suddenly transformed into golden butterflies and fluttered out the window.",
       "Oh no [TARGET], an angelic debt collector from the afterlife visited me and declared that my debt to you is already paid in spiritual karma points.",
       "Hello [TARGET], my paper money went on a strike demanding a higher exchange rate and refused to change hands into your wallet.",
-      "Sorry [TARGET], I am trapped in an alternate timeline where the economic system only uses sea conch shells as legal tender."
+      "Sorry [TARGET], I am trapped in an alternate timeline where the economic system only uses sea conch shells as legal tender.",
+      "Sorry [TARGET], the bank in this dimension was obliterated by a laser blast from the Death Star.",
+      "Oh man [TARGET], the money I was about to pay you turned out to be just an optical illusion created by a street magician.",
+      "Sorry [TARGET], my account balance was converted into dark matter energy to power a time-traveling washing machine.",
+      "Hello [TARGET], I am trapped in a debt contract with a level-seven demon from hell, my debt to you is no longer relevant.",
+      "Sorry [TARGET], the Rupiah currency is no longer recognized by the Galactic Trade Federation, they only accept pure uranium."
     ]
   },
   "meta": {

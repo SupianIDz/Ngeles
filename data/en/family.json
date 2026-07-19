@@ -37,7 +37,12 @@
       "Hello [TARGET], my neck is severely sprained due to sleeping in the wrong position, turning even slightly feels like an electric shock.",
       "Oh no [TARGET], a neighbor's kid threw a baseball and shattered my living room window. I have to guard the house waiting for the repairman.",
       "Sorry [TARGET], I mistakenly used my mom's gray hair removal cream instead of hair gel. My hair texture is completely ruined.",
-      "Sorry [TARGET], the water dispenser leaked and completely flooded my living room carpet. I have to vacuum the water all day to prevent a musty smell."
+      "Sorry [TARGET], the water dispenser leaked and completely flooded my living room carpet. I have to vacuum the water all day to prevent a musty smell.",
+      "Sorry [TARGET], I have to work on a sudden thesis revision demanded by my professor for tomorrow morning.",
+      "Hello [TARGET], my toothache flared up so badly I can't even eat or speak clearly.",
+      "Oh no [TARGET], a distant relative from out of town suddenly dropped by to stay the night, I have to entertain them.",
+      "Sorry [TARGET], I have a routine doctor's appointment that I booked a month ago.",
+      "Sorry [TARGET], I completely overslept all day because I stayed up all night finishing an assignment."
     ],
     "ridiculous": [
       "Deeply sorry [TARGET], my only decent family-gathering outfit was commandeered as a bed by a stray cat and is now covered in inexplicably magical fur.",
@@ -71,7 +76,12 @@
       "Hey [TARGET], I'm trapped inside the bathroom because the bar soap fell into the sliding door track and jammed it completely.",
       "Oh no [TARGET], a feather duster bristle got stuck in my nose and I've been sneezing non-stop for 4 straight hours without pausing.",
       "Sorry [TARGET], my favorite shorts were blown away by a mini tornado and got entangled in high-voltage power lines.",
-      "Hello [TARGET], I cancelled my trip home because someone mistook me for a valet and forced me to direct traffic at the convenience store."
+      "Hello [TARGET], I cancelled my trip home because someone mistook me for a valet and forced me to direct traffic at the convenience store.",
+      "Sorry [TARGET], I got locked inside the refrigerator while looking for a midnight snack, luckily I haven't frozen completely.",
+      "Hey [TARGET], I can't come because I'm busy chatting with a crow on my roof, he's a very good listener.",
+      "Oh no [TARGET], my head got stuck in my shirt collar because it shrank when I tried to take it off, I'm panicking and can't see.",
+      "Sorry [TARGET], I fell out of bed and rolled all the way under it into a pile of cobwebs.",
+      "Hello [TARGET], I cancelled coming over because I am holding a funeral ceremony for a mosquito I just swatted."
     ],
     "realityBending": [
       "So sorry uncle/aunt [TARGET], I'm not currently on Earth. I accidentally walked through a wardrobe portal and I'm now stranded in Narnia with a very talkative lion.",
@@ -105,7 +115,12 @@
       "Hey [TARGET], my house is currently sandwiched between two pages of a giant history book, I can't leave until this chapter is finished being read.",
       "Oh no [TARGET], the algorithm of our family tree experienced an error. The system now registers me as the biological father of my own grandfather.",
       "Sorry [TARGET], I just discovered that our entire family are just NPCs in a Sims game, I am currently searching for the player controlling us.",
-      "Hello [TARGET], the gravitational pull in my living room centered on the TV, causing all furniture and myself to be sucked into the screen."
+      "Hello [TARGET], the gravitational pull in my living room centered on the TV, causing all furniture and myself to be sucked into the screen.",
+      "Sorry [TARGET], my picture is slowly fading from the family photo album, it seems someone in the past altered history.",
+      "Hey [TARGET], our house was swallowed by a space-time distortion and is now located between the Rings of Saturn.",
+      "Oh no [TARGET], our family tree diagram suddenly came alive, grew giant roots, and dragged me into its lair.",
+      "Sorry [TARGET], my DNA mutated into a prehistoric jellyfish, I can no longer breathe outside of saltwater.",
+      "Hello [TARGET], the grim reaper picked me up by mistake this morning, I am currently processing an administrative appeal in the afterlife."
     ]
   }
 }

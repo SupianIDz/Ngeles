@@ -37,7 +37,12 @@
       "Hello [TARGET], I just realized I arrived at the office parking lot wearing last year's festive holiday pyjamas. I have to go home and change.",
       "Excuse me [TARGET], the zipper on my trousers broke at the gas station toilet, and now I have to wait for a friend to bring spare pants.",
       "Sorry [TARGET], a rushing delivery guy stepped on my glasses and snapped them in half. My world is completely blurred and I can't drive.",
-      "I apologize [TARGET], I'm experiencing temporary amnesia because I smacked my forehead extremely hard on the closet corner right after waking up."
+      "I apologize [TARGET], I'm experiencing temporary amnesia because I smacked my forehead extremely hard on the closet corner right after waking up.",
+      "Sorry [TARGET], I'm stuck in massive gridlock due to a huge neighborhood parade blocking the main road.",
+      "Hello [TARGET], I lost my car keys somewhere inside my house and I've been searching for over an hour.",
+      "Excuse me [TARGET], the sole of my work shoe suddenly snapped off as I was getting on my motorcycle, I need to find a replacement.",
+      "Sorry [TARGET], my laptop suddenly died completely and started emitting thin smoke, I have to take it to the repair shop immediately.",
+      "I apologize [TARGET], my motorcycle tire popped from a pile of thumbtacks on the road, I'm currently pushing it to find a mechanic."
     ],
     "ridiculous": [
       "My sincerest apologies [TARGET], but my cat had an emotional breakdown this morning after failing to catch a lizard. I can't in good conscience leave during her recovery.",
@@ -71,7 +76,12 @@
       "Hello [TARGET], I am currently being held hostage by a traveling massage therapist who insists on giving me a 5-hour massage.",
       "Excuse me [TARGET], my motorcycle helmet was taken over by a giant wasp nest overnight. I dare not even touch it.",
       "Sorry [TARGET], I was chased by a mob of aggressive street performers for 5 miles and am currently hiding up a tree.",
-      "Hey [TARGET], a mythological goblin stole my left work shoe. I offered it coins but it demanded crispy fried chicken."
+      "Hey [TARGET], a mythological goblin stole my left work shoe. I offered it coins but it demanded crispy fried chicken.",
+      "Sorry [TARGET], I accidentally wore my underwear on the outside after binge-watching Superman all night, I'm too embarrassed to walk.",
+      "Hello [TARGET], I was mistaken for a street food vendor and mobbed by an entire elementary school, I can't get out of the crowd.",
+      "Excuse me [TARGET], I was bitten by the neighborhood chief's pet goose until my pants ripped and my leg bruised.",
+      "Sorry [TARGET], I slipped on a banana peel like a cartoon character and face-planted straight into a smelly sewer.",
+      "Hey [TARGET], my hair got sucked into my desk fan while trying to cool down, I'm slowly cutting myself free."
     ],
     "realityBending": [
       "Sorry boss [TARGET], I was forcibly recruited by interdimensional agents to repair a space-time leak in 2045. I should be back in this timeline by tomorrow, maybe.",
@@ -105,7 +115,12 @@
       "Hello [TARGET], I was thrown back into the Jurassic era because I tuned my car radio to the wrong frequency while listening to folk music.",
       "Excuse me [TARGET], my soul swapped with the office photocopier. Whenever I try to speak, I just dispense blank A4 paper.",
       "Sorry [TARGET], I was abducted by aliens from the Andromeda galaxy because they mistook me for a grandmaster cosmic chef.",
-      "Hey [TARGET], the earth stopped rotating, but specifically only in my neighborhood, so I'm permanently stuck at 3 AM in total darkness."
+      "Hey [TARGET], the earth stopped rotating, but specifically only in my neighborhood, so I'm permanently stuck at 3 AM in total darkness.",
+      "Sorry [TARGET], our office building suddenly teleported to Mars, and I don't have enough oxygen for the commute.",
+      "Hello [TARGET], I am trapped inside a game of Minesweeper. If I take the wrong step, my room will explode.",
+      "Excuse me [TARGET], my physical form turned into a stack of unsaved Excel documents, please do not press close.",
+      "Sorry [TARGET], aliens abducted my boss and appointed me as the Galactic Ambassador, I must attend a space summit.",
+      "Hey [TARGET], my time machine broke and threw me into next year's national holiday, so technically I don't have to work."
     ]
   }
 }

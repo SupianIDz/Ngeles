@@ -28,7 +28,12 @@
       "Oh man [TARGET], my eye suddenly developed a massive swollen stye. I'm too ashamed to meet you with one eye half-closed.",
       "Hello [TARGET], I got food poisoning from the ultra-spicy street food I had for lunch. My stomach feels like it's being wrung out.",
       "Sorry [TARGET], my wallet and vehicle registration were pickpocketed while I was lining up for gas. I have to report to the police immediately.",
-      "Sorry [TARGET], my bedroom ceiling suddenly collapsed onto my bed because it was eaten by termites. I'm in shock and have to clean up."
+      "Sorry [TARGET], my bedroom ceiling suddenly collapsed onto my bed because it was eaten by termites. I'm in shock and have to clean up.",
+      "I'm so sorry [TARGET], my head is spinning from severe lack of sleep, my eyes feel too heavy to drive.",
+      "Oh man [TARGET], I'm trapped in a massive traffic jam due to a huge labor strike protest in the city center.",
+      "Hello [TARGET], I'm so sorry I completely forgot we had this date, my schedule is a total mess this week.",
+      "Sorry [TARGET], my coworker suddenly fell sick and my manager forced me to cover their shift tonight.",
+      "Sorry [TARGET], my phone got pickpocketed at the station, I just managed to borrow someone else's phone to tell you."
     ],
     "ridiculous": [
       "I'm sorry [TARGET], I just realized our zodiac signs are fundamentally incompatible and Mercury is in retrograde. My aura reader said it's too dangerous.",
@@ -58,7 +63,12 @@
       "Oh man [TARGET], I can't make the date because I got wedged between the sliding doors of a minimart whose sensors are completely broken.",
       "Sorry [TARGET], I accidentally fell asleep on the clothesline out back and now my body smells like stale sun mixed with laundry detergent.",
       "Hello [TARGET], my pants zipper is so badly jammed I can't close it, and these are my only clean good pants.",
-      "Sorry [TARGET], I was chased by a mob of angry women who mistook me for a pot thief. I'm currently hiding in a sewer drain."
+      "Sorry [TARGET], I was chased by a mob of angry women who mistook me for a pot thief. I'm currently hiding in a sewer drain.",
+      "Sorry [TARGET], I mistakenly confessed my love to a stranger on the street thinking it was you from behind, now their partner is chasing me.",
+      "Oh man [TARGET], my cheek swelled up as big as a bun from a wasp sting while watering plants, I look incredibly ugly right now.",
+      "Sorry [TARGET], my jacket zipper got severely caught on my bottom lip, I'm in pain and can't speak.",
+      "Hello [TARGET], I can't date because I'm busy looking for the lost end of a clear tape roll since this afternoon.",
+      "Sorry [TARGET], I wore the wrong spray, I sprayed mosquito repellent on my neck instead of perfume, now my body is burning and itchy."
     ],
     "realityBending": [
       "Listen [TARGET], an agent from the future just appeared in my room and warned me that our date tonight triggers a zombie apocalypse in 2030. For the sake of humanity, I must cancel.",
@@ -88,7 +98,12 @@
       "Hey [TARGET], my form suddenly turns into an ancient Greek marble statue every time a romantic song plays.",
       "Oh no [TARGET], our date was detected as an anomaly causing the collapse of galactic balance by the inter-dimensional space police.",
       "Hello [TARGET], I can't date you because I just realized that I am merely a fictional character in a novel you wrote yourself.",
-      "Sorry [TARGET], my lips were cursed by a shaman so that every time I try to flirt with you, the only sound that comes out is a screaming duck."
+      "Sorry [TARGET], my lips were cursed by a shaman so that every time I try to flirt with you, the only sound that comes out is a screaming duck.",
+      "Sorry [TARGET], our romance apparently disrupts galactic balance, so the god of love ordered us to cancel the date.",
+      "Oh man [TARGET], I accidentally drank an expired love potion, now I am deeply in love with my washing machine.",
+      "Sorry [TARGET], the red string of our fate was cut by cosmic scissors, we are no longer bound in this timeline.",
+      "Hello [TARGET], our date tonight was cancelled by the universe's latest patch update to fix a reality bug.",
+      "Sorry [TARGET], when I looked into your eyes, I was sucked into a micro black hole and thrown back to the prehistoric era."
     ]
   },
   "meta": {
