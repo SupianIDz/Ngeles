@@ -24,7 +24,12 @@
       "Hello [TARGET], I'm late because the morning train derailed and all stations are closed.",
       "I apologize [TARGET], I have to submit my scholarship documents before the deadline at noon today.",
       "Excuse me [TARGET], I fell down the stairs at home and severely sprained my ankle.",
-      "Sorry [TARGET], the city water supply has been completely shut off since yesterday, I haven't showered at all."
+      "Sorry [TARGET], the city water supply has been completely shut off since yesterday, I haven't showered at all.",
+      "Sorry [TARGET], I got food poisoning after drinking milk that turned out to be expired.",
+      "Hello [TARGET], I can't come to school because I left my backpack on the train.",
+      "I apologize [TARGET], I have to go to the immigration office this morning to urgently renew my passport.",
+      "Excuse me [TARGET], my house key snapped inside the lock and I am locked inside my own home.",
+      "Sorry [TARGET], my eye was accidentally poked while playing basketball yesterday and my vision is severely blurred."
     ],
     "ridiculous": [
       "I'm so sorry [TARGET], I'm late because the neighbor's rooster crowed in a minor key this morning, sending me into a three-hour existential crisis.",
@@ -45,7 +50,12 @@
       "Hello [TARGET], I can't attend because my hair puffed up like a lion after I accidentally used dog shampoo.",
       "Excuse me [TARGET], I'm late because I had to discuss global inflation with a street food vendor.",
       "Sorry [TARGET], my backpack zipper got caught on a neighbor's fence and I can't leave it behind.",
-      "Hey [TARGET], I accidentally wore my little sibling's elementary uniform and it ripped when I tried to breathe."
+      "Hey [TARGET], I accidentally wore my little sibling's elementary uniform and it ripped when I tried to breathe.",
+      "Sorry [TARGET], my school uniform was eaten by a termite colony overnight, leaving only the collar intact.",
+      "Hello [TARGET], I am stuck inside an apartment elevator with a mariachi band playing extremely loud music.",
+      "Excuse me [TARGET], I accidentally sprayed pepper spray on my own face thinking it was perfume.",
+      "Sorry [TARGET], I was chased by a stray dog from the bus stop all the way home, I am too traumatized to go out.",
+      "Hey [TARGET], I suddenly forgot how to read the alphabet, I need time to relearn reading today."
     ],
     "realityBending": [
       "Sorry [TARGET], I won't be in class today because I accidentally stepped into a parallel dimension where school hasn't been invented yet, and it's my duty to establish it.",
@@ -66,7 +76,12 @@
       "Hello [TARGET], I am trapped inside a simulation glitch while trying to cross the street.",
       "Excuse me [TARGET], the whiteboard in my room sucked me into a math dimension, I must solve calculus to escape.",
       "Sorry [TARGET], I suddenly gained telepathic powers and the thoughts of all students are making my head explode.",
-      "Hey [TARGET], my biology textbook spawned a T-Rex dinosaur, I am currently hiding under my bed."
+      "Hey [TARGET], my biology textbook spawned a T-Rex dinosaur, I am currently hiding under my bed.",
+      "Sorry [TARGET], our school building suddenly turned invisible. I am at the location but I can't see anything.",
+      "Hello [TARGET], I accidentally time-traveled to the year 2050 while doing my morning jog.",
+      "Excuse me [TARGET], I fell into a bottomless pit in my backyard and am currently still falling.",
+      "Sorry [TARGET], I am trapped inside a video game, I have to defeat the final boss before I can exit.",
+      "Hey [TARGET], my homework suddenly gained self-awareness, grew legs, and ran away from home."
     ]
   }
 }

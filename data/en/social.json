@@ -27,7 +27,12 @@
       "Oh man [TARGET], I have to cancel because my AC broke down severely and my room is flooded with water.",
       "Sorry [TARGET], I just got home after being stuck in traffic for 3 hours, my body is completely exhausted.",
       "Hey [TARGET], sorry I misread our appointment date, I thought it was next week. I already have another event today.",
-      "Sorry [TARGET], my dog suddenly looks depressed and won't eat, I'm too worried and need to take him to the vet."
+      "Sorry [TARGET], my dog suddenly looks depressed and won't eat, I'm too worried and need to take him to the vet.",
+      "I'm so sorry [TARGET], my severe migraine suddenly relapsed and my head feels like it's splitting.",
+      "Oh man [TARGET], I was suddenly told to babysit my little sibling because my parents have an emergency.",
+      "Sorry [TARGET], I completely forgot that I promised to visit my grandparents out of town today.",
+      "Hey [TARGET], my car battery is completely dead and the car won't start at all, sorry I have to cancel.",
+      "Sorry [TARGET], my energy is completely drained after a grueling day at work, I just need to lie down."
     ],
     "ridiculous": [
       "Sorry [TARGET], I can't leave the house tonight — my pet is giving me a look of pure judgment that I simply cannot ignore.",
@@ -51,7 +56,12 @@
       "Oh man [TARGET], my right eyebrow was just completely shaved off by my toddler nephew, I'm too ashamed to go out.",
       "Sorry [TARGET], I can't go anywhere because my left sock threw a tantrum and is hiding.",
       "Hello [TARGET], I'm trapped inside the bathroom because I forgot to pull the door handle, and then I broke it.",
-      "Hey [TARGET], I'm not joining. I suddenly felt so introverted that even talking to a mirror makes me nervous."
+      "Hey [TARGET], I'm not joining. I suddenly felt so introverted that even talking to a mirror makes me nervous.",
+      "Sorry [TARGET], I accidentally painted my face green and it won't wash off, I look like the Hulk.",
+      "Oh man [TARGET], my left shoe was stolen by a wild monkey while I was hanging laundry out back.",
+      "Sorry [TARGET], I locked myself out of my own apartment completely naked, please don't wait for me.",
+      "Hello [TARGET], I am trapped under an Ikea wardrobe that collapsed on me while I was assembling it.",
+      "Hey [TARGET], I accidentally swallowed a whole garlic clove, my breath smells like a dragon and my stomach burns."
     ],
     "realityBending": [
       "Sorry [TARGET], my house is surrounded by friendly aliens who asked me to teach them how to make local coffee. Abandoning them mid-lesson would be rude.",
@@ -75,7 +85,12 @@
       "Oh man [TARGET], I accidentally swallowed an AI chip and my mind is now controlled by the Windows XP operating system.",
       "Sorry [TARGET], I am trapped in the loading screen of life, the percentage is stuck at 99%.",
       "Hey [TARGET], I suddenly got the power to walk through walls, but my clothes were left behind and I'm stuck.",
-      "Sorry [TARGET], my shadow ran away to hang out with your shadows, so please let it represent me."
+      "Sorry [TARGET], my shadow ran away to hang out with your shadows, so please let it represent me.",
+      "Sorry [TARGET], my physical form is glitching and flickering between this dimension and another.",
+      "Oh man [TARGET], I was just forcibly drafted into an intergalactic war against aliens.",
+      "Sorry [TARGET], a wizard cursed me so that I can only speak in confusing riddles.",
+      "Hey [TARGET], I accidentally swapped bodies with my landlord, I have to find him to swap back.",
+      "Sorry [TARGET], the sun above my neighborhood suddenly went supernova, the traffic is completely jammed."
     ]
   }
 }

@@ -24,7 +24,12 @@
       "Halo [TARGET], saya telat karena kereta jadwal pagi anjlok dan semua stasiun ditutup.",
       "Mohon maaf [TARGET], saya harus mengurus dokumen beasiswa yang deadline-nya siang ini di kantor dinas pendidikan.",
       "Permisi [TARGET], saya terjatuh dari tangga rumah dan pergelangan kaki saya terkilir parah.",
-      "Maaf [TARGET], air PDAM mati total dari kemarin sehingga saya tidak bisa mandi sama sekali pagi ini."
+      "Maaf [TARGET], air PDAM mati total dari kemarin sehingga saya tidak bisa mandi sama sekali pagi ini.",
+      "Maaf [TARGET], saya keracunan makanan setelah meminum susu yang ternyata sudah kedaluwarsa.",
+      "Halo [TARGET], saya tidak bisa ke sekolah karena tas punggung saya tertinggal di dalam kereta.",
+      "Mohon maaf [TARGET], saya harus pergi ke kantor imigrasi pagi ini untuk memperpanjang paspor yang sangat mendesak.",
+      "Permisi [TARGET], kunci pintu rumah saya patah di dalam lubang kunci, saya terkunci di dalam rumah.",
+      "Maaf [TARGET], mata saya tidak sengaja tercolok saat main basket kemarin, pandangan saya kabur."
     ],
     "ridiculous": [
       "Maaf Pak/Bu [TARGET], saya telat karena tadi pagi ayam tetangga berkokok dalam nada minor yang membuat saya merenungi tujuan hidup selama tiga jam.",
@@ -45,7 +50,12 @@
       "Halo [TARGET], saya tidak bisa hadir karena rambut saya mengembang seperti singa setelah salah pakai sampo anjing.",
       "Mohon izin [TARGET], saya telat karena saya harus berdiskusi dengan tukang cilok tentang inflasi global.",
       "Maaf [TARGET], ritsleting tas saya nyangkut di pagar tetangga dan saya tidak bisa meninggalkannya.",
-      "Waduh [TARGET], saya salah pakai seragam SD adik saya dan baju ini sobek saat saya mencoba bernapas."
+      "Waduh [TARGET], saya salah pakai seragam SD adik saya dan baju ini sobek saat saya mencoba bernapas.",
+      "Maaf [TARGET], seragam sekolah saya habis dimakan oleh koloni rayap semalaman, hanya tersisa kerahnya saja.",
+      "Halo [TARGET], saya terjebak di dalam lift apartemen bersama grup band mariachi yang terus bermain musik dengan keras.",
+      "Mohon izin [TARGET], saya tidak sengaja menyemprotkan *pepper spray* ke wajah saya sendiri karena mengira itu parfum.",
+      "Maaf [TARGET], saya dikejar anjing liar dari halte sampai kembali ke rumah, saya terlalu trauma untuk keluar lagi.",
+      "Waduh [TARGET], saya tiba-tiba lupa cara membaca teks alfabet, saya butuh waktu untuk belajar membaca lagi hari ini."
     ],
     "realityBending": [
       "Maaf [TARGET], saya tidak bisa masuk hari ini karena saya terlempar ke dimensi paralel di mana sekolah belum ditemukan dan saya ditugaskan untuk menciptakannya.",
@@ -66,7 +76,12 @@
       "Halo [TARGET], saya terperangkap di dalam *glitch* simulasi saat mencoba menyeberang jalan.",
       "Mohon izin [TARGET], papan tulis di kamarku menghisapku ke dimensi matematika, saya harus menyelesaikan soal kalkulus untuk keluar.",
       "Maaf [TARGET], saya mendadak memiliki kekuatan telepati dan suara pikiran semua siswa membuat kepala saya meledak.",
-      "Waduh [TARGET], buku biologi saya mengeluarkan dinosaurus T-Rex, saya sedang bersembunyi di bawah kasur."
+      "Waduh [TARGET], buku biologi saya mengeluarkan dinosaurus T-Rex, saya sedang bersembunyi di bawah kasur.",
+      "Maaf [TARGET], gedung sekolah kita tiba-tiba menjadi tidak kasat mata, saya sudah di lokasi tapi tidak bisa melihat apa-apa.",
+      "Halo [TARGET], saya tidak sengaja melakukan perjalanan waktu ke tahun 2050 saat sedang berlari pagi.",
+      "Mohon izin [TARGET], saya terperosok ke dalam lubang tanpa dasar di halaman belakang rumah saya.",
+      "Maaf [TARGET], saya terjebak di dalam dunia *video game*, saya harus mengalahkan bos terakhir untuk bisa keluar.",
+      "Waduh [TARGET], buku PR saya mendadak memiliki kesadaran sendiri, menumbuhkan kaki, dan berlari kabur dari rumah."
     ]
   }
 }

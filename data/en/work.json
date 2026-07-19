@@ -27,7 +27,12 @@
       "Hello [TARGET], I am stuck inside my apartment elevator for 30 minutes, the technician is on the way.",
       "Excuse me [TARGET], my blood pressure dropped suddenly and I fainted this morning, the doctor advised bed rest.",
       "Sorry [TARGET], I have to rush my father to the ER due to a sudden heart attack.",
-      "I apologize [TARGET], my house was just broken into by burglars, I am waiting for the police to investigate."
+      "I apologize [TARGET], my house was just broken into by burglars, I am waiting for the police to investigate.",
+      "Sorry [TARGET], I have to stay at the police station as a witness to an accident in front of my house.",
+      "Hello [TARGET], I suffered a severe allergic reaction after eating seafood last night, my face is swollen.",
+      "Excuse me [TARGET], I sprained my wrist badly and I absolutely cannot type.",
+      "Sorry [TARGET], the streets in my neighborhood are flooded knee-deep and vehicles cannot pass.",
+      "I apologize [TARGET], I am helping a hit-and-run victim on the road and need to accompany them to the hospital."
     ],
     "ridiculous": [
       "My sincerest apologies [TARGET], but my cat had an emotional breakdown this morning after failing to catch a lizard. I can't in good conscience leave during her recovery.",
@@ -51,7 +56,12 @@
       "Hello [TARGET], I accidentally swallowed a flying fly and I cannot stop coughing violently.",
       "Excuse me [TARGET], I mistakenly wore my uncle's giant clown shoes and the zipper is jammed, I can't take them off.",
       "Sorry [TARGET], the neighbor's goat broke in and ate my tie along with my presentation documents.",
-      "Hey [TARGET], I got stuck in a children's playground swing and the firefighters are currently trying to cut the metal."
+      "Hey [TARGET], I got stuck in a children's playground swing and the firefighters are currently trying to cut the metal.",
+      "Sorry [TARGET], I accidentally got locked in a mall toilet overnight and was just rescued by a security guard this morning.",
+      "Hello [TARGET], I was chased by a swarm of large bees on my way out and now I am hiding in a ditch.",
+      "Excuse me [TARGET], I accidentally superglued both my hands together and am waiting for medical assistance.",
+      "Sorry [TARGET], my pants ripped entirely in half when getting off the bus, I have to go home to change.",
+      "Hey [TARGET], I accidentally swallowed a fishbone and now I cannot speak at all."
     ],
     "realityBending": [
       "Sorry boss [TARGET], I was forcibly recruited by interdimensional agents to repair a space-time leak in 2045. I should be back in this timeline by tomorrow, maybe.",
@@ -75,7 +85,12 @@
       "Hello [TARGET], time suddenly stopped but only for me, I need a whole day to catch up with your timeline.",
       "Excuse me [TARGET], I got sucked into the Mona Lisa painting in my living room and I'm lost in the museum.",
       "Sorry [TARGET], my WiFi router accidentally created a mini black hole that swallowed my office desk.",
-      "Hey [TARGET], my body turned into a 2D drawing after being crushed by a comic book, I need time to revert to 3D."
+      "Hey [TARGET], my body turned into a 2D drawing after being crushed by a comic book, I need time to revert to 3D.",
+      "Sorry [TARGET], I am stuck in a time loop and keep repeating my morning shower for the last 3 hours.",
+      "Hello [TARGET], my body accidentally turned into a translucent ghost, I cannot physically press the keyboard.",
+      "Excuse me [TARGET], my room suddenly teleported to the middle of the Pacific Ocean, I am waiting for a rescue ship.",
+      "Sorry [TARGET], I was kidnapped by a secret society of underground mole people, I need time to negotiate.",
+      "Hey [TARGET], gravity in my bedroom inverted, I am stuck on the ceiling and cannot reach the doorknob."
     ]
   }
 }

@@ -18,7 +18,12 @@
       "Oh man [TARGET], my beloved cat ran away from home, I'm currently circling the neighborhood looking for him.",
       "Hello [TARGET], there's a district-wide power outage and my house is pitch black, I can't shower or get ready.",
       "Sorry [TARGET], I got a ticket from the police because my vehicle registration is expired, this will take a while.",
-      "Sorry [TARGET], my little cousin was suddenly dropped off at my house because his mom was hospitalized."
+      "Sorry [TARGET], my little cousin was suddenly dropped off at my house because his mom was hospitalized.",
+      "I'm so sorry [TARGET], I got an emergency call from an overseas client that is extremely important.",
+      "Oh man [TARGET], my toothache suddenly flared up so badly my cheek is swollen, I have to see a dentist now.",
+      "Hello [TARGET], I am stuck in a total 4-hour traffic gridlock due to a massive protest on the main road.",
+      "Sorry [TARGET], I got food poisoning after eating a salad for lunch, my stomach is completely destroyed.",
+      "Sorry [TARGET], I completely forgot that tonight is a mandatory extended family dinner I must attend."
     ],
     "ridiculous": [
       "I'm sorry [TARGET], I just realized our zodiac signs are fundamentally incompatible and Mercury is in retrograde. My aura reader said it's too dangerous.",
@@ -38,7 +43,12 @@
       "Oh man [TARGET], the zipper on my bag got tangled in my own hair, I'm trying to carefully cut it out.",
       "Sorry [TARGET], I can't go on the date because I was practicing talking to a mirror but the mirror mocked me.",
       "Hello [TARGET], I cancelled because an ant bit my foot and I don't want to ruin the ecosystem by killing it.",
-      "Sorry [TARGET], I got the date wrong. I thought today was doomsday, so I hid in my bunker all day."
+      "Sorry [TARGET], I got the date wrong. I thought today was doomsday, so I hid in my bunker all day.",
+      "Sorry [TARGET], I accidentally shaved off half the hair on my head while daydreaming, I'm too embarrassed to go out.",
+      "Oh man [TARGET], I accidentally sprayed bug killer on myself thinking it was deodorant.",
+      "Sorry [TARGET], my only good shirt ripped a huge hole in the armpit when I bent down to tie my shoe.",
+      "Hello [TARGET], I am trapped in a station public restroom because there's no toilet paper and the door is jammed.",
+      "Sorry [TARGET], I was chased by a vicious flock of wild pigeons from the park all the way to my house."
     ],
     "realityBending": [
       "Listen [TARGET], an agent from the future just appeared in my room and warned me that our date tonight triggers a zombie apocalypse in 2030. For the sake of humanity, I must cancel.",
@@ -58,7 +68,12 @@
       "Hey [TARGET], I'm trapped inside my TV and currently making a cameo in a 90s soap opera.",
       "Oh no [TARGET], I suddenly lost the concept of love because my emotional memories were wiped by aliens.",
       "Hello [TARGET], time runs twice as fast around me. If I date you, I will grow old in a matter of minutes.",
-      "Sorry [TARGET], the earth was just reset by a cosmic developer, our date was never stored in the save data."
+      "Sorry [TARGET], the earth was just reset by a cosmic developer, our date was never stored in the save data.",
+      "Sorry [TARGET], an alien spacecraft abducted me to use as an experiment on how human dating works.",
+      "Hey [TARGET], I accidentally pressed pause on the universe's time, and I forgot how to unpause it.",
+      "Oh no [TARGET], my reflection in the mirror ran out and stole my identity, I am trapped in the mirror world.",
+      "Hello [TARGET], I teleported to the medieval era and am currently being challenged to a duel by a knight.",
+      "Sorry [TARGET], the universe reset today's save file, our date was automatically wiped from reality's log."
     ]
   },
   "meta": {

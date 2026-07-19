@@ -18,7 +18,12 @@
       "Hello [TARGET], my wallet was lost along with all my ATM cards, I'm currently at the bank blocking them.",
       "Oh man [TARGET], my workplace suddenly went bankrupt and my salary for this month is not being paid at all.",
       "Sorry [TARGET], my savings were drained to fix the roof of my house that collapsed due to strong winds yesterday.",
-      "Sorry [TARGET], my money was borrowed by my brother to retrieve his motorcycle from the shop, he'll pay me next week."
+      "Sorry [TARGET], my money was borrowed by my brother to retrieve his motorcycle from the shop, he'll pay me next week.",
+      "I'm really sorry [TARGET], my bank account was unilaterally frozen due to suspected suspicious activity.",
+      "Hello [TARGET], there was a medical emergency in my family that drained all my savings this month.",
+      "Oh man [TARGET], I just got tricked by an online scammer and my balance was drained to zero.",
+      "Sorry [TARGET], my company delayed paying salaries for two months now, I literally have no money.",
+      "Sorry [TARGET], I had to use the money to pay for my children's overdue tuition fees before their exams."
     ],
     "ridiculous": [
       "I'm sorry [TARGET], the cash I saved for you was eaten by termites under my mattress. I'm currently trying to piece the bills back together.",
@@ -38,7 +43,12 @@
       "Oh man [TARGET], I handed the cash to a beggar statue because I thought it was a real person.",
       "Sorry [TARGET], I'm waiting for it to rain money because the weather forecaster said there will be a cash storm today.",
       "Hello [TARGET], the money in my ATM turned entirely into pennies, I need a week just to count them.",
-      "Sorry [TARGET], I can't pay because my fingers go numb every time I try to type my transfer PIN."
+      "Sorry [TARGET], I can't pay because my fingers go numb every time I try to type my transfer PIN.",
+      "Sorry [TARGET], the cash flew away in a mini tornado when I opened my wallet outside.",
+      "Oh man [TARGET], a loose goat ate all the banknotes I left on my patio table.",
+      "Sorry [TARGET], I accidentally threw my wallet into the bonfire while camping last night.",
+      "Hello [TARGET], I invested the money to buy magic beans that are supposed to grow up to the clouds.",
+      "Sorry [TARGET], my piggy bank was kidnapped by a raccoon that entered through the kitchen window."
     ],
     "realityBending": [
       "Listen [TARGET], technically money is energy. According to the Laws of Thermodynamics, energy cannot be created or destroyed. So your money isn't gone, it has just changed into a cosmic aura surrounding me.",
@@ -58,7 +68,12 @@
       "Hey [TARGET], my account balance is locked inside a magic chest whose key was lost in the Antarctic Ocean.",
       "Oh no [TARGET], my money suddenly evolved into highly conscious beings and refused to be transferred.",
       "Hello [TARGET], my debt to you was paid by an alternate version of me using cosmic precious metals, just check.",
-      "Sorry [TARGET], the zeros in my balance were stolen by time pirates from the 22nd century, it's now in the negatives."
+      "Sorry [TARGET], the zeros in my balance were stolen by time pirates from the 22nd century, it's now in the negatives.",
+      "Sorry [TARGET], the concept of money no longer applies in my timeline, we now trade using hugs.",
+      "Hey [TARGET], my bank balance was sucked into an invisible cosmic economic black hole.",
+      "Oh no [TARGET], a time traveler from the future stole my money to fund a cyborg rebellion.",
+      "Hello [TARGET], magically all the money in my savings turned into chocolate coins wrapped in gold foil.",
+      "Sorry [TARGET], the Galactic Federation confiscated all my earthly assets because I was accused of smuggling antimatter."
     ]
   },
   "meta": {

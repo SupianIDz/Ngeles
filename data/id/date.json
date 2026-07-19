@@ -18,7 +18,12 @@
       "Aduh [TARGET], kucing kesayanganku kabur dari rumah, ini aku lagi keliling kompleks nyariin dia.",
       "Halo [TARGET], ada pemadaman listrik se-kecamatan dan rumahku gelap gulita, aku nggak bisa mandi atau siap-siap.",
       "Maaf ya [TARGET], aku ketilang polisi karena STNK-ku ternyata udah mati, urusannya agak panjang nih.",
-      "Sori [TARGET], sepupuku yang masih kecil tiba-tiba dititipin ke rumahku karena ibunya masuk rumah sakit."
+      "Sori [TARGET], sepupuku yang masih kecil tiba-tiba dititipin ke rumahku karena ibunya masuk rumah sakit.",
+      "Maaf banget [TARGET], ada panggilan darurat dari klien luar negeri yang sangat penting dan nggak bisa diwakilkan.",
+      "Aduh [TARGET], sakit gigiku tiba-tiba kumat parah banget sampai pipiku bengkak, aku harus ke dokter gigi sekarang.",
+      "Halo [TARGET], aku terjebak kemacetan total selama 4 jam karena ada demo besar-besaran di jalan protokol.",
+      "Maaf ya [TARGET], aku keracunan makanan setelah makan salad siang tadi, perutku hancur banget.",
+      "Sori [TARGET], aku benar-benar lupa kalau malam ini ada acara makan malam keluarga besar yang wajib hadir."
     ],
     "ridiculous": [
       "Maaf [TARGET], aku baru nyadar ternyata kita beda zodiak dan merkurius lagi *retrograde*. Menurut ahli auraku, ini sangat berbahaya buat keselamatan kita.",
@@ -38,7 +43,12 @@
       "Aduh [TARGET], resleting tasku nyangkut di rambutku sendiri, ini lagi berusaha digunting hati-hati.",
       "Maaf [TARGET], aku nggak bisa nge-date karena aku lagi latihan ngomong sama cermin tapi cerminnya malah ngejek aku.",
       "Halo [TARGET], aku batal datang karena kakiku digigit semut dan aku nggak mau merusak ekosistem dengan membunuhnya.",
-      "Sori [TARGET], aku salah jadwal. Aku pikir hari ini hari kiamat, jadi aku ngumpet di bunker seharian."
+      "Sori [TARGET], aku salah jadwal. Aku pikir hari ini hari kiamat, jadi aku ngumpet di bunker seharian.",
+      "Sori [TARGET], aku nggak sengaja mencukur setengah rambut kepalaku saat lagi melamun, aku terlalu malu keluar.",
+      "Aduh [TARGET], aku nggak sengaja menyemprotkan cairan pembasmi serangga ke tubuhku karena mengira itu deodoran.",
+      "Maaf [TARGET], satu-satunya kemeja bagusku robek besar di bagian ketiak saat aku mau pakai sepatu.",
+      "Halo [TARGET], aku terjebak di toilet umum stasiun karena tisunya habis dan pintunya macet.",
+      "Sori [TARGET], aku dikejar sekawanan burung merpati liar yang beringas dari taman sampai ke rumah."
     ],
     "realityBending": [
       "Dengar [TARGET], agen dari masa depan baru saja datang ke kamarku dan memperingatkan bahwa kencan kita malam ini akan memicu kiamat zombie di tahun 2030. Demi umat manusia, aku harus *cancel*.",
@@ -58,7 +68,12 @@
       "Sori [TARGET], aku terjebak di dalam TV dan sedang menjadi cameo di sinetron tahun 90-an.",
       "Aduh [TARGET], aku mendadak kehilangan konsep cinta karena memori emosional-ku dihapus oleh alien.",
       "Halo [TARGET], waktu berjalan dua kali lipat lebih cepat di sekitarku, jika aku kencan denganmu, aku akan menjadi tua dalam hitungan menit.",
-      "Maaf [TARGET], bumi baru saja di-reset oleh *developer* kosmik, kencan kita tidak pernah ter-simpan di *save data*."
+      "Maaf [TARGET], bumi baru saja di-reset oleh *developer* kosmik, kencan kita tidak pernah ter-simpan di *save data*.",
+      "Maaf [TARGET], pesawat ruang angkasa alien menculikku untuk dijadikan eksperimen tentang cara kerja kencan manusia.",
+      "Sori [TARGET], aku tidak sengaja menekan tombol *pause* pada waktu semesta, dan aku lupa cara untuk me-*resume*-nya.",
+      "Aduh [TARGET], bayanganku di cermin berlari keluar dan mencuri identitasku, aku terjebak di dunia cermin.",
+      "Halo [TARGET], aku berteleportasi ke era abad pertengahan dan saat ini sedang ditantang duel oleh seorang ksatria.",
+      "Maaf [TARGET], alam semesta me-reset *save file* hari ini, kencan kita otomatis terhapus dari log realita."
     ]
   },
   "meta": {

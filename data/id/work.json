@@ -27,7 +27,12 @@
       "Halo [TARGET], saya terjebak di dalam lift apartemen sejak 30 menit yang lalu, teknisi sedang dalam perjalanan.",
       "Mohon izin [TARGET], tekanan darah saya drop mendadak dan saya pingsan tadi pagi, dokter menyarankan bed rest.",
       "Permisi [TARGET], saya harus mengantar ayah saya ke IGD karena serangan jantung mendadak.",
-      "Maaf [TARGET], rumah saya baru saja dibobol maling, saya sedang menunggu pihak kepolisian untuk olah TKP."
+      "Maaf [TARGET], rumah saya baru saja dibobol maling, saya sedang menunggu pihak kepolisian untuk olah TKP.",
+      "Maaf [TARGET], saya harus menjadi saksi di kantor polisi karena ada kecelakaan di depan rumah saya.",
+      "Halo [TARGET], saya terkena reaksi alergi parah setelah makan *seafood* semalam, wajah saya bengkak.",
+      "Mohon izin [TARGET], pergelangan tangan saya terkilir parah dan saya sama sekali tidak bisa mengetik.",
+      "Permisi [TARGET], jalanan di perumahan saya kebanjiran setinggi lutut dan kendaraan tidak bisa lewat.",
+      "Maaf [TARGET], saya sedang membantu korban kecelakaan tabrak lari di jalan, saya harus ikut ke rumah sakit."
     ],
     "ridiculous": [
       "Maaf [TARGET], hari ini saya tidak bisa masuk kerja dulu karena kucing peliharaan saya mendadak depresi setelah gagal menangkap cicak, saya harus menemani masa pemulihan emosionalnya.",
@@ -51,7 +56,12 @@
       "Halo [TARGET], saya tidak sengaja menelan lalat terbang dan tidak bisa berhenti batuk parah.",
       "Mohon izin [TARGET], saya salah memakai sepatu badut ukuran raksasa milik paman saya dan tidak bisa dilepas karena resletingnya macet.",
       "Maaf [TARGET], kambing tetangga masuk ke rumah dan memakan dasi serta dokumen presentasi saya.",
-      "Waduh [TARGET], saya terjebak di ayunan taman bermain anak-anak dan petugas pemadam kebakaran sedang berusaha memotong besinya."
+      "Waduh [TARGET], saya terjebak di ayunan taman bermain anak-anak dan petugas pemadam kebakaran sedang berusaha memotong besinya.",
+      "Maaf [TARGET], saya tidak sengaja terkunci di dalam toilet mal semalaman dan baru diselamatkan oleh satpam pagi ini.",
+      "Halo [TARGET], saya dikejar oleh kawanan lebah besar saat mau berangkat dan sekarang saya bersembunyi di dalam selokan.",
+      "Mohon izin [TARGET], saya tidak sengaja merekatkan kedua tangan saya menggunakan lem alteco, sedang menunggu bantuan medis.",
+      "Maaf [TARGET], celana saya robek terbelah dua saat turun dari bus, saya harus pulang untuk ganti.",
+      "Waduh [TARGET], saya tidak sengaja menelan tulang ikan dan sekarang saya tidak bisa berbicara sama sekali."
     ],
     "realityBending": [
       "Maaf bos [TARGET], saya baru saja dijemput paksa oleh agen lintas dimensi untuk memperbaiki kebocoran ruang-waktu di tahun 2045. Mungkin besok baru bisa kembali ke lini masa ini.",
@@ -75,7 +85,12 @@
       "Halo [TARGET], waktu mendadak berhenti tapi hanya untuk saya, saya butuh seharian untuk mengejar ketertinggalan dengan waktu kalian.",
       "Mohon izin [TARGET], saya tersedot masuk ke dalam lukisan Monalisa di dinding ruang tamu dan tersesat di museum.",
       "Maaf [TARGET], router WiFi saya secara tidak sengaja menciptakan lubang hitam kecil yang menelan meja kerja saya.",
-      "Waduh [TARGET], tubuh saya berubah menjadi gambar 2D setelah tertimpa komik, butuh waktu untuk kembali ke dimensi 3D."
+      "Waduh [TARGET], tubuh saya berubah menjadi gambar 2D setelah tertimpa komik, butuh waktu untuk kembali ke dimensi 3D.",
+      "Maaf [TARGET], saya terjebak di putaran waktu dan terus mengulang momen mandi pagi sejak 3 jam yang lalu.",
+      "Halo [TARGET], tubuh saya tidak sengaja berubah menjadi hantu tembus pandang, saya tidak bisa menyentuh keyboard.",
+      "Mohon izin [TARGET], kamar saya tiba-tiba berteleportasi ke tengah samudra pasifik, saya sedang menunggu kapal penyelamat.",
+      "Maaf [TARGET], saya diculik oleh sekte rahasia manusia tikus bawah tanah, saya butuh waktu untuk bernegosiasi.",
+      "Waduh [TARGET], gravitasi di kamar saya terbalik, saya terjebak di langit-langit dan tidak bisa meraih gagang pintu."
     ]
   }
 }

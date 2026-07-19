@@ -27,7 +27,12 @@
       "Hello [TARGET], I'm really sorry I have a sudden job interview schedule that I absolutely cannot reschedule.",
       "Oh no [TARGET], my roof is leaking terribly from last night's rain, I'm busy moving all the furniture.",
       "Sorry [TARGET], I bought the wrong train ticket, it's actually for tomorrow, so I can't go home today.",
-      "Sorry [TARGET], I have to standby at home waiting for a courier to deliver super important documents from my office."
+      "Sorry [TARGET], I have to standby at home waiting for a courier to deliver super important documents from my office.",
+      "Sorry [TARGET], I can't come because I suddenly got severe diarrhea since last night.",
+      "Hello [TARGET], I'm really sorry but my car tire blew out in a rural area far from any shop, I'm stuck here.",
+      "Oh no [TARGET], today turns out to be my best friend's wedding day and I have to be a bridesmaid/groomsman.",
+      "Sorry [TARGET], I have to rush my massive college final assignment because the deadline was moved to tomorrow morning.",
+      "Sorry [TARGET], I have a high fever and chills, I think I caught typhoid, I can't get out of bed."
     ],
     "ridiculous": [
       "Deeply sorry [TARGET], my only decent family-gathering outfit was commandeered as a bed by a stray cat and is now covered in inexplicably magical fur.",
@@ -51,7 +56,12 @@
       "Hey [TARGET], a soybean got stuck in my nose and I have to find an ENT specialist open on a holiday.",
       "Oh no [TARGET], I can't travel because my suitcase refuses to be closed even though it's completely empty.",
       "Sorry [TARGET], I'm waiting for the ice cubes in the fridge to freeze, the process requires my full supervision.",
-      "Hello [TARGET], I can't come because I forgot how to walk, currently watching a tutorial on YouTube."
+      "Hello [TARGET], I can't come because I forgot how to walk, currently watching a tutorial on YouTube.",
+      "Sorry [TARGET], I can't come because I can't stop watching a 10-hour documentary about cheese.",
+      "Hey [TARGET], I accidentally superglued the soles of my feet to the floor.",
+      "Oh no [TARGET], my beloved cat is holding me hostage on my bed, she hisses every time I try to stand.",
+      "Sorry [TARGET], I got lost inside my own neighborhood for three hours and my phone died.",
+      "Hello [TARGET], I fell asleep inside my closet while looking for a jacket, and just woke up now."
     ],
     "realityBending": [
       "So sorry uncle/aunt [TARGET], I'm not currently on Earth. I accidentally walked through a wardrobe portal and I'm now stranded in Narnia with a very talkative lion.",
@@ -75,7 +85,12 @@
       "Hey [TARGET], my house shifted to the 8th dimension, I have to wait for planetary rotation to align with earth again.",
       "Oh no [TARGET], I'm locked out of my house because my front door turned into a surrealist painting.",
       "Sorry [TARGET], I am currently participating in a galactic tournament against future robots to save the earth.",
-      "Hello [TARGET], my true form changed into pure energy, you won't be able to see me even if I come."
+      "Hello [TARGET], my true form changed into pure energy, you won't be able to see me even if I come.",
+      "Sorry [TARGET], my memory of our family tree was wiped by Men in Black agents using a neuralyzer.",
+      "Hey [TARGET], I'm trapped in a parallel universe where I am not a member of your family, so I wasn't invited.",
+      "Oh no [TARGET], my house was teleported to the moon by an ancient alien civilization, oxygen is low.",
+      "Sorry [TARGET], my body turned into a puddle of water, I am waiting for cold weather to solidify again.",
+      "Hello [TARGET], I was abducted by time-traveling historians who want to interview me about 21st-century life."
     ]
   }
 }

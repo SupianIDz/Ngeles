@@ -27,7 +27,12 @@
       "Aduh [TARGET], aku harus batalin karena AC di rumah rusak parah dan kamarku kebanjiran airnya.",
       "Sori [TARGET], aku baru banget nyampe rumah setelah kejebak macet 3 jam, badan udah rontok semua.",
       "Eh [TARGET], maaf ya aku salah lihat tanggal janjian, aku kira minggu depan. Hari ini aku udah ada acara lain.",
-      "Maaf [TARGET], anjingku tiba-tiba murung dan nggak mau makan, aku khawatir banget pengen bawa ke dokter hewan."
+      "Maaf [TARGET], anjingku tiba-tiba murung dan nggak mau makan, aku khawatir banget pengen bawa ke dokter hewan.",
+      "Maaf banget [TARGET], migrain parahku tiba-tiba kambuh, kepalaku rasanya mau pecah.",
+      "Aduh [TARGET], aku tiba-tiba disuruh jaga adikku yang masih kecil karena orang tuaku ada urusan mendadak.",
+      "Sori [TARGET], aku lupa banget kalau hari ini aku udah janji mau jenguk kakek-nenekku di luar kota.",
+      "Eh [TARGET], aki mobilku soak banget dan mobilnya nggak mau nyala sama sekali, maaf ya aku batalin.",
+      "Maaf [TARGET], energiku benar-benar habis setelah kerja rodi seharian, aku butuh rebahan total."
     ],
     "ridiculous": [
       "Sorry ya [TARGET], gue gak bisa keluar rumah malam ini karena tiba-tiba peliharaan gue memperlihatkan tatapan menghakimi yang bikin gue merasa bersalah kalau ditinggal pergi.",
@@ -51,7 +56,12 @@
       "Aduh [TARGET], alis kananku baru aja dicukur habis sama keponakanku yang masih balita, aku malu keluar rumah.",
       "Maaf [TARGET], aku nggak bisa ke mana-mana karena kaos kakiku yang satu ngambek dan sembunyi.",
       "Halo [TARGET], aku terjebak di dalam kamar mandi karena aku lupa narik tuas pintu, eh malah patah.",
-      "Eh [TARGET], aku nggak jadi ikut ya, tiba-tiba aku ngerasa terlalu *introvert* sampai-sampai ngomong sama kaca aja aku gugup."
+      "Eh [TARGET], aku nggak jadi ikut ya, tiba-tiba aku ngerasa terlalu *introvert* sampai-sampai ngomong sama kaca aja aku gugup.",
+      "Sori [TARGET], aku nggak sengaja mewarnai wajahku jadi hijau dan catnya nggak mau luntur, aku kayak Hulk sekarang.",
+      "Aduh [TARGET], sepatu kiriku dicuri sama monyet liar pas aku lagi jemur baju di belakang rumah.",
+      "Maaf [TARGET], aku terkunci di luar apartemenku sendiri dalam keadaan hanya pakai handuk, tolong jangan tunggu aku.",
+      "Halo [TARGET], aku terjebak gara-gara merakit lemari pakaian Ikea yang rubuh dan menimpaku.",
+      "Eh [TARGET], aku nggak sengaja menelan bawang putih utuh satu bonggol, napasku bau naga dan perutku panas."
     ],
     "realityBending": [
       "Sorry [TARGET], gue gak bisa nongkrong. Rumah gue tiba-tiba dikepung oleh pasukan alien ramah yang minta diajarin cara bikin kopi lokal, gak sopan kalau ditinggal.",
@@ -75,7 +85,12 @@
       "Sori [TARGET], aku nggak sengaja menelan *chip* AI dan sekarang pikiranku dikendalikan oleh sistem operasi Windows XP.",
       "Aduh [TARGET], aku terjebak di *loading screen* kehidupan, persentasenya stuck di 99%.",
       "Eh [TARGET], aku mendadak punya kekuatan menembus tembok, bajuku tertinggal di ruangan sebelah dan aku tersangkut.",
-      "Maaf [TARGET], bayanganku melarikan diri untuk kumpul sama bayangan kalian, jadi wakilin aku ya."
+      "Maaf [TARGET], bayanganku melarikan diri untuk kumpul sama bayangan kalian, jadi wakilin aku ya.",
+      "Maaf [TARGET], bentuk fisikku sedang mengalami *glitch* dan berkedip-kedip antara dimensi ini dan dimensi lain.",
+      "Sori [TARGET], aku baru saja dipanggil secara paksa untuk wajib militer dalam perang intergalaksi melawan alien.",
+      "Aduh [TARGET], seorang penyihir mengutukku sehingga aku hanya bisa berbicara menggunakan pantun teka-teki.",
+      "Eh [TARGET], aku nggak sengaja bertukar tubuh dengan bapak kosku, aku harus mencari dia untuk bertukar kembali.",
+      "Maaf [TARGET], matahari di atas perumahanku mendadak meledak menjadi supernova, jalannya jadi macet total."
     ]
   }
 }
