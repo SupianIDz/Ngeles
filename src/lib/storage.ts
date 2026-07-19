@@ -36,7 +36,7 @@ export function clearHistory(): HistoryEntry[] {
 
 export function loadLang(): Lang {
   const stored = localStorage.getItem(KEYS.lang);
-  return stored === "en" || stored === "id" ? stored : "en";
+  return stored === "en" || stored === "id" ? stored : "id";
 }
 
 export function saveLang(lang: Lang): void {
