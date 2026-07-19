@@ -8,7 +8,12 @@
       "I'm really sorry [TARGET], I can't pay my debt this month because my company delayed our salary payouts.",
       "Hello [TARGET], sorry, the money I intended to pay you with was used for my mother's sudden hospital bills.",
       "Oh man [TARGET], my ATM card got swallowed by the machine and sorting it out takes time, I'll try next week.",
-      "Sorry [TARGET], my transfers keep failing since yesterday due to the mobile banking app's system outrage."
+      "Sorry [TARGET], my transfers keep failing since yesterday due to the mobile banking app's system outrage.",
+      "I'm really sorry [TARGET], the money I was going to pay you with was urgently used for my mother's sudden medicine prescription.",
+      "Hello [TARGET], my salary was cut this month due to too many absences. I promise to pay you double next month in installments.",
+      "Oh man [TARGET], my banking app got blocked because I entered the wrong PIN 3 times. I have to sort it out at the branch office.",
+      "Sorry [TARGET], my landlord raised the rent and forced me to pay today, I literally have zero cash left.",
+      "Sorry [TARGET], my money went to fixing my motorcycle that was badly damaged after being rear-ended."
     ],
     "ridiculous": [
       "I'm sorry [TARGET], the cash I saved for you was eaten by termites under my mattress. I'm currently trying to piece the bills back together.",
@@ -18,7 +23,12 @@
       "Sorry [TARGET], the cash I was going to give you accidentally went into the washing machine and turned into mush.",
       "Oh no [TARGET], my wallet was pickpocketed by a gang of squirrels while I was walking in the park.",
       "Sorry [TARGET], my pet goblin went on strike so my passive income stream is completely blocked this month.",
-      "Hello [TARGET], I accidentally wired the money to a one-horned rhino protection foundation, it's non-refundable."
+      "Hello [TARGET], I accidentally wired the money to a one-horned rhino protection foundation, it's non-refundable.",
+      "Sorry [TARGET], the money accidentally flew away with a broken kite while I was walking to your house.",
+      "Oh man [TARGET], my piggy bank was broken into by a mythical goblin from the next village, everything is gone.",
+      "Sorry [TARGET], I invested the money in a virtual dinosaur farm. They promised massive profits next week.",
+      "Hello [TARGET], the ATM machine I tried to use literally laughed at me and swallowed my card without a trace.",
+      "Sorry [TARGET], I fed the cash to a goat because I was so sleepy I thought it was banana leaves."
     ],
     "realityBending": [
       "Listen [TARGET], technically money is energy. According to the Laws of Thermodynamics, energy cannot be created or destroyed. So your money isn't gone, it has just changed into a cosmic aura surrounding me.",
@@ -28,7 +38,12 @@
       "Sorry [TARGET], the money in my bank account automatically converted into anti-matter energy due to a cosmic bank bug.",
       "Hey [TARGET], the concept of currency was erased from my mind and society, we are back to a barter system.",
       "Oh no [TARGET], the god of wealth is punishing me by blocking all financial flows in the 4th dimension.",
-      "Hello [TARGET], I just declared inter-galactic bankruptcy, my debts are now handled by alien creditors."
+      "Hello [TARGET], I just declared inter-galactic bankruptcy, my debts are now handled by alien creditors.",
+      "Sorry [TARGET], my account balance was sucked into a dimensional portal leading to a parallel world with no monetary system.",
+      "Hey [TARGET], the money suddenly transformed into a swarm of golden butterflies and flew out of my wallet.",
+      "Oh no [TARGET], the god of poverty is blessing me so that every bill I touch automatically evaporates into thin air.",
+      "Hello [TARGET], my bank account was hacked by a future AI entity that deemed the concept of debt as a primitive human flaw.",
+      "Sorry [TARGET], the global banking system is hit by a spacetime anomaly, returning all our balances to zero like when we were born."
     ]
   },
   "meta": {

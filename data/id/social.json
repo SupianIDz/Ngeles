@@ -17,7 +17,12 @@
       "Maaf banget [TARGET], aku nggak bisa ikut nongkrong hari ini, badanku rasanya meriang dari semalam.",
       "Aduh [TARGET], sori banget aku skip dulu, tiba-tiba disuruh orang tua bantu jaga toko/rumah.",
       "Sori [TARGET], ban motorku bocor nih, bengkel pada tutup semua, kayaknya aku cancel aja ya.",
-      "Eh [TARGET], maaf ya aku ketiduran parah, baru bangun dan rasanya udah telat banget buat nyusul."
+      "Eh [TARGET], maaf ya aku ketiduran parah, baru bangun dan rasanya udah telat banget buat nyusul.",
+      "Maaf banget [TARGET], aku nggak bisa ikut kumpul hari ini, dompetku ketinggalan di kantor dan aku udah sampai rumah.",
+      "Aduh [TARGET], sori aku batalin jadwal kita, tiba-tiba tetanggaku meninggal dan aku harus ikut bantu melayat.",
+      "Sori [TARGET], aku nggak enak badan mendadak nih, kayaknya masuk angin gara-gara kehujanan semalam.",
+      "Eh [TARGET], maaf ya aku ketiduran parah setelah lembur semalaman, baru melek dan kepalaku pusing banget.",
+      "Maaf [TARGET], motorku tiba-tiba mogok di tengah jalan dan bengkel terdekat bilangnya butuh waktu lama buat benerin."
     ],
     "ridiculous": [
       "Sorry ya [TARGET], gue gak bisa keluar rumah malam ini karena tiba-tiba peliharaan gue memperlihatkan tatapan menghakimi yang bikin gue merasa bersalah kalau ditinggal pergi.",
@@ -31,7 +36,12 @@
       "Maaf [TARGET], aku nggak bisa datang karena lagi sibuk ngajarin ikan cupang aku berenang gaya punggung.",
       "Sori [TARGET], aku nggak sengaja kekunci di dalem kulkas pas nyari cemilan, untung ada sinyal WiFi.",
       "Aduh [TARGET], sepatu kiriku ngambek dan jalan sendiri menjauh dari rumah, aku lagi ngejar dia nih.",
-      "Eh [TARGET], aku batal ikut ya, tiba-tiba diserang alergi akut terhadap orang-orang yang terlalu asik."
+      "Eh [TARGET], aku batal ikut ya, tiba-tiba diserang alergi akut terhadap orang-orang yang terlalu asik.",
+      "Sori [TARGET], aku nggak bisa datang, kucingku ngajak ngobrol pakai bahasa isyarat dan ini percakapan yang sangat serius.",
+      "Aduh [TARGET], aku nggak sengaja menelan biji semangka dan takut besok tumbuh pohon di perutku, aku harus ke dokter.",
+      "Maaf [TARGET], bajuku disembunyikan sama cicak di belakang lemari, aku nggak punya baju lain.",
+      "Halo [TARGET], aku batal ikut ya, tiba-tiba aku kena sindrom takut melihat orang yang terlalu bahagia.",
+      "Eh [TARGET], aku nggak bisa ke sana, sepatuku yang satu berubah jadi sandal jepit secara magis, nggak matching jadinya."
     ],
     "realityBending": [
       "Sorry [TARGET], gue gak bisa nongkrong. Rumah gue tiba-tiba dikepung oleh pasukan alien ramah yang minta diajarin cara bikin kopi lokal, gak sopan kalau ditinggal.",
@@ -45,7 +55,12 @@
       "Maaf [TARGET], eksistensiku mendadak terhapus dari garis waktu ini, aku sedang mengurus banding ke dewan kosmik.",
       "Sori [TARGET], kopi yang aku minum ternyata portal ke dimensi lain, aku sekarang lagi di alam barzah 2.0.",
       "Aduh [TARGET], aku terjebak di dalam dunia Minecraft dan nggak bisa menemukan jalan pulang tanpa obsidian.",
-      "Eh [TARGET], aku nggak bisa datang, wujud asliku yang berupa entitas cahaya sedang direboot sama pencipta alam semesta."
+      "Eh [TARGET], aku nggak bisa datang, wujud asliku yang berupa entitas cahaya sedang direboot sama pencipta alam semesta.",
+      "Maaf [TARGET], eksistensiku mendadak memudar seperti debu Thanos, aku harus konsentrasi untuk mempertahankan bentuk fisikku.",
+      "Sori [TARGET], cermin di kamarku menarikku masuk dan sekarang aku hidup di dunia cermin yang serba terbalik.",
+      "Aduh [TARGET], hukum fisika di sekitarku sedang maintenance, aku nggak bisa berjalan karena gaya gesek dinonaktifkan.",
+      "Eh [TARGET], aku nggak bisa datang karena karakterku sedang di-AFK oleh pemain yang mengendalikanku di dunia nyata.",
+      "Maaf [TARGET], alam semesta melakukan re-render pada wajahku, prosesnya butuh waktu 3 jam dan sekarang aku tidak punya hidung."
     ]
   }
 }

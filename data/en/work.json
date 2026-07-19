@@ -17,7 +17,12 @@
       "I'm sorry [TARGET], I have to call in sick today because a water pipe burst at my house and flooded the living room.",
       "Hello [TARGET], I need to take a half-day off, there's an urgent administrative issue at the bank requiring my physical presence.",
       "Sorry [TARGET], I'll be late due to an unexpected road closure from a major sinkhole repair on my route.",
-      "Excuse me [TARGET], I'm taking a sick leave today as my acid reflux flared up badly since last night."
+      "Excuse me [TARGET], I'm taking a sick leave today as my acid reflux flared up badly since last night.",
+      "I apologize [TARGET], I have to call in sick today as there is a total power outage in my area, leaving me unable to prepare or work.",
+      "Hello [TARGET], I'll be coming in late today, my car key broke off inside the ignition.",
+      "Excuse me [TARGET], I need to take the day off because my neighbor is doing major renovations and the dust is triggering my asthma severely.",
+      "Sorry [TARGET], I must be absent today because my babysitter suddenly fell ill and I have no one to watch my kid.",
+      "I'm sorry [TARGET], I cannot make it because there is an emergency road repair right in front of my driveway blocking my car."
     ],
     "ridiculous": [
       "My sincerest apologies [TARGET], but my cat had an emotional breakdown this morning after failing to catch a lizard. I can't in good conscience leave during her recovery.",
@@ -31,7 +36,12 @@
       "Sorry [TARGET], my only clean work shirt got caught in a ceiling fan that's spinning out of control.",
       "Hey [TARGET], my neighbor dropped off their crying baby, and if I leave for work, she threatened to ruin my life.",
       "Hello [TARGET], I can't come in because I accidentally superglued my fingers to the bathroom doorknob.",
-      "Sorry [TARGET], I'm late because a loose iguana blocked my car in the driveway and refused to move."
+      "Sorry [TARGET], I'm late because a loose iguana blocked my car in the driveway and refused to move.",
+      "Sorry [TARGET], I need to take the day off because I just realized a gang of raccoons stole all my work pants last night.",
+      "Hello [TARGET], I'm late because I had to be a silent witness to a stray cat wedding taking place in my garage.",
+      "Excuse me [TARGET], I accidentally applied glow-in-the-dark wall paint instead of lotion this morning, I need time to scrub it off.",
+      "Sorry boss [TARGET], I can't come in. My kitchen coffee maker exploded and is currently holding me hostage with bursts of hot espresso.",
+      "Hey [TARGET], my pet parrot learned the sound of the fire alarm and my neighbors and I spent three hours evacuating in a panic."
     ],
     "realityBending": [
       "Sorry boss [TARGET], I was forcibly recruited by interdimensional agents to repair a space-time leak in 2045. I should be back in this timeline by tomorrow, maybe.",
@@ -45,7 +55,12 @@
       "Sorry [TARGET], I'm trapped in a time loop where I have to win a chess tournament against the grim reaper just to leave my house.",
       "Hello [TARGET], the gravity in my bedroom suddenly reversed, I'm currently typing this while stuck to the ceiling.",
       "Excuse me [TARGET], I accidentally turned into a cluster of pixels after touching a broken monitor, waiting to render back.",
-      "Sorry [TARGET], aliens from the Andromeda galaxy borrowed my body as a host for field research, I'll be back tomorrow."
+      "Sorry [TARGET], aliens from the Andromeda galaxy borrowed my body as a host for field research, I'll be back tomorrow.",
+      "Sorry [TARGET], I'm currently trapped in a Sunday time loop. I'm trying to figure out how to break the cycle so I can reach Monday.",
+      "Hello [TARGET], I accidentally swapped bodies with my pet goldfish. Please give me some time to figure out how to reverse the spell.",
+      "Excuse me [TARGET], my house rendered in 144p resolution this morning, and I literally cannot find the pixels for my front door.",
+      "Sorry [TARGET], I was just recruited by the wizard council to defend earth from astral dragons, I need one day of leave.",
+      "Hey [TARGET], gravity on the highway to the office suddenly reversed, my car is floating and stuck in a cirrus cloud."
     ]
   }
 }

@@ -17,7 +17,12 @@
       "Mohon maaf [TARGET], hari ini saya terpaksa izin karena saluran air di rumah bocor parah dan membanjiri ruang depan.",
       "Halo [TARGET], maaf saya izin setengah hari, ada kendala administratif mendesak di bank yang mengharuskan kehadiran fisik saya.",
       "Maaf [TARGET], saya terlambat karena ada penutupan jalan mendadak akibat perbaikan gorong-gorong di rute utama saya.",
-      "Permisi [TARGET], saya izin sakit hari ini karena asam lambung saya kumat parah sejak semalam."
+      "Permisi [TARGET], saya izin sakit hari ini karena asam lambung saya kumat parah sejak semalam.",
+      "Mohon maaf [TARGET], hari ini saya harus absen karena ada pemadaman listrik total di area rumah saya, sehingga saya tidak bisa bekerja atau bersiap-siap.",
+      "Halo [TARGET], saya izin terlambat masuk hari ini, kunci mobil saya patah di dalam lubang kunci kontak.",
+      "Permisi [TARGET], saya izin tidak masuk karena tetangga rumah saya sedang renovasi dan debunya membuat asma saya kambuh parah.",
+      "Maaf [TARGET], hari ini saya terpaksa izin karena pengasuh anak saya mendadak sakit dan tidak ada yang bisa menjaga anak saya.",
+      "Mohon maaf [TARGET], saya tidak bisa hadir karena ada perbaikan darurat pada infrastruktur jalan di depan rumah yang memblokir akses kendaraan."
     ],
     "ridiculous": [
       "Maaf [TARGET], hari ini saya tidak bisa masuk kerja dulu karena kucing peliharaan saya mendadak depresi setelah gagal menangkap cicak, saya harus menemani masa pemulihan emosionalnya.",
@@ -31,7 +36,12 @@
       "Maaf [TARGET], kemeja kerja saya satu-satunya tersangkut di kipas angin gantung yang sedang berputar kencang.",
       "Waduh [TARGET], tetangga saya menitipkan bayinya yang menangis terus, dan kalau saya tinggal kerja, ibunya mengancam akan marah besar.",
       "Halo [TARGET], saya izin tidak masuk karena saya tidak sengaja mengelem jari saya sendiri ke gagang pintu kamar mandi.",
-      "Maaf [TARGET], saya telat karena tadi pagi ada iguana lepas di jalan dan memblokir kendaraan saya."
+      "Maaf [TARGET], saya telat karena tadi pagi ada iguana lepas di jalan dan memblokir kendaraan saya.",
+      "Maaf [TARGET], saya izin tidak masuk karena saya baru sadar celana kerja saya semuanya dicuri oleh kawanan rakun semalam.",
+      "Halo [TARGET], saya terlambat karena harus menjadi saksi bisu pernikahan dua ekor kucing liar di garasi saya.",
+      "Mohon izin [TARGET], saya tidak sengaja menggunakan cat tembok bercahaya sebagai pengganti lotion pagi ini, saya harus membersihkannya dulu.",
+      "Maaf bos [TARGET], saya tidak bisa ke kantor karena mesin kopi di dapur saya meledak dan menyandera saya dengan semburan espresso panas.",
+      "Waduh [TARGET], burung beo peliharaan saya meniru suara alarm kebakaran, saya dan tetangga panik mengevakuasi barang selama tiga jam."
     ],
     "realityBending": [
       "Maaf bos [TARGET], saya baru saja dijemput paksa oleh agen lintas dimensi untuk memperbaiki kebocoran ruang-waktu di tahun 2045. Mungkin besok baru bisa kembali ke lini masa ini.",
@@ -45,7 +55,12 @@
       "Maaf [TARGET], saya terjebak di loop waktu harian di mana saya harus memenangkan turnamen catur agar bisa keluar rumah.",
       "Halo [TARGET], gravitasi di kamar tidur saya mendadak terbalik, saat ini saya mengetik pesan ini sambil menempel di plafon.",
       "Mohon izin [TARGET], saya secara tidak sengaja berubah menjadi kumpulan piksel setelah menyentuh layar monitor rusak.",
-      "Maaf [TARGET], makhluk dari galaksi tetangga meminjam tubuh saya sebagai inang untuk penelitian lapangan, besok saya kembali."
+      "Maaf [TARGET], makhluk dari galaksi tetangga meminjam tubuh saya sebagai inang untuk penelitian lapangan, besok saya kembali.",
+      "Maaf [TARGET], saya terjebak di putaran waktu hari Minggu. Saat ini saya sedang mencari cara menghentikan siklus agar bisa mencapai hari Senin.",
+      "Halo [TARGET], saya tidak sengaja tertukar tubuh dengan ikan mas koki peliharaan saya. Tolong beri saya waktu untuk menukar kembali.",
+      "Mohon izin [TARGET], rumah saya ter-render dalam resolusi 144p pagi ini, saya tidak bisa menemukan jalan keluar dari pintu depan.",
+      "Maaf [TARGET], saya baru saja direkrut oleh dewan penyihir untuk mempertahankan bumi dari naga astral, saya butuh cuti satu hari.",
+      "Waduh [TARGET], gravitasi di jalan raya menuju kantor tiba-tiba berbalik arah, kendaraan saya melayang dan tersangkut di awan cirrus."
     ]
   }
 }

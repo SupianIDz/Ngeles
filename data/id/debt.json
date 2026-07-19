@@ -8,7 +8,12 @@
       "Maaf banget [TARGET], aku belum bisa bayar utang bulan ini karena gajiku ditunda cair dari perusahaan.",
       "Halo [TARGET], sori ya, uang yang niatnya buat bayar kamu kepakai darurat untuk biaya rumah sakit ibuku.",
       "Aduh [TARGET], kartu ATM-ku tertelan dan proses urus di bank memakan waktu lama, aku usahakan minggu depan.",
-      "Maaf [TARGET], transferanku gagal terus dari kemarin karena aplikasi m-banking sedang gangguan sistem."
+      "Maaf [TARGET], transferanku gagal terus dari kemarin karena aplikasi m-banking sedang gangguan sistem.",
+      "Maaf banget [TARGET], uang yang mau kubuat bayar kamu terpaksa aku pakai buat nebus obat ibuku yang sakit mendadak.",
+      "Halo [TARGET], gajiku bulan ini dipotong gara-gara banyak absen, aku janji bulan depan aku cicil dua kali lipat.",
+      "Aduh [TARGET], aplikasi bank-ku keblokir gara-gara salah masukin PIN 3 kali, ini harus diurus ke kantor cabang dulu.",
+      "Maaf [TARGET], kontrakan rumahku naik dan aku dipaksa bayar hari ini juga, sisa uangku habis sama sekali.",
+      "Sori ya [TARGET], uangku kepakai buat benerin motor yang rusak parah ditabrak orang dari belakang."
     ],
     "ridiculous": [
       "Maaf [TARGET], uang yang mau kubayar dimakan rayap karena kusimpan di bawah kasur. Aku lagi usahakan ke BI buat tukar uang rusak.",
@@ -18,7 +23,12 @@
       "Sori [TARGET], uang tunai yang mau aku kasih ke kamu malah nggak sengaja kemakan sama mesin cuci dan hancur lebur.",
       "Aduh [TARGET], dompetku dicopet sama segerombolan tupai saat aku lagi jalan di taman kota.",
       "Maaf [TARGET], tuyul peliharaanku lagi mogok kerja jadi pemasukan pasifku terhambat total bulan ini.",
-      "Halo [TARGET], aku salah transfer ke rekening yayasan perlindungan anak badak bercula satu, nggak bisa ditarik lagi."
+      "Halo [TARGET], aku salah transfer ke rekening yayasan perlindungan anak badak bercula satu, nggak bisa ditarik lagi.",
+      "Sori [TARGET], uangnya nggak sengaja kebawa terbang sama layang-layang putus waktu aku jalan ke rumahmu.",
+      "Aduh [TARGET], celenganku ternyata dibobol sama tuyul dari kampung sebelah, ludes semuanya.",
+      "Maaf [TARGET], uangnya aku investasikan ke peternakan dinosaurus virtual, katanya minggu depan bakal profit besar.",
+      "Halo [TARGET], mesin ATM yang mau kupakai malah mengeluarkan suara ketawa lalu memakan kartuku tanpa sisa.",
+      "Sori [TARGET], uang tunainya aku kasih makan ke kambing karena kupikir itu daun pisang, aku lagi ngantuk banget."
     ],
     "realityBending": [
       "Dengar [TARGET], secara teknis uang itu adalah energi. Dan menurut Hukum Termodinamika, energi tidak bisa diciptakan atau dimusnahkan. Jadi uangmu tidak hilang, hanya berubah bentuk menjadi aura kosmik di sekitarku.",
@@ -28,7 +38,12 @@
       "Maaf [TARGET], uang di rekeningku secara otomatis terkonversi menjadi energi antimateri akibat bug di bank kosmik.",
       "Sori [TARGET], konsep uang tiba-tiba terhapus dari ingatanku dan masyarakat sekitarku, kita kembali ke sistem barter.",
       "Aduh [TARGET], dewa kekayaan sedang menghukumku dengan memblokir aliran rezeki di dimensi ke-4.",
-      "Halo [TARGET], aku baru saja menyatakan kebangkrutan antar-galaksi, hutang-hutangku sekarang diambil alih oleh alien kreditur."
+      "Halo [TARGET], aku baru saja menyatakan kebangkrutan antar-galaksi, hutang-hutangku sekarang diambil alih oleh alien kreditur.",
+      "Maaf [TARGET], saldo rekeningku tersedot masuk ke dalam portal dimensi menuju dunia paralel yang tidak mengenal sistem moneter.",
+      "Sori [TARGET], uang tiba-tiba berubah wujud menjadi sekumpulan kupu-kupu emas dan terbang meninggalkan dompetku.",
+      "Aduh [TARGET], dewa kemiskinan sedang memberkatiku sehingga setiap uang yang kusentuh otomatis menguap menjadi udara.",
+      "Halo [TARGET], akun bankku diretas oleh entitas AI dari masa depan yang menganggap konsep hutang adalah produk primitif manusia.",
+      "Maaf [TARGET], sistem perbankan global sedang dilanda anomali ruang waktu, sehingga saldo kita kembali ke angka nol seperti saat baru lahir."
     ]
   },
   "meta": {

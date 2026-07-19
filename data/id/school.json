@@ -14,7 +14,12 @@
       "Maaf [TARGET], hari ini saya izin tidak masuk sekolah karena mengantar adik saya yang sakit ke puskesmas.",
       "Halo [TARGET], saya datang terlambat hari ini karena ban sepeda motor saya bocor di tengah jalan.",
       "Mohon maaf [TARGET], saya tidak bisa hadir karena ada acara keluarga yang sangat mendesak di luar kota.",
-      "Permisi [TARGET], saya izin sakit karena gejala tipes dan disarankan dokter untuk istirahat total selama beberapa hari."
+      "Permisi [TARGET], saya izin sakit karena gejala tipes dan disarankan dokter untuk istirahat total selama beberapa hari.",
+      "Maaf [TARGET], saya izin tidak masuk sekolah hari ini karena kacamata saya pecah tadi pagi dan saya tidak bisa melihat jelas.",
+      "Halo [TARGET], saya datang terlambat karena seragam sekolah saya masih basah kuyup akibat mesin cuci yang rusak.",
+      "Mohon maaf [TARGET], saya tidak bisa hadir karena ada acara adat di kampung halaman yang mewajibkan seluruh anggota keluarga hadir.",
+      "Permisi [TARGET], saya izin sakit hari ini, tenggorokan saya sangat sakit dan suara saya hilang total.",
+      "Maaf [TARGET], saya telat karena terjebak kemacetan parah akibat ada pohon tumbang di jalan utama."
     ],
     "ridiculous": [
       "Maaf Pak/Bu [TARGET], saya telat karena tadi pagi ayam tetangga berkokok dalam nada minor yang membuat saya merenungi tujuan hidup selama tiga jam.",
@@ -25,7 +30,12 @@
       "Maaf [TARGET], PR saya dimakan oleh kambing tetangga yang lepas dan menerobos masuk ke pekarangan rumah.",
       "Waduh [TARGET], saya tidak bisa sekolah karena seragam saya dijemur dan diterbangkan angin topan sampai ke desa sebelah.",
       "Halo [TARGET], saya telat karena harus berdebat dengan kalkulator saya yang tiba-tiba mogok kerja menolak berhitung.",
-      "Mohon maaf [TARGET], tas sekolah saya disandera oleh sekawanan monyet saat saya lewat jalan pintas."
+      "Mohon maaf [TARGET], tas sekolah saya disandera oleh sekawanan monyet saat saya lewat jalan pintas.",
+      "Maaf [TARGET], buku tugas saya tidak sengaja dimasak oleh ibu saya karena dikira talenan.",
+      "Halo [TARGET], saya telat karena saya harus mengejar tupai yang mencuri penghapus kesayangan saya sampai ke taman kota.",
+      "Mohon izin [TARGET], saya tidak sekolah karena rambut saya tidak sengaja tercukur pitak oleh adik saya saat tertidur.",
+      "Maaf [TARGET], saya terjebak di dalam kamar mandi karena knop pintunya tiba-tiba hancur menjadi debu saat dipegang.",
+      "Waduh [TARGET], sepatu kanan dan kiri saya terus bertengkar dan berjalan ke arah yang berlawanan pagi ini."
     ],
     "realityBending": [
       "Maaf [TARGET], saya tidak bisa masuk hari ini karena saya terlempar ke dimensi paralel di mana sekolah belum ditemukan dan saya ditugaskan untuk menciptakannya.",
@@ -36,7 +46,12 @@
       "Maaf [TARGET], ruang kelas kita tergeser ke dimensi paralel tadi malam, saya sedang mencari portal masuknya.",
       "Halo [TARGET], otak saya tiba-tiba melakukan update firmware dan saya harus restart kesadaran selama 24 jam.",
       "Mohon izin [TARGET], saya diserap masuk ke dalam buku sejarah dan harus berjuang di Perang Dunia II sebelum bisa keluar.",
-      "Maaf [TARGET], mesin waktu mini saya rusak dan saya terjebak di zaman prasejarah, butuh waktu seharian untuk kembali."
+      "Maaf [TARGET], mesin waktu mini saya rusak dan saya terjebak di zaman prasejarah, butuh waktu seharian untuk kembali.",
+      "Maaf [TARGET], ruang kelas saya di dunia nyata tergantikan oleh ruang hampa dimensi ke-5, saya takut masuk ke dalamnya.",
+      "Halo [TARGET], hari ini jadwal saya terhapus dari memori matriks semesta, sistem mendeteksi saya tidak terdaftar sebagai murid.",
+      "Mohon izin [TARGET], waktu berjalan mundur di rumah saya, saat ini saya sedang mengulang makan malam kemarin.",
+      "Maaf [TARGET], buku sejarah saya membuka portal ke masa lalu dan saya terpaksa harus menghadiri rapat persiapan kemerdekaan.",
+      "Waduh [TARGET], tulisan di buku catatan saya tiba-tiba hidup dan menuntut hak asasi sebagai karya sastra, saya sedang bernegosiasi."
     ]
   }
 }

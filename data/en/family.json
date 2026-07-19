@@ -17,7 +17,12 @@
       "Sorry [TARGET], I can't join the family gathering today, I suddenly got called in for an extra work shift.",
       "Hello [TARGET], so sorry but I'm really not feeling well today, my stomach has been acting up since morning.",
       "Oh no [TARGET], I can't come because there's a massive storm here and the street in front of my house is flooded.",
-      "Sorry [TARGET], I have an urgent matter with a friend who had an accident, so I have to cancel my attendance."
+      "Sorry [TARGET], I have an urgent matter with a friend who had an accident, so I have to cancel my attendance.",
+      "Sorry [TARGET], I can't join the family event. My boss suddenly asked me to handle an important client presentation this afternoon.",
+      "Hello [TARGET], I'm really sorry but I have a high fever, and I'm afraid of infecting the cousins and the little kids.",
+      "Oh no [TARGET], my car broke down and has to be towed, so I can't make it to our hometown today.",
+      "Sorry [TARGET], I have an urgent matter dealing with my lost ID card and important documents because my wallet was stolen last night.",
+      "Sorry [TARGET], there's a gas leak in my kitchen and I have to wait for the technician to come fix it."
     ],
     "ridiculous": [
       "Deeply sorry [TARGET], my only decent family-gathering outfit was commandeered as a bed by a stray cat and is now covered in inexplicably magical fur.",
@@ -31,7 +36,12 @@
       "Sorry [TARGET], I can't come because I got a terrible haircut and now I look like a pineapple, I'm too ashamed.",
       "Hey [TARGET], the neighbor's cat keeps staring at me menacingly, I am too terrified to walk out the door.",
       "Oh no [TARGET], my pants ripped wide open when I squatted earlier, and it was my only clean pair.",
-      "Sorry [TARGET], I'm waiting for a package delivery from a courier who's been lost in the woods since yesterday."
+      "Sorry [TARGET], I'm waiting for a package delivery from a courier who's been lost in the woods since yesterday.",
+      "Sorry [TARGET], I can't come because I accidentally used strong glue instead of toothpaste, and my lips are sealed shut.",
+      "Hey [TARGET], my pet pigeon is heartbroken over the neighbor's dove, and I need to console him all day.",
+      "Oh no [TARGET], I'm trapped inside my room because my dog swallowed the doorknob.",
+      "Sorry [TARGET], I'm busy looking for the end of the rainbow behind my house because I heard there's a pot of gold.",
+      "Hello [TARGET], I can't come because my partner is punishing me by making me count the exact number of grains in a kilo of rice."
     ],
     "realityBending": [
       "So sorry uncle/aunt [TARGET], I'm not currently on Earth. I accidentally walked through a wardrobe portal and I'm now stranded in Narnia with a very talkative lion.",
@@ -45,7 +55,12 @@
       "Sorry [TARGET], our family tree got re-encrypted by the universe, I need a cosmic decryptor to verify I'm actually related to you.",
       "Hey [TARGET], I got sucked into an old family photo album and am currently stuck in the year 2005.",
       "Oh no [TARGET], my DNA is undergoing spontaneous mutation into an alien species, it's safer for you to stay away.",
-      "Sorry [TARGET], my house was lifted by a spiral vortex and just landed on an uncharted alien planet."
+      "Sorry [TARGET], my house was lifted by a spiral vortex and just landed on an uncharted alien planet.",
+      "Sorry [TARGET], our family memories turn out to be just a simulation implant from the year 3000, I'm contacting cosmic customer service.",
+      "Hey [TARGET], my physical body is hijacked by a 4th-dimensional being, this is just a hologram of me apologizing.",
+      "Oh no [TARGET], the flow of time in my house slowed down. 1 hour for you is 1 year for me. I can't afford the trip.",
+      "Sorry [TARGET], my house was sucked into a micro black hole that spawned from my microwave oven.",
+      "Hello [TARGET], our family tree suddenly came alive and is scolding me for rarely watering its roots."
     ]
   }
 }

@@ -17,7 +17,12 @@
       "I'm so sorry [TARGET], I can't make it to our hangout today, my body has been aching since last night.",
       "Oh man [TARGET], I gotta skip this one, my parents suddenly asked me to help watch the family store.",
       "Sorry [TARGET], my bike got a flat tire and all nearby repair shops are closed, I think I have to cancel.",
-      "Hey [TARGET], sorry I overslept so badly, I just woke up and it's too late for me to catch up with you guys."
+      "Hey [TARGET], sorry I overslept so badly, I just woke up and it's too late for me to catch up with you guys.",
+      "I'm so sorry [TARGET], I can't join the hangout today. I left my wallet at the office and I just got home.",
+      "Oh man [TARGET], sorry I have to cancel our plans. A neighbor suddenly passed away and I need to help out with the mourning.",
+      "Sorry [TARGET], I suddenly feel really unwell. I think I caught a cold from being in the rain last night.",
+      "Hey [TARGET], I apologize but I overslept terribly after pulling an all-nighter for work, I just woke up with a huge headache.",
+      "Sorry [TARGET], my motorcycle broke down in the middle of the road and the nearest shop said it'll take a long time to fix."
     ],
     "ridiculous": [
       "Sorry [TARGET], I can't leave the house tonight — my pet is giving me a look of pure judgment that I simply cannot ignore.",
@@ -31,7 +36,12 @@
       "Sorry [TARGET], I can't come because I'm busy teaching my pet fish how to swim backstroke.",
       "My bad [TARGET], I accidentally locked myself inside the fridge while looking for snacks, luckily there's WiFi.",
       "Oh gosh [TARGET], my left shoe got mad and walked away from the house on its own, I'm currently chasing it.",
-      "Hey [TARGET], I'm canceling, I suddenly developed an acute allergic reaction to people having too much fun."
+      "Hey [TARGET], I'm canceling, I suddenly developed an acute allergic reaction to people having too much fun.",
+      "Sorry [TARGET], I can't make it. My cat started talking to me in sign language and it's a very serious conversation.",
+      "Oh man [TARGET], I accidentally swallowed a watermelon seed and I'm scared a tree will grow in my stomach, I need to see a doctor.",
+      "Sorry [TARGET], my clothes were hidden by a lizard behind my wardrobe and I literally have nothing to wear.",
+      "Hey [TARGET], I'm canceling. I suddenly developed a phobia of seeing people who are too excessively happy.",
+      "Sorry [TARGET], I can't go there, one of my shoes magically transformed into a flip-flop and they don't match anymore."
     ],
     "realityBending": [
       "Sorry [TARGET], my house is surrounded by friendly aliens who asked me to teach them how to make local coffee. Abandoning them mid-lesson would be rude.",
@@ -45,7 +55,12 @@
       "Sorry [TARGET], my existence was suddenly erased from this timeline, I'm appealing to the cosmic council.",
       "My bad [TARGET], the coffee I drank turned out to be a portal, I'm currently chilling in the astral plane.",
       "Oh man [TARGET], I'm trapped inside a Minecraft world and can't build a nether portal to go home.",
-      "Hey [TARGET], I can't make it, my true form as an entity of light is being rebooted by the creator."
+      "Hey [TARGET], I can't make it, my true form as an entity of light is being rebooted by the creator.",
+      "Sorry [TARGET], my existence is suddenly fading away like Thanos' dust, I need to concentrate to maintain my physical form.",
+      "Oh man [TARGET], the mirror in my room pulled me in and now I live in a reverse mirror world.",
+      "Sorry [TARGET], the laws of physics around me are under maintenance. I can't walk because friction has been disabled.",
+      "Hey [TARGET], I can't come because my character is being put on AFK by the player controlling me in the real world.",
+      "Sorry [TARGET], the universe is re-rendering my face. The process takes 3 hours and currently I don't have a nose."
     ]
   }
 }

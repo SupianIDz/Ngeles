@@ -8,7 +8,12 @@
       "I'm so sorry [TARGET], I have to cancel our date today, my boss suddenly dumped a massive overtime task on me.",
       "Oh no [TARGET], sorry but my stomach is in terrible pain, I think I got food poisoning from last night.",
       "Hello [TARGET], my car tire blew out on the highway, I'm waiting for a tow truck, let's reschedule.",
-      "Sorry [TARGET], I'm feeling really sick, heavy flu, and I don't want to risk infecting you."
+      "Sorry [TARGET], I'm feeling really sick, heavy flu, and I don't want to risk infecting you.",
+      "I'm so sorry [TARGET], I have to cancel our date today. There's a work emergency that requires me to be on standby with my laptop all day.",
+      "Oh man [TARGET], sorry but my stomach has been really unfriendly since morning, I think I have mild enteritis.",
+      "Hello [TARGET], my motorcycle tire blew out in the middle of nowhere. Still looking for a repair guy, let's reschedule.",
+      "Sorry [TARGET], the weather is extremely bad with severe wind storms, I'm afraid it's too dangerous to travel now.",
+      "Sorry [TARGET], I just remembered I have a monthly dental appointment that I booked three months ago and can't be moved."
     ],
     "ridiculous": [
       "I'm sorry [TARGET], I just realized our zodiac signs are fundamentally incompatible and Mercury is in retrograde. My aura reader said it's too dangerous.",
@@ -18,7 +23,12 @@
       "Sorry [TARGET], I accidentally mistook superglue for hair pomade, now my hand is stuck to my head.",
       "Oh no [TARGET], my mom hid my motorcycle keys because I haven't washed the dishes since the jurassic era.",
       "Sorry [TARGET], I cancelled because my cat cried uncontrollably when I tried to leave, I just couldn't do it.",
-      "Hello [TARGET], I put on the wrong outfit—an old clown costume—and the zipper is jammed, I can't take it off."
+      "Hello [TARGET], I put on the wrong outfit—an old clown costume—and the zipper is jammed, I can't take it off.",
+      "Sorry [TARGET], I accidentally shaved my left eyebrow completely off. I'm too embarrassed to meet you today.",
+      "Oh man [TARGET], my pants ripped while putting on my shoes, and all my other pants are currently in the laundry.",
+      "Sorry [TARGET], I can't go on the date because my cat keeps glaring at me as if he's forbidding me from dating.",
+      "Hello [TARGET], I can't go out. I fell asleep with a mud mask on and now it has hardened into solid cement.",
+      "Sorry [TARGET], I accidentally swallowed chewing gum and now I feel the need to bed-rest so my intestines don't stick together."
     ],
     "realityBending": [
       "Listen [TARGET], an agent from the future just appeared in my room and warned me that our date tonight triggers a zombie apocalypse in 2030. For the sake of humanity, I must cancel.",
@@ -28,7 +38,12 @@
       "Sorry [TARGET], I can't make the date because my future self from 2050 time-traveled here to stop me from meeting you.",
       "Hey [TARGET], the restaurant we agreed on just morphed into a vacuum void, we'd better postpone.",
       "Oh no [TARGET], I accidentally pressed the reality reset button, so today doesn't exist on the calendar anymore.",
-      "Hello [TARGET], my real body is currently held hostage by my doppelganger from a parallel universe, please don't trust them."
+      "Hello [TARGET], my real body is currently held hostage by my doppelganger from a parallel universe, please don't trust them.",
+      "Sorry [TARGET], the inter-universal matchmaking agency called and stated that our relationship could destroy the Milky Way galaxy.",
+      "Hey [TARGET], the place we agreed on suddenly shifted its coordinates into outer space, and I don't own a spacesuit.",
+      "Oh no [TARGET], the 'Undo' button on my reality is jammed, I keep getting thrown back to yesterday every time I try to leave.",
+      "Hello [TARGET], I was abducted by aliens who want to study human flirting behavior, they need me as a sample.",
+      "Sorry [TARGET], an alternate version of me from another universe came and replaced me on our date, hope you like them."
     ]
   },
   "meta": {

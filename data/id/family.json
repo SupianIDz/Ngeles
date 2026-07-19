@@ -17,7 +17,12 @@
       "Maaf [TARGET], aku nggak bisa ikut kumpul keluarga hari ini karena mendadak dapet panggilan kerja shift tambahan.",
       "Halo [TARGET], sori banget hari ini aku lagi nggak enak badan, perutku bermasalah dari pagi.",
       "Aduh [TARGET], aku nggak bisa datang karena hujan badai di sini dan jalanan depan rumah banjir.",
-      "Maaf [TARGET], aku ada urusan mendesak dengan teman yang lagi kena musibah, jadi terpaksa batal hadir."
+      "Maaf [TARGET], aku ada urusan mendesak dengan teman yang lagi kena musibah, jadi terpaksa batal hadir.",
+      "Maaf [TARGET], aku nggak bisa ikut acara keluarga, tiba-tiba bos minta aku handle presentasi penting ke klien siang ini.",
+      "Halo [TARGET], sori banget aku lagi demam tinggi, takut nularin ke sepupu dan anak-anak kecil yang lain.",
+      "Aduh [TARGET], mobilku mogok dan harus ditarik pakai derek, jadi aku nggak bisa pulang kampung hari ini.",
+      "Maaf [TARGET], aku mendadak ada urusan mengurus KTP dan dokumen penting lainnya yang hilang kecopetan semalam.",
+      "Sori [TARGET], ada kebocoran gas di dapur rumahku, aku harus nunggu teknisi datang benerin."
     ],
     "ridiculous": [
       "Maaf banget keluarga besar [TARGET], baju batik andalan satu-satunya tidak sengaja dijadikan alas tidur oleh kucing liar dan sekarang penuh bulu magis.",
@@ -31,7 +36,12 @@
       "Maaf [TARGET], aku nggak bisa datang karena rambutku salah potong dan sekarang bentuknya mirip nanas, aku terlalu malu.",
       "Sori [TARGET], kucing tetangga terus menatapku dengan tatapan mengancam, aku nggak berani keluar pintu.",
       "Aduh [TARGET], celanaku sobek lebar banget pas jongkok tadi, dan itu celana satu-satunya yang bersih.",
-      "Maaf [TARGET], aku lagi nungguin paket COD dari kurir yang dari kemaren nyasar terus ke hutan lindung."
+      "Maaf [TARGET], aku lagi nungguin paket COD dari kurir yang dari kemaren nyasar terus ke hutan lindung.",
+      "Maaf [TARGET], aku nggak bisa datang karena aku nggak sengaja pakai lem kuat sebagai pengganti pasta gigi, bibirku nempel sekarang.",
+      "Sori [TARGET], burung dara peliharaanku patah hati karena merpati tetangga, aku harus menghiburnya seharian.",
+      "Aduh [TARGET], aku terjebak di dalam kamar karena gagang pintunya ditelan anjing peliharaanku.",
+      "Maaf [TARGET], aku lagi sibuk nyari ujung pelangi di belakang rumah karena katanya ada panci isi emas.",
+      "Halo [TARGET], aku nggak bisa datang karena aku lagi dihukum sama pacarku suruh ngitungin jumlah beras sekilo."
     ],
     "realityBending": [
       "Maaf paman/bibi [TARGET], saya sedang tidak berada di bumi. Tidak sengaja masuk ke dalam portal lemari pakaian dan sekarang tersesat di Narnia bersama kawanan singa berbicara.",
@@ -45,7 +55,12 @@
       "Maaf [TARGET], silsilah keluargaku tiba-tiba terenkripsi ulang, aku butuh decryptor kosmik untuk memastikan aku beneran anak bapak.",
       "Sori [TARGET], aku ketarik masuk ke dalam album foto keluarga lama dan sekarang terjebak di tahun 2005.",
       "Aduh [TARGET], DNA-ku sedang mengalami mutasi spontan menjadi spesies alien, lebih baik kalian menjauh dariku.",
-      "Maaf [TARGET], rumahku terangkat oleh pusaran angin spiral dan sekarang mendarat di planet asing."
+      "Maaf [TARGET], rumahku terangkat oleh pusaran angin spiral dan sekarang mendarat di planet asing.",
+      "Maaf [TARGET], memori keluarga kita ternyata cuma simulasi implan dari tahun 3000, aku sedang menghubungi customer service-nya.",
+      "Sori [TARGET], tubuh asliku sedang dibajak oleh makhluk dimensi keempat, ini hanyalah hologramku yang minta maaf.",
+      "Aduh [TARGET], aliran waktu di rumahku melambat, 1 jam bagi kalian adalah 1 tahun bagiku. Aku nggak sanggup ke sana.",
+      "Maaf [TARGET], rumahku terhisap ke dalam lubang hitam berukuran mikro yang muncul dari oven microwave-ku.",
+      "Halo [TARGET], pohon silsilah keluarga kita mendadak hidup dan memarahiku karena jarang menyiram akarnya."
     ]
   }
 }
