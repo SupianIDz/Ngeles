@@ -1,23 +1,39 @@
 {
-  "title": "Batal Kencan",
-  "excuses": {
+  "levels": {
     "normal": [
       "Maaf banget ya {target}, aku tiba-tiba meriang dan pusing banget sejak sore tadi. Kayaknya aku butuh istirahat di rumah dulu.",
       "Aduh {target}, bosku mendadak minta meeting darurat malam ini juga buat ngebahas project besok. Sumpah ga bisa ditinggal.",
       "Sorry ya {target}, kucingku tiba-tiba muntah-muntah dan aku harus bawa dia ke klinik hewan sekarang juga.",
-      "Maaf {target}, ada urusan keluarga mendadak yang bener-bener penting dan aku harus pulang sekarang. Kita *reschedule* ya."
+      "Maaf {target}, ada urusan keluarga mendadak yang bener-bener penting dan aku harus pulang sekarang. Kita *reschedule* ya.",
+      "Maaf banget [TARGET], aku harus cancel kencan kita hari ini, tiba-tiba bos ngasih kerjaan lembur dadakan.",
+      "Aduh [TARGET], sori banget perutku melilit banget dari tadi, kayaknya keracunan makanan yang semalam.",
+      "Halo [TARGET], ban mobilku pecah di jalan tol, ini lagi nunggu derek, mending kita atur ulang jadwal aja ya.",
+      "Maaf ya [TARGET], aku lagi nggak enak badan, flu berat dan takut malah nularin ke kamu."
     ],
     "ridiculous": [
       "Maaf {target}, aku baru nyadar ternyata kita beda zodiak dan merkurius lagi *retrograde*. Menurut ahli auraku, ini sangat berbahaya buat keselamatan kita.",
       "Aduh {target}, aku nggak bisa keluar rumah malam ini. Mantan pacarku nyewa dukun buat bikin aku diare tiap kali mau nge-date.",
       "Gini {target}, baju favorit yang mau kupakai ternyata diculik tetangga jemurannya. Aku nggak punya baju lain yang cocok.",
-      "Maaf ya {target}, aku salah naik Gojek dan sekarang aku malah dibawa ke kondangan keluarga *driver*-nya. Nggak enak kalau aku langsung pulang."
+      "Maaf ya {target}, aku salah naik Gojek dan sekarang aku malah dibawa ke kondangan keluarga *driver*-nya. Nggak enak kalau aku langsung pulang.",
+      "Sori [TARGET], aku nggak sengaja pakai pomade pakai lem alteco, sekarang tanganku nempel di kepala.",
+      "Aduh [TARGET], mamaku nyembunyiin kunci motor karena aku belum cuci piring dari zaman prasejarah.",
+      "Maaf [TARGET], aku batal datang karena kucingku menangis tersedu-sedu saat aku mau keluar, aku nggak tega.",
+      "Halo [TARGET], aku salah pakai baju, pakai kostum badut bekas keponakan dan restletingnya macet nggak bisa dibuka."
     ],
     "realityBending": [
       "Dengar {target}, agen dari masa depan baru saja datang ke kamarku dan memperingatkan bahwa kencan kita malam ini akan memicu kiamat zombie di tahun 2030. Demi umat manusia, aku harus *cancel*.",
       "Maaf {target}, aku tiba-tiba terjebak di dimensi paralel di mana konsep 'kencan' tidak pernah ditemukan. Aku harus mencari portal kembali ke bumimu.",
       "Aku nggak bisa datang {target}. Gravitasi di rumahku mendadak hilang dan aku sekarang mengambang di langit-langit kamar nggak bisa turun.",
-      "{target}, tolong! Aku berubah wujud jadi kulkas dua pintu setelah minum ramuan misterius. Kamu nggak mau kan nge-date sama elektronik rumah tangga?"
+      "{target}, tolong! Aku berubah wujud jadi kulkas dua pintu setelah minum ramuan misterius. Kamu nggak mau kan nge-date sama elektronik rumah tangga?",
+      "Maaf [TARGET], aku nggak bisa kencan hari ini karena masa depanku dari tahun 2050 datang dan melarangku bertemu denganmu.",
+      "Sori [TARGET], restoran tempat kita janjian mendadak berubah menjadi ruang hampa udara, lebih baik kita tunda.",
+      "Aduh [TARGET], aku tidak sengaja menekan tombol reset pada realita, jadi hari ini tidak pernah ada di kalender.",
+      "Halo [TARGET], tubuh asliku sedang disandera oleh doppelganger dari universe sebelah, tolong jangan percaya padanya."
     ]
+  },
+  "meta": {
+    "lang": "id",
+    "context": "date",
+    "title": "Batal Kencan"
   }
 }

@@ -13,7 +13,11 @@
       "Maaf [TARGET], mobil saya tidak bisa menyala pagi ini. Saya sedang menunggu bantuan dan akan update segera setelah tahu perkiraan waktu tiba.",
       "Maaf [TARGET], jaringan internet di rumah saya tiba-tiba mati total akibat tiang listrik ditabrak truk, teknisi baru datang siang ini.",
       "Mohon maaf [TARGET], saya telat karena anak saya tiba-tiba demam tinggi pagi ini dan saya harus mengantarnya ke klinik terdekat.",
-      "Halo [TARGET], saya izin terlambat masuk kantor karena kereta komuter mengalami gangguan persinyalan di stasiun sebelumnya."
+      "Halo [TARGET], saya izin terlambat masuk kantor karena kereta komuter mengalami gangguan persinyalan di stasiun sebelumnya.",
+      "Mohon maaf [TARGET], hari ini saya terpaksa izin karena saluran air di rumah bocor parah dan membanjiri ruang depan.",
+      "Halo [TARGET], maaf saya izin setengah hari, ada kendala administratif mendesak di bank yang mengharuskan kehadiran fisik saya.",
+      "Maaf [TARGET], saya terlambat karena ada penutupan jalan mendadak akibat perbaikan gorong-gorong di rute utama saya.",
+      "Permisi [TARGET], saya izin sakit hari ini karena asam lambung saya kumat parah sejak semalam."
     ],
     "ridiculous": [
       "Maaf [TARGET], hari ini saya tidak bisa masuk kerja dulu karena kucing peliharaan saya mendadak depresi setelah gagal menangkap cicak, saya harus menemani masa pemulihan emosionalnya.",
@@ -23,7 +27,11 @@
       "Maaf [TARGET], saya salah baca alarm tadi pagi — niatnya bangun jam 6, ternyata itu jam tidur, bukan bangun. Kronologi ini masih saya investigasi.",
       "Maaf [TARGET], saya tidak bisa ke kantor hari ini karena kunci motor saya disembunyikan oleh burung gagak dan dia minta tebusan kacang tanah.",
       "Halo [TARGET], saya telat karena tadi pagi saya tidak sengaja menggunakan lem super sebagai pengganti pomade. Saya sedang mencoba melepaskan sisir dari kepala saya.",
-      "Mohon maaf [TARGET], saya tidak bisa hadir karena rumah saya tiba-tiba dikelilingi oleh kawanan angsa liar yang sangat agresif."
+      "Mohon maaf [TARGET], saya tidak bisa hadir karena rumah saya tiba-tiba dikelilingi oleh kawanan angsa liar yang sangat agresif.",
+      "Maaf [TARGET], kemeja kerja saya satu-satunya tersangkut di kipas angin gantung yang sedang berputar kencang.",
+      "Waduh [TARGET], tetangga saya menitipkan bayinya yang menangis terus, dan kalau saya tinggal kerja, ibunya mengancam akan marah besar.",
+      "Halo [TARGET], saya izin tidak masuk karena saya tidak sengaja mengelem jari saya sendiri ke gagang pintu kamar mandi.",
+      "Maaf [TARGET], saya telat karena tadi pagi ada iguana lepas di jalan dan memblokir kendaraan saya."
     ],
     "realityBending": [
       "Maaf bos [TARGET], saya baru saja dijemput paksa oleh agen lintas dimensi untuk memperbaiki kebocoran ruang-waktu di tahun 2045. Mungkin besok baru bisa kembali ke lini masa ini.",
@@ -33,7 +41,11 @@
       "Mohon maaf [TARGET], saya tidak sengaja masuk ke anomali temporal saat sedang bikin kopi. Saya sudah menjalani hari ini sebanyak tiga kali dan tetap saja terlambat.",
       "Maaf [TARGET], saya tidak sengaja masuk ke lift yang membawa saya ke tahun 1998. Saya sedang mencari warnet untuk mengirim email ini.",
       "Halo [TARGET], bayangan saya menolak untuk mengikuti saya bekerja hari ini dan malah berbaring di sofa. Saya tidak berani keluar tanpanya.",
-      "Mohon maaf [TARGET], tubuh saya tiba-tiba berubah menjadi format 2D saat bangun tidur. Saya sedang mencoba mengembalikan dimensi saya."
+      "Mohon maaf [TARGET], tubuh saya tiba-tiba berubah menjadi format 2D saat bangun tidur. Saya sedang mencoba mengembalikan dimensi saya.",
+      "Maaf [TARGET], saya terjebak di loop waktu harian di mana saya harus memenangkan turnamen catur agar bisa keluar rumah.",
+      "Halo [TARGET], gravitasi di kamar tidur saya mendadak terbalik, saat ini saya mengetik pesan ini sambil menempel di plafon.",
+      "Mohon izin [TARGET], saya secara tidak sengaja berubah menjadi kumpulan piksel setelah menyentuh layar monitor rusak.",
+      "Maaf [TARGET], makhluk dari galaksi tetangga meminjam tubuh saya sebagai inang untuk penelitian lapangan, besok saya kembali."
     ]
   }
 }

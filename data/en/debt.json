@@ -1,23 +1,39 @@
 {
-  "title": "Unpaid Debt",
-  "excuses": {
+  "levels": {
     "normal": [
       "I'm so sorry, {target}. I had some unexpected car repairs this month that wiped out my budget. I'll get you back next paycheck.",
       "Hey {target}, my company's payroll system glitched and my salary is delayed by a week. Can I have a slight extension?",
       "I completely forgot, {target}. I just had to pay an emergency medical bill for my family. I'll make sure to settle it by the end of the month.",
-      "Sorry {target}, my utility bills were way higher than expected this month. I'll send you half of it next week, promise."
+      "Sorry {target}, my utility bills were way higher than expected this month. I'll send you half of it next week, promise.",
+      "I'm really sorry [TARGET], I can't pay my debt this month because my company delayed our salary payouts.",
+      "Hello [TARGET], sorry, the money I intended to pay you with was used for my mother's sudden hospital bills.",
+      "Oh man [TARGET], my ATM card got swallowed by the machine and sorting it out takes time, I'll try next week.",
+      "Sorry [TARGET], my transfers keep failing since yesterday due to the mobile banking app's system outrage."
     ],
     "ridiculous": [
       "I'm sorry {target}, the cash I saved for you was eaten by termites under my mattress. I'm currently trying to piece the bills back together.",
       "Listen {target}, I loaned the money to a Nigerian prince who emailed me. He's supposed to wire me back 10x the amount next week. Just hold on!",
       "I had the cash ready, {target}, but on my way to the ATM, I was mugged by a gang of aggressive raccoons. They took my whole wallet.",
-      "I deeply apologize {target}, I just got scammed by a fake iguana breeding investment scheme. My capital is tied up in reptiles right now."
+      "I deeply apologize {target}, I just got scammed by a fake iguana breeding investment scheme. My capital is tied up in reptiles right now.",
+      "Sorry [TARGET], the cash I was going to give you accidentally went into the washing machine and turned into mush.",
+      "Oh no [TARGET], my wallet was pickpocketed by a gang of squirrels while I was walking in the park.",
+      "Sorry [TARGET], my pet goblin went on strike so my passive income stream is completely blocked this month.",
+      "Hello [TARGET], I accidentally wired the money to a one-horned rhino protection foundation, it's non-refundable."
     ],
     "realityBending": [
       "Listen {target}, technically money is energy. According to the Laws of Thermodynamics, energy cannot be created or destroyed. So your money isn't gone, it has just changed into a cosmic aura surrounding me.",
       "Sorry {target}, I was abducted by aliens and they confiscated all my earthly assets for research in the Andromeda galaxy. As soon as I contact the intergalactic embassy, I'll wire you.",
       "I'm trapped in a time loop, {target}. Today keeps repeating and I haven't reached the day where I actually have money to pay you. Please be patient with this spacetime anomaly.",
-      "{target}, the Central Bank just reset the entire national financial system in my dream last night. De facto, all civilian debts have been erased."
+      "{target}, the Central Bank just reset the entire national financial system in my dream last night. De facto, all civilian debts have been erased.",
+      "Sorry [TARGET], the money in my bank account automatically converted into anti-matter energy due to a cosmic bank bug.",
+      "Hey [TARGET], the concept of currency was erased from my mind and society, we are back to a barter system.",
+      "Oh no [TARGET], the god of wealth is punishing me by blocking all financial flows in the 4th dimension.",
+      "Hello [TARGET], I just declared inter-galactic bankruptcy, my debts are now handled by alien creditors."
     ]
+  },
+  "meta": {
+    "lang": "en",
+    "context": "debt",
+    "title": "Unpaid Debt"
   }
 }

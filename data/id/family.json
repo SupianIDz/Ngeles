@@ -13,7 +13,11 @@
       "Maaf tidak bisa hadir [TARGET], si kecil mendadak tidak enak badan dan saya tidak enak hati meninggalkannya. Semoga nanti ada kesempatan berikutnya.",
       "Maaf ya [TARGET], saya tidak bisa mampir hari ini karena harus melembur kerjaan dadakan dari bos yang harus selesai besok pagi.",
       "Waduh maaf [TARGET], kebetulan ban mobil saya bocor di tengah jalan saat mau ke sana. Ini sedang menunggu montir datang.",
-      "Mohon maaf [TARGET], perut saya kumat lagi asam lambungnya, jadi saya butuh istirahat di rumah dulu hari ini."
+      "Mohon maaf [TARGET], perut saya kumat lagi asam lambungnya, jadi saya butuh istirahat di rumah dulu hari ini.",
+      "Maaf [TARGET], aku nggak bisa ikut kumpul keluarga hari ini karena mendadak dapet panggilan kerja shift tambahan.",
+      "Halo [TARGET], sori banget hari ini aku lagi nggak enak badan, perutku bermasalah dari pagi.",
+      "Aduh [TARGET], aku nggak bisa datang karena hujan badai di sini dan jalanan depan rumah banjir.",
+      "Maaf [TARGET], aku ada urusan mendesak dengan teman yang lagi kena musibah, jadi terpaksa batal hadir."
     ],
     "ridiculous": [
       "Maaf banget keluarga besar [TARGET], baju batik andalan satu-satunya tidak sengaja dijadikan alas tidur oleh kucing liar dan sekarang penuh bulu magis.",
@@ -23,7 +27,11 @@
       "Maaf [TARGET], niat setrika baju tapi malah tersedot ke dokumenter sejarah kancing baju. Empat jam kemudian, saya masih di sini.",
       "Maaf keluarga [TARGET], kue bawaan saya tadi direbut oleh kawanan monyet liar di lampu merah. Saya terlalu trauma untuk melanjutkan perjalanan.",
       "Duh [TARGET], saya tidak bisa datang karena celana kesayangan saya tiba-tiba menyusut seukuran baju boneka setelah dicuci.",
-      "Maaf ya [TARGET], saya tersesat di dalam pusat perbelanjaan baru selama 6 jam karena eskalatornya terus berputar membentuk ilusi optik."
+      "Maaf ya [TARGET], saya tersesat di dalam pusat perbelanjaan baru selama 6 jam karena eskalatornya terus berputar membentuk ilusi optik.",
+      "Maaf [TARGET], aku nggak bisa datang karena rambutku salah potong dan sekarang bentuknya mirip nanas, aku terlalu malu.",
+      "Sori [TARGET], kucing tetangga terus menatapku dengan tatapan mengancam, aku nggak berani keluar pintu.",
+      "Aduh [TARGET], celanaku sobek lebar banget pas jongkok tadi, dan itu celana satu-satunya yang bersih.",
+      "Maaf [TARGET], aku lagi nungguin paket COD dari kurir yang dari kemaren nyasar terus ke hutan lindung."
     ],
     "realityBending": [
       "Maaf paman/bibi [TARGET], saya sedang tidak berada di bumi. Tidak sengaja masuk ke dalam portal lemari pakaian dan sekarang tersesat di Narnia bersama kawanan singa berbicara.",
@@ -33,7 +41,11 @@
       "Maaf [TARGET], bayangan saya lepas sendiri tadi pagi dan sekarang sedang pura-pura jadi saya di acara keluarga lain. Saya harus tinggal di rumah demi alasan identitas.",
       "Maaf paman/bibi [TARGET], ruang tamu saya baru saja kehilangan konsep ruang dan waktu. Saya terjebak dalam paradoks temporal selama lima menit yang terasa seperti sepuluh tahun.",
       "Halo [TARGET], saya tidak bisa hadir karena alien baru saja mendarat di halaman belakang dan memaksa saya mengajarkan mereka cara membuat rendang.",
-      "Maaf [TARGET], alam semesta saya tiba-tiba bergeser sejauh dua meter ke kiri, jadi pintu keluar rumah saya sekarang menghadap ke dimensi kehampaan."
+      "Maaf [TARGET], alam semesta saya tiba-tiba bergeser sejauh dua meter ke kiri, jadi pintu keluar rumah saya sekarang menghadap ke dimensi kehampaan.",
+      "Maaf [TARGET], silsilah keluargaku tiba-tiba terenkripsi ulang, aku butuh decryptor kosmik untuk memastikan aku beneran anak bapak.",
+      "Sori [TARGET], aku ketarik masuk ke dalam album foto keluarga lama dan sekarang terjebak di tahun 2005.",
+      "Aduh [TARGET], DNA-ku sedang mengalami mutasi spontan menjadi spesies alien, lebih baik kalian menjauh dariku.",
+      "Maaf [TARGET], rumahku terangkat oleh pusaran angin spiral dan sekarang mendarat di planet asing."
     ]
   }
 }

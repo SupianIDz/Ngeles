@@ -13,7 +13,11 @@
       "Sorry to miss it [TARGET], I had every intention of coming but my youngest isn't feeling well and I don't feel comfortable leaving them.",
       "I'm sorry [TARGET], I can't drop by today because I have to work overtime on a sudden request from my boss that's due tomorrow.",
       "Oh no, sorry [TARGET], I got a flat tire on my way there. I'm currently waiting for the mechanic to arrive.",
-      "Apologies [TARGET], my acid reflux is acting up again, so I really need to stay home and rest today."
+      "Apologies [TARGET], my acid reflux is acting up again, so I really need to stay home and rest today.",
+      "Sorry [TARGET], I can't join the family gathering today, I suddenly got called in for an extra work shift.",
+      "Hello [TARGET], so sorry but I'm really not feeling well today, my stomach has been acting up since morning.",
+      "Oh no [TARGET], I can't come because there's a massive storm here and the street in front of my house is flooded.",
+      "Sorry [TARGET], I have an urgent matter with a friend who had an accident, so I have to cancel my attendance."
     ],
     "ridiculous": [
       "Deeply sorry [TARGET], my only decent family-gathering outfit was commandeered as a bed by a stray cat and is now covered in inexplicably magical fur.",
@@ -23,7 +27,11 @@
       "Really sorry [TARGET], I started ironing my shirt and somehow got absorbed into a documentary about the history of buttons. Four hours later, here we are.",
       "Sorry [TARGET], the cake I brought was snatched by a gang of wild monkeys at the traffic light. I am too traumatized to continue my journey.",
       "Oh [TARGET], I can't make it because my favorite pants suddenly shrank to the size of doll clothes in the wash.",
-      "I'm sorry [TARGET], I got lost in the new shopping mall for 6 hours because the escalators kept looping like an optical illusion."
+      "I'm sorry [TARGET], I got lost in the new shopping mall for 6 hours because the escalators kept looping like an optical illusion.",
+      "Sorry [TARGET], I can't come because I got a terrible haircut and now I look like a pineapple, I'm too ashamed.",
+      "Hey [TARGET], the neighbor's cat keeps staring at me menacingly, I am too terrified to walk out the door.",
+      "Oh no [TARGET], my pants ripped wide open when I squatted earlier, and it was my only clean pair.",
+      "Sorry [TARGET], I'm waiting for a package delivery from a courier who's been lost in the woods since yesterday."
     ],
     "realityBending": [
       "So sorry uncle/aunt [TARGET], I'm not currently on Earth. I accidentally walked through a wardrobe portal and I'm now stranded in Narnia with a very talkative lion.",
@@ -33,7 +41,11 @@
       "Apologies [TARGET], my shadow detached itself this morning and is currently impersonating me at a different family gathering. I have to stay home for identity reasons.",
       "Sorry aunt/uncle [TARGET], my living room just lost the concept of space and time. I was stuck in a temporal paradox for five minutes that felt like ten years.",
       "Hi [TARGET], I can't attend because aliens just landed in my backyard and are forcing me to teach them how to cook rendang.",
-      "Apologies [TARGET], my universe suddenly shifted two meters to the left, so my front door now opens into the void dimension."
+      "Apologies [TARGET], my universe suddenly shifted two meters to the left, so my front door now opens into the void dimension.",
+      "Sorry [TARGET], our family tree got re-encrypted by the universe, I need a cosmic decryptor to verify I'm actually related to you.",
+      "Hey [TARGET], I got sucked into an old family photo album and am currently stuck in the year 2005.",
+      "Oh no [TARGET], my DNA is undergoing spontaneous mutation into an alien species, it's safer for you to stay away.",
+      "Sorry [TARGET], my house was lifted by a spiral vortex and just landed on an uncharted alien planet."
     ]
   }
 }

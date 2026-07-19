@@ -13,7 +13,11 @@
       "Hey [TARGET], I would love to but I totally forgot I promised to help a friend move some furniture tonight. I can't bail on them.",
       "I'm sorry [TARGET], I'll have to pass on hanging out today because there's a sudden family matter I can't leave.",
       "Oh man [TARGET], I can't make it because it's raining heavily here and the street in front of my house is flooded.",
-      "Sorry [TARGET], I left my wallet at the office and only realized it when I was about to leave. Too lazy to turn back, maybe next time."
+      "Sorry [TARGET], I left my wallet at the office and only realized it when I was about to leave. Too lazy to turn back, maybe next time.",
+      "I'm so sorry [TARGET], I can't make it to our hangout today, my body has been aching since last night.",
+      "Oh man [TARGET], I gotta skip this one, my parents suddenly asked me to help watch the family store.",
+      "Sorry [TARGET], my bike got a flat tire and all nearby repair shops are closed, I think I have to cancel.",
+      "Hey [TARGET], sorry I overslept so badly, I just woke up and it's too late for me to catch up with you guys."
     ],
     "ridiculous": [
       "Sorry [TARGET], I can't leave the house tonight — my pet is giving me a look of pure judgment that I simply cannot ignore.",
@@ -23,7 +27,11 @@
       "Really sorry [TARGET], I accidentally started a 'quick' cleaning session and now I'm three rooms deep and philosophically committed to finishing.",
       "Sorry [TARGET], I can't join because my cat looks incredibly sad today and I need to provide it with intensive psychological therapy.",
       "Oh [TARGET], I sprained my pinky finger while intensely scrolling TikTok. The doctor advised me not to hold any coffee cups for a while.",
-      "Sorry [TARGET], I'm trapped in the bathroom because the door handle broke off. Please pray I survive on this bar of soap."
+      "Sorry [TARGET], I'm trapped in the bathroom because the door handle broke off. Please pray I survive on this bar of soap.",
+      "Sorry [TARGET], I can't come because I'm busy teaching my pet fish how to swim backstroke.",
+      "My bad [TARGET], I accidentally locked myself inside the fridge while looking for snacks, luckily there's WiFi.",
+      "Oh gosh [TARGET], my left shoe got mad and walked away from the house on its own, I'm currently chasing it.",
+      "Hey [TARGET], I'm canceling, I suddenly developed an acute allergic reaction to people having too much fun."
     ],
     "realityBending": [
       "Sorry [TARGET], my house is surrounded by friendly aliens who asked me to teach them how to make local coffee. Abandoning them mid-lesson would be rude.",
@@ -33,7 +41,11 @@
       "Really sorry [TARGET], a minor deity dropped by unannounced and insisted I complete a riddle before I'm allowed to leave the house. On question 7 of 40.",
       "Bro [TARGET], I can't come because the real-life NPCs around me are glitching and I can't access the navigation menu to reach the cafe.",
       "Sorry [TARGET], the gravity around my house suddenly hit zero. I haven't been able to climb down from my garage ceiling since morning.",
-      "Apologies [TARGET], I got thrown into another multiverse where our favorite cafe is filled with shark-headed humans. I'm too scared to go there."
+      "Apologies [TARGET], I got thrown into another multiverse where our favorite cafe is filled with shark-headed humans. I'm too scared to go there.",
+      "Sorry [TARGET], my existence was suddenly erased from this timeline, I'm appealing to the cosmic council.",
+      "My bad [TARGET], the coffee I drank turned out to be a portal, I'm currently chilling in the astral plane.",
+      "Oh man [TARGET], I'm trapped inside a Minecraft world and can't build a nether portal to go home.",
+      "Hey [TARGET], I can't make it, my true form as an entity of light is being rebooted by the creator."
     ]
   }
 }

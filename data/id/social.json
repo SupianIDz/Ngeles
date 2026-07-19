@@ -13,7 +13,11 @@
       "Eh [TARGET], mau banget tapi baru inget udah janji bantuin temen pindahan malam ini. Gak enak kalau cancel dadakan.",
       "Maaf ya [TARGET], saya pass dulu nongkrong hari ini karena mendadak ada urusan keluarga yang tidak bisa ditinggal.",
       "Duh [TARGET], saya ga bisa ikut karena cuaca di sini hujan deras banget dan banjir di depan komplek.",
-      "Sorry [TARGET], dompet saya ketinggalan di kantor dan saya baru sadar pas mau jalan. Malas putar balik, jadi kapan-kapan aja ya."
+      "Sorry [TARGET], dompet saya ketinggalan di kantor dan saya baru sadar pas mau jalan. Malas putar balik, jadi kapan-kapan aja ya.",
+      "Maaf banget [TARGET], aku nggak bisa ikut nongkrong hari ini, badanku rasanya meriang dari semalam.",
+      "Aduh [TARGET], sori banget aku skip dulu, tiba-tiba disuruh orang tua bantu jaga toko/rumah.",
+      "Sori [TARGET], ban motorku bocor nih, bengkel pada tutup semua, kayaknya aku cancel aja ya.",
+      "Eh [TARGET], maaf ya aku ketiduran parah, baru bangun dan rasanya udah telat banget buat nyusul."
     ],
     "ridiculous": [
       "Sorry ya [TARGET], gue gak bisa keluar rumah malam ini karena tiba-tiba peliharaan gue memperlihatkan tatapan menghakimi yang bikin gue merasa bersalah kalau ditinggal pergi.",
@@ -23,7 +27,11 @@
       "Maaf [TARGET], niat beres-beres sebentar sebelum berangkat, tapi sekarang udah tiga ruangan dan gue terlalu committed buat berhenti.",
       "Sorry [TARGET], saya nggak bisa ikut karena kucing saya terlihat sangat sedih hari ini dan saya harus memberinya terapi psikologis.",
       "Duh [TARGET], jari kelingking saya terkilir saat sedang asyik scroll TikTok. Saya disarankan dokter untuk tidak memegang gelas kopi dulu.",
-      "Maaf [TARGET], saya lagi terjebak di kamar mandi karena gagang pintunya patah. Tolong doakan saya bertahan hidup dengan sabun batangan."
+      "Maaf [TARGET], saya lagi terjebak di kamar mandi karena gagang pintunya patah. Tolong doakan saya bertahan hidup dengan sabun batangan.",
+      "Maaf [TARGET], aku nggak bisa datang karena lagi sibuk ngajarin ikan cupang aku berenang gaya punggung.",
+      "Sori [TARGET], aku nggak sengaja kekunci di dalem kulkas pas nyari cemilan, untung ada sinyal WiFi.",
+      "Aduh [TARGET], sepatu kiriku ngambek dan jalan sendiri menjauh dari rumah, aku lagi ngejar dia nih.",
+      "Eh [TARGET], aku batal ikut ya, tiba-tiba diserang alergi akut terhadap orang-orang yang terlalu asik."
     ],
     "realityBending": [
       "Sorry [TARGET], gue gak bisa nongkrong. Rumah gue tiba-tiba dikepung oleh pasukan alien ramah yang minta diajarin cara bikin kopi lokal, gak sopan kalau ditinggal.",
@@ -33,7 +41,11 @@
       "Maaf [TARGET], dewa kecil datang tanpa pemberitahuan dan maksa gue jawab teka-teki sebelum boleh keluar rumah. Sekarang lagi di pertanyaan nomor 7 dari 40.",
       "Bro [TARGET], saya ga bisa datang karena NPC di kehidupan nyata saya sedang nge-glitch dan saya tidak bisa mengakses menu navigasi untuk ke kafe.",
       "Sorry [TARGET], gravitasi di area sekitar rumah saya tiba-tiba nol. Saya tidak bisa turun dari langit-langit garasi sejak pagi.",
-      "Maaf ya [TARGET], saya terlempar ke multiversum lain di mana kafe tempat kita nongkrong itu isinya cuma manusia berkepala hiu. Saya takut balik."
+      "Maaf ya [TARGET], saya terlempar ke multiversum lain di mana kafe tempat kita nongkrong itu isinya cuma manusia berkepala hiu. Saya takut balik.",
+      "Maaf [TARGET], eksistensiku mendadak terhapus dari garis waktu ini, aku sedang mengurus banding ke dewan kosmik.",
+      "Sori [TARGET], kopi yang aku minum ternyata portal ke dimensi lain, aku sekarang lagi di alam barzah 2.0.",
+      "Aduh [TARGET], aku terjebak di dalam dunia Minecraft dan nggak bisa menemukan jalan pulang tanpa obsidian.",
+      "Eh [TARGET], aku nggak bisa datang, wujud asliku yang berupa entitas cahaya sedang direboot sama pencipta alam semesta."
     ]
   }
 }

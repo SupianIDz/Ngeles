@@ -1,23 +1,39 @@
 {
-  "title": "Canceling a Date",
-  "excuses": {
+  "levels": {
     "normal": [
       "I'm so sorry {target}, but I suddenly feel a terrible fever and headache coming on. I think I need to rest at home tonight.",
       "Hey {target}, my boss just called an emergency meeting tonight to prep for a big project tomorrow. I seriously can't skip it.",
       "Sorry {target}, my cat suddenly started throwing up and I have to rush him to the emergency vet clinic.",
-      "I apologize {target}, a family emergency just came up and I have to head home right now. Can we reschedule?"
+      "I apologize {target}, a family emergency just came up and I have to head home right now. Can we reschedule?",
+      "I'm so sorry [TARGET], I have to cancel our date today, my boss suddenly dumped a massive overtime task on me.",
+      "Oh no [TARGET], sorry but my stomach is in terrible pain, I think I got food poisoning from last night.",
+      "Hello [TARGET], my car tire blew out on the highway, I'm waiting for a tow truck, let's reschedule.",
+      "Sorry [TARGET], I'm feeling really sick, heavy flu, and I don't want to risk infecting you."
     ],
     "ridiculous": [
       "I'm sorry {target}, I just realized our zodiac signs are fundamentally incompatible and Mercury is in retrograde. My aura reader said it's too dangerous.",
       "Listen {target}, I can't leave the house tonight. My ex hired a shaman to give me diarrhea every time I try to go on a date.",
       "Hey {target}, my favorite outfit got stolen from the clothesline by my neighbor. I literally have nothing appropriate to wear.",
-      "Sorry {target}, I got into the wrong Uber and now I'm somehow at the driver's family wedding. It would be rude to leave before the cake."
+      "Sorry {target}, I got into the wrong Uber and now I'm somehow at the driver's family wedding. It would be rude to leave before the cake.",
+      "Sorry [TARGET], I accidentally mistook superglue for hair pomade, now my hand is stuck to my head.",
+      "Oh no [TARGET], my mom hid my motorcycle keys because I haven't washed the dishes since the jurassic era.",
+      "Sorry [TARGET], I cancelled because my cat cried uncontrollably when I tried to leave, I just couldn't do it.",
+      "Hello [TARGET], I put on the wrong outfit—an old clown costume—and the zipper is jammed, I can't take it off."
     ],
     "realityBending": [
       "Listen {target}, an agent from the future just appeared in my room and warned me that our date tonight triggers a zombie apocalypse in 2030. For the sake of humanity, I must cancel.",
       "Sorry {target}, I just slipped into a parallel dimension where the concept of a 'date' doesn't exist. I need to find a portal back to your earth.",
       "I can't make it, {target}. Gravity in my house just vanished and I am currently floating helplessly against my bedroom ceiling.",
-      "{target}, help! I accidentally drank a mysterious potion and turned into a two-door refrigerator. You don't want to date a home appliance, do you?"
+      "{target}, help! I accidentally drank a mysterious potion and turned into a two-door refrigerator. You don't want to date a home appliance, do you?",
+      "Sorry [TARGET], I can't make the date because my future self from 2050 time-traveled here to stop me from meeting you.",
+      "Hey [TARGET], the restaurant we agreed on just morphed into a vacuum void, we'd better postpone.",
+      "Oh no [TARGET], I accidentally pressed the reality reset button, so today doesn't exist on the calendar anymore.",
+      "Hello [TARGET], my real body is currently held hostage by my doppelganger from a parallel universe, please don't trust them."
     ]
+  },
+  "meta": {
+    "lang": "en",
+    "context": "date",
+    "title": "Canceling a Date"
   }
 }

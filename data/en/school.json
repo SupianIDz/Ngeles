@@ -1,26 +1,42 @@
 {
-  "meta": { "lang": "en", "context": "school", "title": "School / College" },
+  "meta": {
+    "lang": "en",
+    "context": "school",
+    "title": "School / College"
+  },
   "levels": {
     "normal": [
       "I'm sorry [TARGET], I won't be able to make it to class today due to a really bad stomach bug. I need to rest for the day.",
       "Apologies [TARGET], I can't attend today's lecture because I had to suddenly drive my parents to the hospital for a checkup.",
       "Sorry [TARGET], I'm going to be late for the first class because the main road is completely blocked off for emergency repaving.",
       "Hi [TARGET], I need to skip the lab session today. I've been feeling under the weather since last night and I don't want to get anyone sick.",
-      "I apologize [TARGET], but my laptop completely died on me while I was finishing up the assignment, so I have to take it to the repair shop right away."
+      "I apologize [TARGET], but my laptop completely died on me while I was finishing up the assignment, so I have to take it to the repair shop right away.",
+      "Sorry [TARGET], I have to miss school today because I am taking my sick sibling to the clinic.",
+      "Hello [TARGET], I will be arriving late today because my motorcycle got a flat tire halfway here.",
+      "I apologize [TARGET], I cannot attend classes due to a sudden and urgent family event out of town.",
+      "Excuse me [TARGET], I need a sick leave for suspected typhoid fever, the doctor advised complete rest."
     ],
     "ridiculous": [
       "I'm so sorry [TARGET], I'm late because the neighbor's rooster crowed in a minor key this morning, sending me into a three-hour existential crisis.",
       "Apologies [TARGET], I can't come in today because my uniform is being held hostage by my smart washing machine, which has decided to rebel and lock its door.",
       "Sorry [TARGET], a gang of stray cats confiscated my motorcycle tires and demanded a ransom of fresh tuna. I am currently walking to the nearest fish market.",
       "Hi [TARGET], I'm late submitting my homework because my flash drive was swallowed by a rogue pelican that escaped from the local zoo.",
-      "I'm sorry [TARGET], I can't attend today because the wind outside is slightly too strong, and since I lost two pounds recently, I'm afraid I might blow away."
+      "I'm sorry [TARGET], I can't attend today because the wind outside is slightly too strong, and since I lost two pounds recently, I'm afraid I might blow away.",
+      "Sorry [TARGET], my homework was eaten by a rogue goat that broke into my backyard.",
+      "Hey [TARGET], I can't go to school because my uniform was blown away by a mini tornado to the next town.",
+      "Hello [TARGET], I'm late because I had to argue with my calculator which suddenly refused to do math.",
+      "I apologize [TARGET], my backpack was held hostage by a gang of monkeys when I took a shortcut."
     ],
     "realityBending": [
       "Sorry [TARGET], I won't be in class today because I accidentally stepped into a parallel dimension where school hasn't been invented yet, and it's my duty to establish it.",
       "Apologies [TARGET], while I was reading the textbook, the main character materialized in my room and forced me to help them defeat a dragon.",
       "I apologize [TARGET], I can't attend because gravity in my bedroom suddenly reversed. I am currently stuck to the ceiling waiting for the rescue team.",
       "Hi [TARGET], I can't hand in the assignment because the font I used turned out to be an ancient spell that summoned 12th-century spirits into my living room.",
-      "I'm sorry [TARGET], I accidentally hacked the matrix last night, and now the entire campus just looks like falling green code to me."
+      "I'm sorry [TARGET], I accidentally hacked the matrix last night, and now the entire campus just looks like falling green code to me.",
+      "Sorry [TARGET], our classroom shifted into a parallel dimension last night, I'm currently looking for the entry portal.",
+      "Hello [TARGET], my brain suddenly initiated a firmware update and I have to reboot my consciousness for 24 hours.",
+      "Excuse me [TARGET], I was absorbed into a history book and must survive World War II before I can log out.",
+      "Sorry [TARGET], my mini time machine malfunctioned and I got stuck in the prehistoric era, need a whole day to return."
     ]
   }
 }
