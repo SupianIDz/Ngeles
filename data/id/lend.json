@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "lang": "id",
+    "context": "lend",
+    "title": "Dimintai Uang"
+  },
+  "levels": {
+    "normal": [
+      "Aduh [TARGET], sori banget bulan ini keuanganku lagi seret, gajiku udah habis buat bayar cicilan rumah.",
+      "Maaf ya [TARGET], uangku baru aja kepakai buat bayar tagihan rumah sakit anggota keluargaku yang mendadak sakit.",
+      "Halo [TARGET], pengen banget bantu tapi saldo di rekeningku sisa puluhan ribu doang, bener-bener ngepas buat makan.",
+      "Sori [TARGET], semua uangku dipegang dan diatur sama istri/suamiku, aku nggak punya akses buat minjemin.",
+      "Maaf [TARGET], tabunganku udah terkuras abis buat benerin motor yang rusak parah kemarin."
+    ],
+    "ridiculous": [
+      "Aduh [TARGET], uang tunai di rumahku baru aja abis dimakan kambing tetangga yang lepas.",
+      "Maaf ya [TARGET], aku baru aja investasikan semua uangku untuk beli bibit pohon naga emas di game online.",
+      "Sori [TARGET], ATM-ku tertelan oleh mesin anjungan yang tiba-tiba tertawa ngeri, uangku disandera.",
+      "Halo [TARGET], celenganku dibobol kawanan tuyul mutan semalam, aku bangkrut total.",
+      "Maaf [TARGET], tanganku kesemutan setiap kali disuruh buka aplikasi *mobile banking*, sepertinya alergi."
+    ],
+    "realityBending": [
+      "Sori [TARGET], konsep uang telah dihapuskan dari memoriku oleh peradaban makhluk dimensi kelima.",
+      "Maaf [TARGET], saldoku tersedot masuk ke *black hole* mikro yang mendadak muncul di atas layarku.",
+      "Aduh [TARGET], semua uang di dompetku mendadak berubah menjadi daun kering dan berterbangan saat kena angin.",
+      "Halo [TARGET], pemerintah intergalaksi baru saja membekukan aset duniawiku karena dicurigai menyelundupkan antimateri.",
+      "Maaf [TARGET], uangku telah dikonversi menjadi energi karma murni, tidak bisa dicairkan ke Rupiah."
+    ]
+  }
+}

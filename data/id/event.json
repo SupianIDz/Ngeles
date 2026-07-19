@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "lang": "id",
+    "context": "event",
+    "title": "Lupa Hari Penting"
+  },
+  "levels": {
+    "normal": [
+      "Ya ampun [TARGET], maaf banget aku beneran lupa. Kerjaan di kantor lagi numpuk parah sampai otakku nge-blank soal tanggal.",
+      "Sori banget [TARGET], aku salah lihat kalender, kuingatnya acara itu masih minggu depan, aku benar-benar minta maaf.",
+      "Aduh [TARGET], aku ketiduran seharian karena kelelahan ekstrim dan HP-ku mati, aku melewatkan notifikasi alarmnya.",
+      "Maaf [TARGET], aku baru ngeh hari ini tanggal berapa. Aku lagi banyak banget masalah keluarga sampai lupa segalanya.",
+      "Halo [TARGET], maafkan aku yang super teledor ini, catatanku hilang dan aku nggak ingat sama sekali."
+    ],
+    "ridiculous": [
+      "Sori [TARGET], kalender dinding di rumahku dimakan rayap tepat di bagian angka tanggal hari ini, aku kehilangan konsep waktu.",
+      "Aduh [TARGET], kepalaku terbentur pinggiran meja tadi pagi dan aku mengalami amnesia selektif tentang hari-hari penting.",
+      "Maaf [TARGET], alarm HP-ku berbunyi dengan suara yang meninabobokan sehingga aku malah masuk ke fase mimpi terdalam.",
+      "Halo [TARGET], aku nggak bermaksud lupa, tapi kucingku menghapus *reminder* di HP dengan injakan kakinya yang polos.",
+      "Sori [TARGET], aku sibuk menghitung jumlah butiran nasi di piringku sampai-sampai hari pergantian tanggal terlewatkan."
+    ],
+    "realityBending": [
+      "Maaf [TARGET], alien dari konstelasi Zeta Reticuli menculik ingatanku tentang hari penting ini untuk penelitian emosi manusia.",
+      "Aduh [TARGET], tanggal hari ini tidak pernah di- *render* dalam simulasi realitaku, layar kalenderku tertulis *Error 404*.",
+      "Sori [TARGET], aku sedang *traveling* menembus waktu ke masa depan, jadi aku tidak pernah melewati hari ini.",
+      "Halo [TARGET], dewa waktu memberikan *skip button* padaku pagi ini dan aku tidak sengaja menekannya tanpa sadar.",
+      "Maaf [TARGET], hari ini telah dihapus dari *timeline* eksistensiku oleh penyihir dimensi, aku baru saja pulih kembali."
+    ]
+  }
+}

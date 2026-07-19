@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "lang": "id",
+    "context": "chat",
+    "title": "Telat Balas Chat"
+  },
+  "levels": {
+    "normal": [
+      "Maaf banget [TARGET] baru balas, dari tadi siang aku meeting nonstop dan HP kutinggal di meja.",
+      "Aduh [TARGET], sori baru kebaca. HP-ku seharian *lowbat* dan aku baru nemu colokan sekarang.",
+      "Sori [TARGET], aku ketiduran parah sepulang kerja, baru melek banget ini.",
+      "Halo [TARGET], maaf baru respon, seharian tadi aku di luar dan sinyal internetnya mati total.",
+      "Maaf ya [TARGET], aku lagi nyetir jauh dari tadi siang, nggak berani buka HP di jalan."
+    ],
+    "ridiculous": [
+      "Sori [TARGET] baru balas, HP-ku disita keponakanku yang masih balita dan dia ngotot mau nonton Cocomelon seharian.",
+      "Aduh [TARGET], jempol kananku mendadak kram akut tiap kali nyentuh layar HP, aku harus ngetik pakai hidung.",
+      "Maaf [TARGET], aku baru balas karena aku lagi bertapa nunggu ilham dari langit buat nyari jawaban yang pas.",
+      "Halo [TARGET], HP-ku tadi disembunyikan sama kucingku di bawah sofa, ini baru ketemu setelah dia ketiduran.",
+      "Sori [TARGET], layar sentuhku mendadak mogok kerja dan cuma mau merespons kalau aku ngomong pakai bahasa isyarat."
+    ],
+    "realityBending": [
+      "Maaf [TARGET], notifikasimu nyangkut di satelit Palapa dan baru turun ke atmosfer bumiku detik ini.",
+      "Sori [TARGET], aku terjebak di zona waktu di mana 1 menit setara dengan 1 minggu waktu kalian.",
+      "Aduh [TARGET], chat kamu terenskripsi dalam bahasa alien kuno, aku butuh waktu berjam-jam untuk menerjemahkannya.",
+      "Halo [TARGET], saat kamu nge-chat, HP-ku mendadak berubah jadi sepotong roti tawar, aku harus menunggu sihirnya pudar.",
+      "Maaf [TARGET], waktu mendadak *freeze* saat aku mau ngetik balasan, ini baru jalan lagi."
+    ]
+  }
+}

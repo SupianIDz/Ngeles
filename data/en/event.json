@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "lang": "en",
+    "context": "event",
+    "title": "Forgot Special Day"
+  },
+  "levels": {
+    "normal": [
+      "Oh my god [TARGET], I am so incredibly sorry I completely forgot. I was buried under so much work that my brain went totally blank.",
+      "I'm so sorry [TARGET], I misread the calendar and thought the event was next week. I am truly sorry.",
+      "Oh man [TARGET], I slept all day due to extreme exhaustion and my phone died, so I missed all the alarms.",
+      "Sorry [TARGET], I just realized what date it is today. I've been dealing with so many family issues I lost track of everything.",
+      "Hello [TARGET], please forgive my carelessness, I lost my planner and didn't remember it at all."
+    ],
+    "ridiculous": [
+      "Sorry [TARGET], the wall calendar in my house was eaten by termites exactly on today's date, I lost my concept of time.",
+      "Oh man [TARGET], I bumped my head on the table this morning and suffered selective amnesia specifically regarding important dates.",
+      "Sorry [TARGET], my phone alarm played such a soothing lullaby that it actually sent me into the deepest phase of REM sleep.",
+      "Hello [TARGET], I didn't mean to forget, but my cat stepped on my phone and deleted the reminder.",
+      "Sorry [TARGET], I was too busy counting the exact number of rice grains on my plate that I completely missed the date changing."
+    ],
+    "realityBending": [
+      "Sorry [TARGET], aliens from the Zeta Reticuli constellation abducted my memories of this important day for human emotion research.",
+      "Oh man [TARGET], today's date was never rendered in my reality simulation, my calendar display just says Error 404.",
+      "Sorry [TARGET], I was traveling through time to the future, so I literally bypassed this day entirely.",
+      "Hello [TARGET], the god of time handed me a 'skip button' this morning and I accidentally pressed it subconsciously.",
+      "Sorry [TARGET], today was deleted from my existence timeline by a dimensional warlock, I just recovered."
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "lang": "en",
+    "context": "lend",
+    "title": "Asked for Money"
+  },
+  "levels": {
+    "normal": [
+      "Oh man [TARGET], I'm really sorry but my finances are tight this month. My salary went straight to paying my mortgage.",
+      "Sorry [TARGET], my money was just spent on hospital bills for a family member who got sick suddenly.",
+      "Hello [TARGET], I'd love to help but my bank balance literally only has a few dollars left, just enough for meals.",
+      "Sorry [TARGET], my spouse manages all our finances and holds the money, I don't have access to lend it out.",
+      "Sorry [TARGET], my savings were completely drained to repair my severely damaged motorcycle yesterday."
+    ],
+    "ridiculous": [
+      "Oh man [TARGET], the cash in my house was just eaten by a loose goat from the neighborhood.",
+      "Sorry [TARGET], I just invested all my money in buying golden dragon seeds in an online game.",
+      "Hello [TARGET], my ATM card was swallowed by a machine that suddenly laughed creepily, my money is held hostage.",
+      "Sorry [TARGET], my piggy bank was broken into by a gang of mutant goblins last night, I'm completely bankrupt.",
+      "Oh man [TARGET], my hands get chronically numb every time I'm asked to open my mobile banking app, it must be an allergy."
+    ],
+    "realityBending": [
+      "Sorry [TARGET], the concept of money has been erased from my memory by a fifth-dimensional civilization.",
+      "Oh man [TARGET], my balance was sucked into a micro black hole that suddenly appeared above my phone screen.",
+      "Sorry [TARGET], all the money in my wallet suddenly turned into dry leaves and blew away in the wind.",
+      "Hello [TARGET], the intergalactic government just froze my earthly assets due to suspicions of antimatter smuggling.",
+      "Sorry [TARGET], my money has been converted into pure karmic energy and cannot be withdrawn as cash."
+    ]
+  }
+}

@@ -4,24 +4,92 @@
       "id": "en",
       "label": "English",
       "topics": [
-        { "id": "work", "icon": "fa-solid fa-briefcase" },
-        { "id": "school", "icon": "fa-solid fa-graduation-cap" },
-        { "id": "family", "icon": "fa-solid fa-house-chimney" },
-        { "id": "social", "icon": "fa-solid fa-users" },
-        { "id": "debt", "icon": "fa-solid fa-money-bill-wave" },
-        { "id": "date", "icon": "fa-solid fa-heart-crack" }
+        {
+          "id": "work",
+          "icon": "fa-solid fa-briefcase"
+        },
+        {
+          "id": "school",
+          "icon": "fa-solid fa-graduation-cap"
+        },
+        {
+          "id": "family",
+          "icon": "fa-solid fa-house-chimney"
+        },
+        {
+          "id": "social",
+          "icon": "fa-solid fa-users"
+        },
+        {
+          "id": "debt",
+          "icon": "fa-solid fa-money-bill-wave"
+        },
+        {
+          "id": "date",
+          "icon": "fa-solid fa-heart-crack"
+        },
+        {
+          "id": "chat",
+          "icon": "fa-solid fa-comment-slash"
+        },
+        {
+          "id": "lend",
+          "icon": "fa-solid fa-hand-holding-dollar"
+        },
+        {
+          "id": "shopping",
+          "icon": "fa-solid fa-cart-arrow-down"
+        },
+        {
+          "id": "event",
+          "icon": "fa-solid fa-calendar-xmark"
+        }
       ]
     },
     {
       "id": "id",
       "label": "Bahasa Indonesia",
       "topics": [
-        { "id": "work", "icon": "fa-solid fa-briefcase" },
-        { "id": "school", "icon": "fa-solid fa-graduation-cap" },
-        { "id": "family", "icon": "fa-solid fa-house-chimney" },
-        { "id": "social", "icon": "fa-solid fa-users" },
-        { "id": "debt", "icon": "fa-solid fa-money-bill-wave" },
-        { "id": "date", "icon": "fa-solid fa-heart-crack" }
+        {
+          "id": "work",
+          "icon": "fa-solid fa-briefcase"
+        },
+        {
+          "id": "school",
+          "icon": "fa-solid fa-graduation-cap"
+        },
+        {
+          "id": "family",
+          "icon": "fa-solid fa-house-chimney"
+        },
+        {
+          "id": "social",
+          "icon": "fa-solid fa-users"
+        },
+        {
+          "id": "debt",
+          "icon": "fa-solid fa-money-bill-wave"
+        },
+        {
+          "id": "date",
+          "icon": "fa-solid fa-heart-crack"
+        },
+        {
+          "id": "chat",
+          "icon": "fa-solid fa-comment-slash"
+        },
+        {
+          "id": "lend",
+          "icon": "fa-solid fa-hand-holding-dollar"
+        },
+        {
+          "id": "shopping",
+          "icon": "fa-solid fa-cart-arrow-down"
+        },
+        {
+          "id": "event",
+          "icon": "fa-solid fa-calendar-xmark"
+        }
       ]
     }
   ]

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "lang": "en",
+    "context": "chat",
+    "title": "Late Reply"
+  },
+  "levels": {
+    "normal": [
+      "I'm so sorry [TARGET] for the late reply, I've been in back-to-back meetings all day and left my phone on my desk.",
+      "Oh man [TARGET], sorry I just saw this. My phone died all day and I just found a charger.",
+      "Sorry [TARGET], I fell into a deep sleep right after coming home from work, just woke up.",
+      "Hello [TARGET], sorry for the delay, I was outdoors all day and there was absolutely zero internet signal.",
+      "Sorry [TARGET], I was driving a long distance since noon and didn't dare to check my phone on the road."
+    ],
+    "ridiculous": [
+      "Sorry [TARGET] for the late reply, my toddler nephew confiscated my phone and insisted on watching Cocomelon all day.",
+      "Oh man [TARGET], my right thumb suddenly cramped up terribly every time I touched the screen, I had to type with my nose.",
+      "Sorry [TARGET], I replied late because I was meditating waiting for inspiration from heaven on how to respond.",
+      "Hello [TARGET], my phone was hidden under the sofa by my cat, and I only retrieved it after she fell asleep.",
+      "Sorry [TARGET], my touchscreen went on strike and would only respond if I spoke to it in sign language."
+    ],
+    "realityBending": [
+      "Sorry [TARGET], your notification got caught in an orbiting satellite and just dropped into my atmosphere this second.",
+      "Oh man [TARGET], I was trapped in a time zone where 1 minute equals 1 week of your time.",
+      "Sorry [TARGET], your message was encrypted in ancient alien linguistics, I needed hours to decode it.",
+      "Hello [TARGET], when you texted, my phone suddenly transformed into a slice of bread, I had to wait for the spell to wear off.",
+      "Sorry [TARGET], time suddenly froze right as I was about to hit send, it just thawed right now."
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "lang": "id",
+    "context": "shopping",
+    "title": "Batal COD / Beli"
+  },
+  "levels": {
+    "normal": [
+      "Maaf banget Mas/Mbak [TARGET], saya terpaksa *cancel* barangnya karena istri saya ngomel-ngomel pas tahu saya mau beli barang ini.",
+      "Aduh [TARGET], sori banget mendadak saya ada kebutuhan *urgent* keluarga, uangnya kepakai jadi saya batal beli ya.",
+      "Maaf [TARGET], setelah saya ukur ulang, ternyata ukuran barangnya nggak muat di ruangan saya, saya *cancel* ya.",
+      "Halo [TARGET], lokasi COD-nya ternyata jauh banget dari rumah saya, saya nggak ada kendaraan ke sana, batal aja ya.",
+      "Sori [TARGET], saya mendadak harus dinas ke luar kota berbulan-bulan, barangnya pasti nggak ada yang nerima di rumah."
+    ],
+    "ridiculous": [
+      "Maaf [TARGET], saya batal beli soalnya kata dukun langganan saya, barang dagangan Anda auranya tidak cocok dengan weton saya.",
+      "Aduh [TARGET], kucing saya mendesis marah setiap kali saya melihat foto barang jualan Anda, dia pasti punya indera keenam.",
+      "Sori [TARGET], uang saya ternyata palsu hasil fotokopi ponakan saya buat mainan monopoli, saya tidak berani pakai buat bayar.",
+      "Halo [TARGET], saya batal beli ya, soalnya paket internet saya habis tepat saat mau ngetik 'deal'.",
+      "Maaf [TARGET], saya salah sangka. Saya kira Anda jualan panci, ternyata *casing* HP. Saya benar-benar tidak fokus."
+    ],
+    "realityBending": [
+      "Maaf [TARGET], barang yang Anda jual ternyata *cursed artifact* dari zaman Babilonia yang akan mengutuk 7 keturunan saya.",
+      "Sori [TARGET], saya terjebak di dimensi masa lalu di mana sistem transaksi digital Anda belum ditemukan.",
+      "Aduh [TARGET], bayangan saya di cermin melarang keras saya membelinya, dan dia membawa pedang.",
+      "Halo [TARGET], alam semesta me-*reject* transaksi kita karena hal itu akan memicu efek kupu-kupu yang menghancurkan bumi.",
+      "Maaf [TARGET], tubuh fisikku baru saja terurai menjadi debu piksel, aku tidak bisa lagi menerima paket fisik."
+    ]
+  }
+}

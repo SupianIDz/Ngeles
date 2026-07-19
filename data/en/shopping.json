@@ -1,0 +1,30 @@
+{
+  "meta": {
+    "lang": "en",
+    "context": "shopping",
+    "title": "Cancel Purchase"
+  },
+  "levels": {
+    "normal": [
+      "I'm so sorry [TARGET], I have to cancel the purchase because my spouse got extremely angry when they found out I was buying this.",
+      "Oh man [TARGET], sorry but I suddenly had an urgent family financial crisis, my money is used up so I must cancel.",
+      "Sorry [TARGET], after re-measuring my space, it turns out the item won't fit in my room. I have to cancel.",
+      "Hello [TARGET], the meetup location is way too far from my house and I have no vehicle to get there, let's cancel it.",
+      "Sorry [TARGET], I suddenly have to go out of town for months on a business trip, there will be no one at home to receive the package."
+    ],
+    "ridiculous": [
+      "Sorry [TARGET], I'm canceling because my trusted shaman said your merchandise has an aura that clashes with my birth chart.",
+      "Oh man [TARGET], my cat hisses angrily every time I look at your product photos, she must have a sixth sense.",
+      "Sorry [TARGET], it turns out my cash is fake money photocopied by my nephew for Monopoly, I dare not use it to pay.",
+      "Hello [TARGET], I'm cancelling because my data plan ran out exactly when I was about to type 'deal'.",
+      "Sorry [TARGET], I had a massive misunderstanding. I thought you were selling a cooking pot, not a phone case. I'm so unfocused."
+    ],
+    "realityBending": [
+      "Sorry [TARGET], the item you are selling is actually a cursed artifact from Babylon that will doom my next 7 generations.",
+      "Oh man [TARGET], I'm trapped in a past dimension where your digital transaction system hasn't been invented yet.",
+      "Sorry [TARGET], my reflection in the mirror strictly forbade me from buying it, and he brought a sword.",
+      "Hello [TARGET], the universe rejected our transaction because it would trigger a butterfly effect that destroys the earth.",
+      "Sorry [TARGET], my physical body just disintegrated into pixel dust, I can no longer receive physical packages."
+    ]
+  }
+}
