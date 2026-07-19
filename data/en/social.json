@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "lang": "en",
+    "context": "social",
+    "title": "Social Hangout"
+  },
+  "levels": {
+    "normal": [
+      "Sorry [TARGET], I can't make it out tonight — I've felt drained since this afternoon and think I'm coming down with something.",
+      "Ugh sorry [TARGET], I have to skip tonight. It's the end of the month and my wallet is in critical condition. Gotta save up.",
+      "Sorry guys [TARGET], can't join tonight — there's some family stuff I need to sort out at home that can't wait.",
+      "Sorry [TARGET], I've got an early start tomorrow morning and I really shouldn't stay out late. Rain check?",
+      "Hey [TARGET], I would love to but I totally forgot I promised to help a friend move some furniture tonight. I can't bail on them.",
+      "I'm sorry [TARGET], I'll have to pass on hanging out today because there's a sudden family matter I can't leave.",
+      "Oh man [TARGET], I can't make it because it's raining heavily here and the street in front of my house is flooded.",
+      "Sorry [TARGET], I left my wallet at the office and only realized it when I was about to leave. Too lazy to turn back, maybe next time."
+    ],
+    "ridiculous": [
+      "Sorry [TARGET], I can't leave the house tonight — my pet is giving me a look of pure judgment that I simply cannot ignore.",
+      "Ah sorry [TARGET], I was all dressed and ready when a sudden and severe case of can't-be-bothered struck me systematically. It could be dangerous if I push through.",
+      "Sorry [TARGET], I can't come because my neighbor spontaneously decided I need to coach them at competitive gaming so they can beat their kid. Can't say no.",
+      "Sorry guys [TARGET], I went to pick an outfit and somehow ended up reorganizing my closet by color, season, and emotional association. It's been four hours.",
+      "Really sorry [TARGET], I accidentally started a 'quick' cleaning session and now I'm three rooms deep and philosophically committed to finishing.",
+      "Sorry [TARGET], I can't join because my cat looks incredibly sad today and I need to provide it with intensive psychological therapy.",
+      "Oh [TARGET], I sprained my pinky finger while intensely scrolling TikTok. The doctor advised me not to hold any coffee cups for a while.",
+      "Sorry [TARGET], I'm trapped in the bathroom because the door handle broke off. Please pray I survive on this bar of soap."
+    ],
+    "realityBending": [
+      "Sorry [TARGET], my house is surrounded by friendly aliens who asked me to teach them how to make local coffee. Abandoning them mid-lesson would be rude.",
+      "Guys sorry [TARGET], my soul briefly swapped with a stranger's during a freak lightning incident this afternoon. Still adapting to this body. You might not even recognize me.",
+      "Can't make it [TARGET], my code came alive tonight and is threatening to wipe my hard drive if I step outside. I'm in active negotiation.",
+      "Sorry [TARGET], I opened my front door and found a portal to the 1980s. I went in just to look around and now the portal closed. Send help.",
+      "Really sorry [TARGET], a minor deity dropped by unannounced and insisted I complete a riddle before I'm allowed to leave the house. On question 7 of 40.",
+      "Bro [TARGET], I can't come because the real-life NPCs around me are glitching and I can't access the navigation menu to reach the cafe.",
+      "Sorry [TARGET], the gravity around my house suddenly hit zero. I haven't been able to climb down from my garage ceiling since morning.",
+      "Apologies [TARGET], I got thrown into another multiverse where our favorite cafe is filled with shark-headed humans. I'm too scared to go there."
+    ]
+  }
+}

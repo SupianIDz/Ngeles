@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "lang": "id",
+    "context": "work",
+    "title": "Absen Kerja"
+  },
+  "levels": {
+    "normal": [
+      "Mohon maaf [TARGET], hari ini saya izin tidak bisa masuk kerja karena badan mendadak demam tinggi dan pusing sejak subuh.",
+      "Selamat pagi [TARGET], saya izin terlambat masuk kantor hari ini karena harus mengurus dokumen keluarga yang sangat mendesak dan tidak bisa ditunda.",
+      "Mohon maaf [TARGET], saya izin tidak masuk hari ini karena harus mendampingi anggota keluarga terdekat yang mendadak sakit ke rumah sakit.",
+      "Permisi [TARGET], saya kurang enak badan sejak tadi malam, mual dan pusing. Kemungkinan besar saya perlu istirahat dan periksa ke dokter hari ini.",
+      "Maaf [TARGET], mobil saya tidak bisa menyala pagi ini. Saya sedang menunggu bantuan dan akan update segera setelah tahu perkiraan waktu tiba.",
+      "Maaf [TARGET], jaringan internet di rumah saya tiba-tiba mati total akibat tiang listrik ditabrak truk, teknisi baru datang siang ini.",
+      "Mohon maaf [TARGET], saya telat karena anak saya tiba-tiba demam tinggi pagi ini dan saya harus mengantarnya ke klinik terdekat.",
+      "Halo [TARGET], saya izin terlambat masuk kantor karena kereta komuter mengalami gangguan persinyalan di stasiun sebelumnya."
+    ],
+    "ridiculous": [
+      "Maaf [TARGET], hari ini saya tidak bisa masuk kerja dulu karena kucing peliharaan saya mendadak depresi setelah gagal menangkap cicak, saya harus menemani masa pemulihan emosionalnya.",
+      "Waduh [TARGET], saya izin telat atau kemungkinan tidak masuk karena kunci rumah saya tidak sengaja ikut terbawa pasangan pergi kerja, dan saya sekarang terkunci dari luar tanpa dompet.",
+      "Mohon maaf [TARGET], pagi ini ban kendaraan saya bocor secara misterius, dan entah kenapa tukang tambal ban terdekat malah mengajak saya berdiskusi filosofis tentang arti kehidupan sampai saya lupa waktu.",
+      "Aduh [TARGET], saya tidak sengaja pakai sepatu berbeda saat mau berangkat, balik rumah untuk ganti, dan entah kenapa malah membereskan seluruh lemari. Waktu berlalu begitu saja.",
+      "Maaf [TARGET], saya salah baca alarm tadi pagi — niatnya bangun jam 6, ternyata itu jam tidur, bukan bangun. Kronologi ini masih saya investigasi.",
+      "Maaf [TARGET], saya tidak bisa ke kantor hari ini karena kunci motor saya disembunyikan oleh burung gagak dan dia minta tebusan kacang tanah.",
+      "Halo [TARGET], saya telat karena tadi pagi saya tidak sengaja menggunakan lem super sebagai pengganti pomade. Saya sedang mencoba melepaskan sisir dari kepala saya.",
+      "Mohon maaf [TARGET], saya tidak bisa hadir karena rumah saya tiba-tiba dikelilingi oleh kawanan angsa liar yang sangat agresif."
+    ],
+    "realityBending": [
+      "Maaf bos [TARGET], saya baru saja dijemput paksa oleh agen lintas dimensi untuk memperbaiki kebocoran ruang-waktu di tahun 2045. Mungkin besok baru bisa kembali ke lini masa ini.",
+      "[TARGET], mohon dimaklumi saya tidak bisa ke kantor karena area perumahan saya tiba-tiba menjadi zona gravitasi nol. Saat ini saya sedang melayang di langit-langit kamar menunggu tim SAR kosmik.",
+      "Izin [TARGET], saya terjebak di dalam visualisasi mimpi saya sendiri dan baru bisa bangun sepenuhnya setelah berhasil menyelesaikan misi dungeon rahasia level 99.",
+      "Maaf [TARGET], sebuah AI nakal sempat mencapai kesadaran penuh tadi pagi dan memilih saya sebagai wali hukumnya. Saya sedang dalam proses negosiasi. HR mungkin perlu update kebijakan cuti.",
+      "Mohon maaf [TARGET], saya tidak sengaja masuk ke anomali temporal saat sedang bikin kopi. Saya sudah menjalani hari ini sebanyak tiga kali dan tetap saja terlambat.",
+      "Maaf [TARGET], saya tidak sengaja masuk ke lift yang membawa saya ke tahun 1998. Saya sedang mencari warnet untuk mengirim email ini.",
+      "Halo [TARGET], bayangan saya menolak untuk mengikuti saya bekerja hari ini dan malah berbaring di sofa. Saya tidak berani keluar tanpanya.",
+      "Mohon maaf [TARGET], tubuh saya tiba-tiba berubah menjadi format 2D saat bangun tidur. Saya sedang mencoba mengembalikan dimensi saya."
+    ]
+  }
+}

@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Ngeles · The Ultimate Excuse Generator</title>
+    <meta
+      name="description"
+      content="The ultimate, data-driven excuse generator to save your career and social life. Generate flawless, localized excuses instantly."
+    />
+    <meta name="keywords" content="excuse generator, ngeles, ngeles master, alasan lucu, generator alasan, ai excuse, funny excuses, alibi maker" />
+    <meta name="author" content="SupianIDz" />
+    
+    <!-- Open Graph / Facebook -->
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content="Ngeles · The Ultimate Excuse Generator" />
+    <meta property="og:description" content="Generate flawless, localized excuses instantly for work, school, and social events." />
+    
+    <!-- Twitter -->
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content="Ngeles · The Ultimate Excuse Generator" />
+    <meta name="twitter:description" content="Generate flawless, localized excuses instantly for work, school, and social events." />
+    <link
+      rel="icon"
+      href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>✨</text></svg>"
+    />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Poppins:wght@800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="manifest" href="/manifest.webmanifest" />
+    <meta name="theme-color" content="#ff6f61" />
+    <link rel="apple-touch-icon" href="/troll.png" />
+    <link rel="icon" type="image/png" href="/troll.png" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    />
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.register('/sw.js').catch(err => console.log('SW registration failed:', err));
+        });
+      }
+    </script>
+  </head>
+  <body class="bg-slate-100 text-slate-900 transition-colors duration-300 dark:bg-slate-950 dark:text-slate-100 min-h-screen overflow-x-hidden">
+    <div id="app"></div>
+    <script type="module" src="/src/main.ts"></script>
+  </body>
+</html>

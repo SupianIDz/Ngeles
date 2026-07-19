@@ -1,0 +1,23 @@
+{
+  "title": "Ditagih Hutang",
+  "excuses": {
+    "normal": [
+      "Maaf ya, {target}, bulan ini pengeluaran lagi boncos banget buat servis motor dan bayar BPJS. Bulan depan pasti aku cicil.",
+      "Gaji bulan ini telat turun dari kantor, {target}. Boleh minta waktu tambahan seminggu lagi?",
+      "Astaga, aku lupa banget {target}. Uangnya baru kepakai buat biaya rumah sakit keluarga. Nanti akhir bulan aku usahakan lunas ya.",
+      "Sorry banget {target}, tagihan listrik dan air bulan ini melonjak drastis. Nanti aku bayar separuh dulu minggu depan ya."
+    ],
+    "ridiculous": [
+      "Maaf {target}, uang yang mau kubayar dimakan rayap karena kusimpan di bawah kasur. Aku lagi usahakan ke BI buat tukar uang rusak.",
+      "Aduh {target}, kemarin uangnya aku pinjamkan ke pangeran Nigeria yang kirim email ke aku. Katanya dia mau balikin 10x lipat minggu depan. Tunggu ya!",
+      "Gini {target}, uangnya udah kusiapin, tapi waktu jalan ke ATM aku dipalak sama monyet di pinggir jalan. Mereka bawa lari dompetku.",
+      "Maaf banget {target}, aku baru ditipu agen investasi bodong budidaya tokek. Modalku nyangkut semua di tokeknya."
+    ],
+    "realityBending": [
+      "Dengar {target}, secara teknis uang itu adalah energi. Dan menurut Hukum Termodinamika, energi tidak bisa diciptakan atau dimusnahkan. Jadi uangmu tidak hilang, hanya berubah bentuk menjadi aura kosmik di sekitarku.",
+      "Maaf {target}, aku baru saja diculik alien dan mereka menyita semua aset duniawi milikku untuk diteliti di galaksi Andromeda. Begitu aku kontak kedutaan intergalaksi, aku transfer ya.",
+      "Aku terjebak dalam *time loop* {target}. Hari ini terus berulang dan aku belum sampai di hari di mana aku punya uang untuk bayar hutangmu. Tolong bersabar menunggu anomali ruang-waktu ini stabil.",
+      "{target}, Bank Indonesia baru saja mereset ulang seluruh sistem keuangan nasional dalam mimpi saya semalam. Secara de facto, hutang piutang antar warga negara telah dihapuskan."
+    ]
+  }
+}

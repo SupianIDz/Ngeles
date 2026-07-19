@@ -1,0 +1,8 @@
+name = "ngeles"
+compatibility_date = "2024-03-20"
+pages_build_output_dir = "dist"
+
+# Catatan: Konfigurasi di atas adalah untuk mendeploy FRONTEND (Svelte/Vite) ke Cloudflare Pages.
+# Karena backend API (server/index.ts) menggunakan Fastify dan bun:sqlite, 
+# backend tersebut TIDAK BISA langsung dijalankan di Cloudflare Workers. 
+# Jika ingin mendeploy backend ke Cloudflare, Anda harus memigrasikannya ke Cloudflare Workers + D1 Database.

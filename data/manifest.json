@@ -1,0 +1,28 @@
+{
+  "languages": [
+    {
+      "id": "en",
+      "label": "English",
+      "topics": [
+        { "id": "work", "icon": "fa-solid fa-briefcase" },
+        { "id": "school", "icon": "fa-solid fa-graduation-cap" },
+        { "id": "family", "icon": "fa-solid fa-house-chimney" },
+        { "id": "social", "icon": "fa-solid fa-users" },
+        { "id": "debt", "icon": "fa-solid fa-money-bill-wave" },
+        { "id": "date", "icon": "fa-solid fa-heart-crack" }
+      ]
+    },
+    {
+      "id": "id",
+      "label": "Bahasa Indonesia",
+      "topics": [
+        { "id": "work", "icon": "fa-solid fa-briefcase" },
+        { "id": "school", "icon": "fa-solid fa-graduation-cap" },
+        { "id": "family", "icon": "fa-solid fa-house-chimney" },
+        { "id": "social", "icon": "fa-solid fa-users" },
+        { "id": "debt", "icon": "fa-solid fa-money-bill-wave" },
+        { "id": "date", "icon": "fa-solid fa-heart-crack" }
+      ]
+    }
+  ]
+}

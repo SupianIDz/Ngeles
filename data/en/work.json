@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "lang": "en",
+    "context": "work",
+    "title": "Work Absenteeism"
+  },
+  "levels": {
+    "normal": [
+      "Sorry [TARGET], I won't be able to come in today — I've had a sudden high fever and splitting headache since early this morning.",
+      "Good morning [TARGET], I'm going to be late today because I had to handle an urgent family document that absolutely couldn't be postponed.",
+      "Apologies [TARGET], I need to take the day off to accompany a close family member who fell suddenly ill and needs to go to the hospital.",
+      "Hi [TARGET], I'm not feeling well at all today — nausea and dizziness since last night. I'll need to rest and see a doctor.",
+      "Sorry [TARGET], my car won't start this morning. I'm waiting for roadside assistance and will update you as soon as I know my ETA.",
+      "I'm sorry [TARGET], my home internet completely died because a truck hit the power pole. The technician is coming this afternoon.",
+      "Apologies [TARGET], I'll be late because my child suddenly got a high fever this morning and I have to take them to the clinic.",
+      "Hi [TARGET], I'm running late to the office because the commuter train is experiencing a major signal failure."
+    ],
+    "ridiculous": [
+      "My sincerest apologies [TARGET], but my cat had an emotional breakdown this morning after failing to catch a lizard. I can't in good conscience leave during her recovery.",
+      "Hi [TARGET], I'm locked out of my own house because my keys accidentally left with my spouse, and I'm standing outside without my wallet or shoes.",
+      "Sorry [TARGET], my tire went flat in the most mysterious way imaginable, and the only repair guy nearby insisted on a lengthy philosophical debate about the meaning of life before touching my wheel.",
+      "Hey [TARGET], I accidentally wore two different shoes to the bus stop, went home to fix it, and somehow ended up rearranging my entire wardrobe. I lost track of time.",
+      "Apologies [TARGET], I made the mistake of reading 'just one more' motivational tweet this morning and fell into a 3-hour rabbit hole of self-improvement videos. I'm a changed person but I'm also very late.",
+      "Sorry [TARGET], I can't come to work today because my motorcycle keys were hidden by a crow, and it's demanding peanuts as ransom.",
+      "Hi [TARGET], I'm late because I accidentally used superglue instead of hair gel this morning. I'm currently trying to detach a comb from my head.",
+      "Apologies [TARGET], I can't leave my house because it is currently surrounded by a flock of extremely aggressive wild geese."
+    ],
+    "realityBending": [
+      "Sorry boss [TARGET], I was forcibly recruited by interdimensional agents to repair a space-time leak in 2045. I should be back in this timeline by tomorrow, maybe.",
+      "Hi [TARGET], please understand I can't come in because my entire neighborhood has spontaneously become a zero-gravity zone. I'm currently floating near the ceiling waiting for a cosmic rescue team.",
+      "Apologies [TARGET], I got trapped inside my own dream simulation and can only wake up fully once I complete a secret level-99 dungeon. The final boss is a spreadsheet.",
+      "Hey [TARGET], a rogue AI briefly achieved sentience this morning and elected me as its legal guardian. I'm currently in negotiation proceedings. HR may want to update the leave policy.",
+      "Sorry [TARGET], I accidentally stepped into a temporal anomaly while making coffee. I've already lived today three times and I still keep being late, so clearly the universe is against me attending work.",
+      "I'm sorry [TARGET], I accidentally stepped into an elevator that took me to 1998. I'm currently looking for a cybercafe to send this email.",
+      "Hi [TARGET], my shadow refused to follow me to work today and decided to lie on the couch instead. I can't go outside without it.",
+      "Apologies [TARGET], my body suddenly transformed into a 2D format when I woke up. I'm currently trying to restore my third dimension."
+    ]
+  }
+}

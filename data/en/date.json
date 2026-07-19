@@ -1,0 +1,23 @@
+{
+  "title": "Canceling a Date",
+  "excuses": {
+    "normal": [
+      "I'm so sorry {target}, but I suddenly feel a terrible fever and headache coming on. I think I need to rest at home tonight.",
+      "Hey {target}, my boss just called an emergency meeting tonight to prep for a big project tomorrow. I seriously can't skip it.",
+      "Sorry {target}, my cat suddenly started throwing up and I have to rush him to the emergency vet clinic.",
+      "I apologize {target}, a family emergency just came up and I have to head home right now. Can we reschedule?"
+    ],
+    "ridiculous": [
+      "I'm sorry {target}, I just realized our zodiac signs are fundamentally incompatible and Mercury is in retrograde. My aura reader said it's too dangerous.",
+      "Listen {target}, I can't leave the house tonight. My ex hired a shaman to give me diarrhea every time I try to go on a date.",
+      "Hey {target}, my favorite outfit got stolen from the clothesline by my neighbor. I literally have nothing appropriate to wear.",
+      "Sorry {target}, I got into the wrong Uber and now I'm somehow at the driver's family wedding. It would be rude to leave before the cake."
+    ],
+    "realityBending": [
+      "Listen {target}, an agent from the future just appeared in my room and warned me that our date tonight triggers a zombie apocalypse in 2030. For the sake of humanity, I must cancel.",
+      "Sorry {target}, I just slipped into a parallel dimension where the concept of a 'date' doesn't exist. I need to find a portal back to your earth.",
+      "I can't make it, {target}. Gravity in my house just vanished and I am currently floating helplessly against my bedroom ceiling.",
+      "{target}, help! I accidentally drank a mysterious potion and turned into a two-door refrigerator. You don't want to date a home appliance, do you?"
+    ]
+  }
+}

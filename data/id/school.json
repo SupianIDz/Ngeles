@@ -1,0 +1,26 @@
+{
+  "meta": { "lang": "id", "context": "school", "title": "Sekolah / Kampus" },
+  "levels": {
+    "normal": [
+      "Maaf [TARGET], hari ini saya tidak bisa masuk kelas karena tiba-tiba sakit perut yang lumayan parah dan butuh istirahat seharian.",
+      "Mohon maaf [TARGET], saya berhalangan hadir ke kampus hari ini karena harus mengantar orang tua ke rumah sakit secara mendadak.",
+      "Maaf [TARGET], sepertinya saya akan telat masuk kelas pertama karena jalanan ditutup akibat ada perbaikan aspal secara mendadak.",
+      "Halo [TARGET], saya izin tidak ikut praktikum hari ini ya, kondisi badan sedang drop banget dari semalam dan takut menulari teman-teman.",
+      "Mohon maaf [TARGET], laptop saya tiba-tiba mati total saat sedang menyusun tugas, jadi saya harus membawanya ke tempat servis segera."
+    ],
+    "ridiculous": [
+      "Maaf Pak/Bu [TARGET], saya telat karena tadi pagi ayam tetangga berkokok dalam nada minor yang membuat saya merenungi tujuan hidup selama tiga jam.",
+      "Mohon maaf [TARGET], saya tidak bisa hadir karena seragam saya disandera oleh mesin cuci pintar yang tiba-tiba memberontak dan menolak pintunya dibuka.",
+      "Maaf [TARGET], ban motor saya tiba-tiba ditilang oleh sekumpulan kucing jalanan yang minta tebusan ikan tongkol. Saya sedang mencari warung terdekat.",
+      "Halo [TARGET], saya telat mengumpulkan tugas karena flashdisk saya tertelan oleh burung pelikan yang lepas dari kebun binatang setempat.",
+      "Maaf [TARGET], saya tidak bisa datang hari ini karena angin di luar terlalu kencang dan saya takut tertiup mengingat berat badan saya sedang turun drastis."
+    ],
+    "realityBending": [
+      "Maaf [TARGET], saya tidak bisa masuk hari ini karena saya terlempar ke dimensi paralel di mana sekolah belum ditemukan dan saya ditugaskan untuk menciptakannya.",
+      "Mohon maaf Pak/Bu [TARGET], saat saya sedang membaca buku paket, karakter utamanya keluar dari buku dan memaksa saya membantunya mengalahkan naga.",
+      "Maaf [TARGET], saya tidak datang karena gravitasi di kamar saya tiba-tiba terbalik, saya sekarang terjebak di langit-langit kamar dan sedang menunggu tim SAR.",
+      "Halo [TARGET], tugasnya tidak bisa dikumpulkan karena tulisan saya terbaca oleh mantra kuno yang memanggil roh dari abad ke-12 ke ruang tamu saya.",
+      "Maaf [TARGET], saya tidak sengaja meretas matriks realita semalam, dan sekarang kampus kita hanya terlihat sebagai barisan kode hijau yang mengalir turun."
+    ]
+  }
+}

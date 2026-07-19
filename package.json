@@ -1,0 +1,44 @@
+{
+  "name": "ngeles",
+  "version": "1.0.0",
+  "description": "Ngeles — The Ultimate Excuse Generator",
+  "keywords": [
+    "excuse",
+    "generator",
+    "multilingual",
+    "ngeles"
+  ],
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "server/index.ts",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "server": "NODE_ENV=production bun run server/index.ts",
+    "server:dev": "NODE_ENV=development bun --watch server/index.ts",
+    "format": "oxfmt --write \"**/*.{ts,html,css,json}\"",
+    "format:check": "oxfmt --check \"**/*.{ts,html,css,json}\""
+  },
+  "dependencies": {
+    "@fastify/static": "^10.1.0",
+    "@sveltejs/vite-plugin-svelte": "^7.2.0",
+    "fastify": "^5.10.0",
+    "html-to-image": "^1.11.13",
+    "svelte": "^5.56.6"
+  },
+  "devDependencies": {
+    "@tailwindcss/vite": "^4.3.3",
+    "@types/node": "^26.1.1",
+    "oxfmt": "^0.59.0",
+    "tailwindcss": "^4.3.3",
+    "tsx": "^4.23.1",
+    "typescript": "^7.0.2",
+    "vite": "^8.1.5"
+  },
+  "allowScripts": {
+    "esbuild@0.28.1": true,
+    "fsevents@2.3.3": true
+  }
+}

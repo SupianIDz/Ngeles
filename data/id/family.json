@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "lang": "id",
+    "context": "family",
+    "title": "Kumpul Keluarga"
+  },
+  "levels": {
+    "normal": [
+      "Mohon maaf semuanya, sepertinya hari ini [TARGET] belum bisa ikut berkumpul di acara keluarga karena kondisi badan sedang kurang fit dan butuh istirahat total.",
+      "Maaf ya om/tante/sepupu [TARGET], tidak bisa hadir di acara kumpul hari ini karena ada jadwal dinas mendadak dari kantor yang harus diselesaikan sore ini juga.",
+      "Duh mohon maaf sekali [TARGET], sepertinya telat atau berhalangan hadir karena ada perbaikan pipa air rumah yang bocor parah dan harus ditunggui tukang hari ini.",
+      "Wish bisa ikut [TARGET], tapi lagi kurang sehat dan takut nularin ke yang lain. Semoga acaranya seru ya!",
+      "Maaf tidak bisa hadir [TARGET], si kecil mendadak tidak enak badan dan saya tidak enak hati meninggalkannya. Semoga nanti ada kesempatan berikutnya.",
+      "Maaf ya [TARGET], saya tidak bisa mampir hari ini karena harus melembur kerjaan dadakan dari bos yang harus selesai besok pagi.",
+      "Waduh maaf [TARGET], kebetulan ban mobil saya bocor di tengah jalan saat mau ke sana. Ini sedang menunggu montir datang.",
+      "Mohon maaf [TARGET], perut saya kumat lagi asam lambungnya, jadi saya butuh istirahat di rumah dulu hari ini."
+    ],
+    "ridiculous": [
+      "Maaf banget keluarga besar [TARGET], baju batik andalan satu-satunya tidak sengaja dijadikan alas tidur oleh kucing liar dan sekarang penuh bulu magis.",
+      "Mohon maaf ya [TARGET], mendadak lupa jalan pulang ke rumah sendiri setelah tadi pagi iseng mencoba rute baru. Sudah dua jam berkeliling.",
+      "Duh maaf semuanya [TARGET], terjebak di kasur karena gravitasi kasur hari ini entah kenapa meningkat 500 kali lipat dari biasanya. Bergerak sedikit saja rasanya mustahil.",
+      "Maaf [TARGET], sudah siap berangkat tapi tanaman hias di ruang tamu layu secara dramatis dan sangat manipulatif. Hati nurani tidak bisa meninggalkannya.",
+      "Maaf [TARGET], niat setrika baju tapi malah tersedot ke dokumenter sejarah kancing baju. Empat jam kemudian, saya masih di sini.",
+      "Maaf keluarga [TARGET], kue bawaan saya tadi direbut oleh kawanan monyet liar di lampu merah. Saya terlalu trauma untuk melanjutkan perjalanan.",
+      "Duh [TARGET], saya tidak bisa datang karena celana kesayangan saya tiba-tiba menyusut seukuran baju boneka setelah dicuci.",
+      "Maaf ya [TARGET], saya tersesat di dalam pusat perbelanjaan baru selama 6 jam karena eskalatornya terus berputar membentuk ilusi optik."
+    ],
+    "realityBending": [
+      "Maaf paman/bibi [TARGET], saya sedang tidak berada di bumi. Tidak sengaja masuk ke dalam portal lemari pakaian dan sekarang tersesat di Narnia bersama kawanan singa berbicara.",
+      "Mohon maaf acara keluarganya terlewat [TARGET], tiba-tiba terperangkap dalam loop waktu. Saya sudah mengulang hari Minggu ini sebanyak 47 kali dan masih mencari jalan keluar.",
+      "Maaf semuanya [TARGET], tadi berniat berangkat, tapi di tengah jalan dihentikan oleh diri saya dari masa depan yang melarang keras saya menghadiri acara hari ini demi keselamatan timeline dunia.",
+      "Maaf [TARGET], seorang penyihir muncul di depan pintu pagi tadi dan memaksa saya ikut dalam sebuah misi mendesak. Sudah saya jelaskan ada acara keluarga tapi dia sangat gigih.",
+      "Maaf [TARGET], bayangan saya lepas sendiri tadi pagi dan sekarang sedang pura-pura jadi saya di acara keluarga lain. Saya harus tinggal di rumah demi alasan identitas.",
+      "Maaf paman/bibi [TARGET], ruang tamu saya baru saja kehilangan konsep ruang dan waktu. Saya terjebak dalam paradoks temporal selama lima menit yang terasa seperti sepuluh tahun.",
+      "Halo [TARGET], saya tidak bisa hadir karena alien baru saja mendarat di halaman belakang dan memaksa saya mengajarkan mereka cara membuat rendang.",
+      "Maaf [TARGET], alam semesta saya tiba-tiba bergeser sejauh dua meter ke kiri, jadi pintu keluar rumah saya sekarang menghadap ke dimensi kehampaan."
+    ]
+  }
+}

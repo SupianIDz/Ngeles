@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "lang": "id",
+    "context": "social",
+    "title": "Nongkrong"
+  },
+  "levels": {
+    "normal": [
+      "Sorry banget ya [TARGET], gue malam ini gak bisa ikut nongkrong dulu, badan berasa lemas banget dari sore kayak mau tumbang.",
+      "Aduh [TARGET], maaf banget ya gue terpaksa skip nongkrong hari ini karena dompet lagi kritis di akhir bulan, mending gue hemat dulu.",
+      "Sorry guys [TARGET], malam ini gak bisa gabung karena ada urusan internal rumah tangga yang harus diselesaikan malam ini juga.",
+      "Maaf [TARGET], besok pagi ada acara pagi-pagi banget dan kayaknya gak boleh begadang. Next time ya!",
+      "Eh [TARGET], mau banget tapi baru inget udah janji bantuin temen pindahan malam ini. Gak enak kalau cancel dadakan.",
+      "Maaf ya [TARGET], saya pass dulu nongkrong hari ini karena mendadak ada urusan keluarga yang tidak bisa ditinggal.",
+      "Duh [TARGET], saya ga bisa ikut karena cuaca di sini hujan deras banget dan banjir di depan komplek.",
+      "Sorry [TARGET], dompet saya ketinggalan di kantor dan saya baru sadar pas mau jalan. Malas putar balik, jadi kapan-kapan aja ya."
+    ],
+    "ridiculous": [
+      "Sorry ya [TARGET], gue gak bisa keluar rumah malam ini karena tiba-tiba peliharaan gue memperlihatkan tatapan menghakimi yang bikin gue merasa bersalah kalau ditinggal pergi.",
+      "Aduh sorry banget [TARGET], gue udah rapi mau berangkat nongkrong tapi tiba-tiba mager akut menyerang secara sistemik. Kalau gue paksakan jalan, bisa pingsan karena manja.",
+      "Sorry [TARGET], gue gak bisa ikut karena tetangga sebelah rumah mendadak minta diajarin main game kompetitif biar gak kalah terus sama anaknya, gak enak kalau ditolak.",
+      "Sorry guys [TARGET], gue lagi milih baju dan entah kenapa berakhir rapiin lemari berdasarkan warna, musim, dan asosiasi emosional. Udah empat jam nih.",
+      "Maaf [TARGET], niat beres-beres sebentar sebelum berangkat, tapi sekarang udah tiga ruangan dan gue terlalu committed buat berhenti.",
+      "Sorry [TARGET], saya nggak bisa ikut karena kucing saya terlihat sangat sedih hari ini dan saya harus memberinya terapi psikologis.",
+      "Duh [TARGET], jari kelingking saya terkilir saat sedang asyik scroll TikTok. Saya disarankan dokter untuk tidak memegang gelas kopi dulu.",
+      "Maaf [TARGET], saya lagi terjebak di kamar mandi karena gagang pintunya patah. Tolong doakan saya bertahan hidup dengan sabun batangan."
+    ],
+    "realityBending": [
+      "Sorry [TARGET], gue gak bisa nongkrong. Rumah gue tiba-tiba dikepung oleh pasukan alien ramah yang minta diajarin cara bikin kopi lokal, gak sopan kalau ditinggal.",
+      "Waduh guys [TARGET], jiwa gue baru saja tertukar dengan jiwa orang asing akibat insiden petir siang tadi. Sekarang gue lagi adaptasi di tubuh baru, takut kalian pangling.",
+      "Gak bisa ikut dulu guys [TARGET], script codingan gue malam ini mendadak hidup dan mengancam akan menghapus seluruh isi hardisk kalau gue berani melangkah keluar pintu.",
+      "Sorry [TARGET], gue buka pintu depan dan nemu portal ke tahun 80-an. Gue masuk sebentar buat lihat-lihat dan portalnya keburu nutup. Tolong kirim bantuan.",
+      "Maaf [TARGET], dewa kecil datang tanpa pemberitahuan dan maksa gue jawab teka-teki sebelum boleh keluar rumah. Sekarang lagi di pertanyaan nomor 7 dari 40.",
+      "Bro [TARGET], saya ga bisa datang karena NPC di kehidupan nyata saya sedang nge-glitch dan saya tidak bisa mengakses menu navigasi untuk ke kafe.",
+      "Sorry [TARGET], gravitasi di area sekitar rumah saya tiba-tiba nol. Saya tidak bisa turun dari langit-langit garasi sejak pagi.",
+      "Maaf ya [TARGET], saya terlempar ke multiversum lain di mana kafe tempat kita nongkrong itu isinya cuma manusia berkepala hiu. Saya takut balik."
+    ]
+  }
+}

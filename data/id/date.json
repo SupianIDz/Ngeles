@@ -1,0 +1,23 @@
+{
+  "title": "Batal Kencan",
+  "excuses": {
+    "normal": [
+      "Maaf banget ya {target}, aku tiba-tiba meriang dan pusing banget sejak sore tadi. Kayaknya aku butuh istirahat di rumah dulu.",
+      "Aduh {target}, bosku mendadak minta meeting darurat malam ini juga buat ngebahas project besok. Sumpah ga bisa ditinggal.",
+      "Sorry ya {target}, kucingku tiba-tiba muntah-muntah dan aku harus bawa dia ke klinik hewan sekarang juga.",
+      "Maaf {target}, ada urusan keluarga mendadak yang bener-bener penting dan aku harus pulang sekarang. Kita *reschedule* ya."
+    ],
+    "ridiculous": [
+      "Maaf {target}, aku baru nyadar ternyata kita beda zodiak dan merkurius lagi *retrograde*. Menurut ahli auraku, ini sangat berbahaya buat keselamatan kita.",
+      "Aduh {target}, aku nggak bisa keluar rumah malam ini. Mantan pacarku nyewa dukun buat bikin aku diare tiap kali mau nge-date.",
+      "Gini {target}, baju favorit yang mau kupakai ternyata diculik tetangga jemurannya. Aku nggak punya baju lain yang cocok.",
+      "Maaf ya {target}, aku salah naik Gojek dan sekarang aku malah dibawa ke kondangan keluarga *driver*-nya. Nggak enak kalau aku langsung pulang."
+    ],
+    "realityBending": [
+      "Dengar {target}, agen dari masa depan baru saja datang ke kamarku dan memperingatkan bahwa kencan kita malam ini akan memicu kiamat zombie di tahun 2030. Demi umat manusia, aku harus *cancel*.",
+      "Maaf {target}, aku tiba-tiba terjebak di dimensi paralel di mana konsep 'kencan' tidak pernah ditemukan. Aku harus mencari portal kembali ke bumimu.",
+      "Aku nggak bisa datang {target}. Gravitasi di rumahku mendadak hilang dan aku sekarang mengambang di langit-langit kamar nggak bisa turun.",
+      "{target}, tolong! Aku berubah wujud jadi kulkas dua pintu setelah minum ramuan misterius. Kamu nggak mau kan nge-date sama elektronik rumah tangga?"
+    ]
+  }
+}

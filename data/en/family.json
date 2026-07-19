@@ -1,0 +1,39 @@
+{
+  "meta": {
+    "lang": "en",
+    "context": "family",
+    "title": "Family Gathering"
+  },
+  "levels": {
+    "normal": [
+      "Sorry everyone, [TARGET] won't be able to make it to the gathering today — not feeling well at all and really needs to rest up.",
+      "Apologies [TARGET], I can't attend today's family event because a sudden work obligation came up that I have to handle this afternoon.",
+      "Really sorry [TARGET], I'm going to be late or may not make it — there's an urgent plumbing issue at home and I have to wait for the repair crew.",
+      "Wish I could be there [TARGET], but I've come down with something and don't want to risk getting anyone else sick. Take care everyone!",
+      "Sorry to miss it [TARGET], I had every intention of coming but my youngest isn't feeling well and I don't feel comfortable leaving them.",
+      "I'm sorry [TARGET], I can't drop by today because I have to work overtime on a sudden request from my boss that's due tomorrow.",
+      "Oh no, sorry [TARGET], I got a flat tire on my way there. I'm currently waiting for the mechanic to arrive.",
+      "Apologies [TARGET], my acid reflux is acting up again, so I really need to stay home and rest today."
+    ],
+    "ridiculous": [
+      "Deeply sorry [TARGET], my only decent family-gathering outfit was commandeered as a bed by a stray cat and is now covered in inexplicably magical fur.",
+      "So sorry [TARGET], I suddenly forgot how to get back to my own house after testing a new route this morning and I've been wandering for two hours.",
+      "Sorry everyone [TARGET], the gravity of my mattress increased by approximately 500× this morning. Even blinking takes enormous effort.",
+      "My apologies [TARGET], I was all set to leave when my houseplant wilted in a very dramatic and emotionally manipulative way. I can't abandon it right now.",
+      "Really sorry [TARGET], I started ironing my shirt and somehow got absorbed into a documentary about the history of buttons. Four hours later, here we are.",
+      "Sorry [TARGET], the cake I brought was snatched by a gang of wild monkeys at the traffic light. I am too traumatized to continue my journey.",
+      "Oh [TARGET], I can't make it because my favorite pants suddenly shrank to the size of doll clothes in the wash.",
+      "I'm sorry [TARGET], I got lost in the new shopping mall for 6 hours because the escalators kept looping like an optical illusion."
+    ],
+    "realityBending": [
+      "So sorry uncle/aunt [TARGET], I'm not currently on Earth. I accidentally walked through a wardrobe portal and I'm now stranded in Narnia with a very talkative lion.",
+      "Apologies for missing it [TARGET], I got caught in a time loop. I've lived this Sunday 47 times already and I still haven't figured out how to get out.",
+      "Sorry [TARGET], I was fully ready to come, but my future self appeared in my living room and firmly forbade me from attending in order to protect the timeline.",
+      "Really sorry [TARGET], a wizard showed up at my door this morning and insisted I go on an urgent quest. I tried to explain I had plans but he was very persistent.",
+      "Apologies [TARGET], my shadow detached itself this morning and is currently impersonating me at a different family gathering. I have to stay home for identity reasons.",
+      "Sorry aunt/uncle [TARGET], my living room just lost the concept of space and time. I was stuck in a temporal paradox for five minutes that felt like ten years.",
+      "Hi [TARGET], I can't attend because aliens just landed in my backyard and are forcing me to teach them how to cook rendang.",
+      "Apologies [TARGET], my universe suddenly shifted two meters to the left, so my front door now opens into the void dimension."
+    ]
+  }
+}
