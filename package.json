@@ -8,7 +8,7 @@
     "multilingual",
     "ngeles"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "author": "",
   "type": "module",
   "main": "server/index.ts",

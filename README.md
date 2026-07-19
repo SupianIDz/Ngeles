@@ -64,4 +64,4 @@ Please read our [Contributing Guide](CONTRIBUTING.md) to learn how you can add y
 
 ## 📄 License
 
-This project is licensed under the ISC License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
