@@ -15,7 +15,17 @@
       "Hello [TARGET], my salary hasn't been paid at all, I'm waiting for a delayed disbursement next month.",
       "Oh man [TARGET], my spare cash was just lent to my cousin for food business capital.",
       "Sorry [TARGET], I'm tightening my belt extremely hard to save up for wedding expenses next year.",
-      "Sorry [TARGET], all my balance was withdrawn to pay my annual insurance premium that was due today."
+      "Sorry [TARGET], all my balance was withdrawn to pay my annual insurance premium that was due today.",
+      "I'm so sorry [TARGET], I'd love to help but this month my salary was heavily cut for bank and mortgage installments.",
+      "Oh man [TARGET], sorry, my balance is only enough for transportation and daily meals until the end of the month.",
+      "Hello [TARGET], what a coincidence, my savings were entirely spent yesterday for my sick mother's medical bills.",
+      "Sorry [TARGET], my ATM card is currently lost and I haven't had time to go to the bank, so I can't transfer.",
+      "Sorry [TARGET], the money in my account is strictly budgeted by my wife, I don't dare spend outside the plan.",
+      "Oh man [TARGET], I'm also stressing out looking for a loan to pay my kid's school admission fee.",
+      "Hello [TARGET], I just transferred that money to pay off my own debt to another friend, it's completely gone.",
+      "Sorry [TARGET], I have a lot of expenses to fix my house roof which leaked terribly during yesterday's rain.",
+      "Sorry [TARGET], my daily transfer limit is maxed out for business matters, I can't guarantee I'll have spares tomorrow.",
+      "Oh man [TARGET], my spare money was used to pay my annual insurance, I am truly fasting this month."
     ],
     "ridiculous": [
       "Oh man [TARGET], the cash in my house was just eaten by a loose goat from the neighborhood.",
@@ -27,7 +37,17 @@
       "Oh man [TARGET], my balance was accidentally donated entirely to a dengue mosquito preservation foundation.",
       "Sorry [TARGET], the money in my closet was hidden by an intern goblin who picked the wrong target.",
       "Hello [TARGET], I can't transfer, my fingers suddenly turn into sausages every time I try to type a zero.",
-      "Sorry [TARGET], my ATM machine threw a tantrum because I rarely use it, it rejected my card and spat out dust."
+      "Sorry [TARGET], my ATM machine threw a tantrum because I rarely use it, it rejected my card and spat out dust.",
+      "Sorry [TARGET], the cash in my closet was just eaten by a colony of giant termites, I'm literally crying right now.",
+      "Sorry [TARGET], my piggy bank was smashed by my cat, and the inside was just pebbles magicked by the neighbor's kid.",
+      "Oh man [TARGET], my finger suddenly cramps up every time I'm asked to type a money amount on the mobile banking app.",
+      "Hello [TARGET], I accidentally donated all my balance to an online beggar on TikTok while half-conscious.",
+      "Sorry [TARGET], my ATM spits out my card every time I try to transfer, it says my balance is too pitiful.",
+      "Sorry [TARGET], my savings were blown on buying 100 dozen spicy chips because I lost a stupid bet.",
+      "Oh man [TARGET], my wallet was kidnapped by a crow and flown to the top of a cell tower.",
+      "Hello [TARGET], I converted all my money into pirate gold coins, it's very hard to liquidate into cash.",
+      "Sorry [TARGET], I can't lend it because according to my horoscope, today is a forbidden day for me to give away wealth.",
+      "Sorry [TARGET], my balance was forcibly deducted by a game developer because my in-game character committed a crime."
     ],
     "realityBending": [
       "Sorry [TARGET], the concept of money has been erased from my memory by a fifth-dimensional civilization.",
@@ -39,7 +59,17 @@
       "Oh man [TARGET], the money in my account mutated into light particles and shot off into outer space.",
       "Sorry [TARGET], I am trapped in the past during the barter era, your money has no value compared to a sack of wheat here.",
       "Hello [TARGET], the god of wealth revoked his blessing from me this morning, all my money turned into a pile of banana leaves.",
-      "Sorry [TARGET], my mobile banking system was taken over by a rebel AI that strictly prohibits borrowing and lending."
+      "Sorry [TARGET], my mobile banking system was taken over by a rebel AI that strictly prohibits borrowing and lending.",
+      "Sorry [TARGET], the concept of debt has been erased by the reality protection council, we must use energy bartering.",
+      "Sorry [TARGET], the money in my savings suddenly turned into a swarm of little fairies that flew out of the screen.",
+      "Oh man [TARGET], my bank account was sucked into a space-time vortex, the balance appeared in the Ming dynasty era.",
+      "Hello [TARGET], I have signed a blood pact with an ancestral spirit to never share my wealth.",
+      "Sorry [TARGET], the banking system in our galaxy is down due to level-five solar radiation.",
+      "Sorry [TARGET], my soul swapped with a homeless man from the future, I have no access to earthly wealth.",
+      "Oh man [TARGET], the zeros in my balance went on strike and disappeared, now my remaining balance has no value.",
+      "Hello [TARGET], my money was cursed by a witch to turn into a cobra if it changes hands.",
+      "Sorry [TARGET], every time I try to transfer money, my hand turns into thin mist and passes right through the phone.",
+      "Sorry [TARGET], the god of wealth revoked my financial license, all paper money I touch turns to dust."
     ]
   }
 }

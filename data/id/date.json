@@ -33,7 +33,17 @@
       "Aduh [TARGET], aku kejebak macet parah gara-gara ada demo buruh besar-besaran di pusat kota.",
       "Halo [TARGET], sori banget aku bener-bener lupa kalau kita ada janjian ini, jadwalku kacau balau minggu ini.",
       "Maaf ya [TARGET], temen kerjaku mendadak sakit dan aku dipaksa manajer buat gantiin *shift*-nya malam ini.",
-      "Sori [TARGET], hapeku hilang dicopet pas lagi di stasiun, ini aku baru bisa minjem hape orang buat ngabarin."
+      "Sori [TARGET], hapeku hilang dicopet pas lagi di stasiun, ini aku baru bisa minjem hape orang buat ngabarin.",
+      "Maaf banget [TARGET], bosku *bad mood* dan ngamuk, semua karyawan disuruh lembur beresin laporan salah.",
+      "Aduh [TARGET], aku tiba-tiba kena serangan migrain hebat, pandanganku berkunang-kunang nggak kuat buka mata.",
+      "Halo [TARGET], ban mobilku bocor halus dan pompaku rusak, ini harus nunggu tukang tambal ban keliling lewat.",
+      "Maaf ya [TARGET], aku kelupaan janjian ini karena sibuk ngurus ibuku yang mendadak demam tinggi.",
+      "Sori [TARGET], dompet dan semua identitasku ketinggalan di laci meja kantor, kantornya udah dikunci.",
+      "Aduh [TARGET], anjingku tiba-tiba muntah darah dan aku panik banget bawa dia ke klinik hewan sekarang.",
+      "Halo [TARGET], jalanan menuju tempatmu ditutup total karena ada kecelakaan beruntun parah, macet tak bergerak.",
+      "Maaf [TARGET], aku salah makan sate kerang yang udah basi, perutku mules banget dan muntah-muntah.",
+      "Sori [TARGET], bajuku basah kuyup kecipratan mobil genangan air di jalan, aku nggak bawa baju ganti.",
+      "Aduh [TARGET], tetanggaku kemalingan dan aku dijadikan saksi mata oleh polisi setempat, pemeriksaannya lama."
     ],
     "ridiculous": [
       "Maaf [TARGET], aku baru nyadar ternyata kita beda zodiak dan merkurius lagi *retrograde*. Menurut ahli auraku, ini sangat berbahaya buat keselamatan kita.",
@@ -68,7 +78,17 @@
       "Aduh [TARGET], pipiku bengkak segede bakpao gara-gara disengat tawon pas lagi siram tanaman, aku jelek banget sekarang.",
       "Maaf [TARGET], resleting jaketku nyangkut parah di bibir bawahku, aku kesakitan dan nggak bisa ngomong.",
       "Halo [TARGET], aku nggak bisa kencan karena lagi sibuk nyariin ujung selotip yang hilang dari tadi sore.",
-      "Sori [TARGET], aku salah pakai parfum, malah semprotin obat nyamuk ke leherku, sekarang badanku panas dan gatel."
+      "Sori [TARGET], aku salah pakai parfum, malah semprotin obat nyamuk ke leherku, sekarang badanku panas dan gatel.",
+      "Sori [TARGET], aku salah nyukur bulu hidung malah kepotong bibir atas, darahnya netes terus aku jadi trauma.",
+      "Aduh [TARGET], resleting tasku nyangkut di rambut panjang mbak-mbak di KRL, kita berdua panik ngelepasnya.",
+      "Maaf [TARGET], aku nggak bisa datang karena sepatuku dicuri anjing liar dan aku cuma pakai sandal jepit buluk.",
+      "Halo [TARGET], aku salah pakai pomade yang ternyata lem tikus, rambutku kaku dan lengket banget nggak bisa disisir.",
+      "Sori [TARGET], aku terjebak di toilet mal dua jam karena tisu habis dan gagang pintunya patah dari dalam.",
+      "Aduh [TARGET], aku dikejar kawanan ibu-ibu *fans* K-Pop karena bajuku mirip dengan artis idola mereka.",
+      "Maaf [TARGET], pipiku digigit semut api tepat di hidung, bengkaknya gede banget sampai aku kelihatan kayak badut.",
+      "Halo [TARGET], aku salah masuk salon dan alisku dicukur habis sampai botak licin, aku malu setengah mati.",
+      "Sori [TARGET], aku ketiduran pas lagi maskeran arang, sekarang maskernya membatu dan susah dicuci.",
+      "Aduh [TARGET], kucingku terus-terusan ngeong sedih pas aku mau pergi, aku nggak tega dan milih rebahan nemenin dia."
     ],
     "realityBending": [
       "Dengar [TARGET], agen dari masa depan baru saja datang ke kamarku dan memperingatkan bahwa kencan kita malam ini akan memicu kiamat zombie di tahun 2030. Demi umat manusia, aku harus *cancel*.",
@@ -103,7 +123,17 @@
       "Sori [TARGET], aku tak sengaja meminum ramuan cinta yang kedaluwarsa, sekarang aku jatuh cinta pada mesin cuci di rumahku.",
       "Aduh [TARGET], benang merah takdir kita terputus oleh gunting kosmik, kita tidak lagi terikat dalam garis waktu ini.",
       "Halo [TARGET], kencan kita malam ini dibatalkan oleh *patch update* terbaru dari alam semesta untuk memperbaiki *bug* realita.",
-      "Maaf [TARGET], saat aku melihat matamu, aku tersedot ke dalam *black hole* mikro dan terlempar kembali ke masa prasejarah."
+      "Maaf [TARGET], saat aku melihat matamu, aku tersedot ke dalam *black hole* mikro dan terlempar kembali ke masa prasejarah.",
+      "Maaf [TARGET], dewa asmara menembakkan panah yang salah padaku, sehingga aku jatuh cinta membabi buta pada tiang listrik.",
+      "Sori [TARGET], kencan kita terdeteksi sebagai pelanggaran *timeline* tingkat tinggi oleh polisi patroli waktu.",
+      "Aduh [TARGET], aku berubah menjadi serigala jadi-jadian malam ini karena bulan bersinar tidak wajar.",
+      "Halo [TARGET], aku terhisap masuk ke dalam *game dating sim* dan harus menamatkan semua rutenya sebelum bisa kembali ke dunia nyata.",
+      "Maaf [TARGET], eksistensiku di dunia nyata memudar setiap kali aku memikirkan romansa, ini peringatan alam semesta.",
+      "Sori [TARGET], bayanganku mencuri pakaian kencanku dan lari pergi nge- *date* dengan bayangan orang lain.",
+      "Aduh [TARGET], hujan meteor menghancurkan rute jalan menuju tempatmu, tanah terbelah menjadi lautan lava panas.",
+      "Halo [TARGET], tubuhku menjadi transparan saat terkena cahaya bulan, aku tak ingin kau berkencan dengan pria tak kasat mata.",
+      "Maaf [TARGET], aku secara magis berteleportasi ke era prasejarah dan saat ini sedang bersembunyi dari T-Rex.",
+      "Sori [TARGET], kita tidak boleh bertemu malam ini, peramal buta di perempatan mengatakan pertemuan kita akan menghancurkan sistem tata surya."
     ]
   },
   "meta": {

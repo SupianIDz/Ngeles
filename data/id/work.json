@@ -42,7 +42,17 @@
       "Halo [TARGET], kunci mobil saya hilang entah ke mana di dalam rumah dan saya sudah nyari sejam lebih.",
       "Mohon izin [TARGET], sol sepatu kerja saya tiba-tiba jebol lepas saat saya mau naik motor, saya harus cari sepatu ganti.",
       "Permisi [TARGET], laptop saya mendadak mati total dan mengeluarkan asap tipis, saya harus ke tempat servis sekarang.",
-      "Maaf [TARGET], ban motor saya bocor kena tumpukan paku payung di jalan, ini lagi didorong nyari bengkel."
+      "Maaf [TARGET], ban motor saya bocor kena tumpukan paku payung di jalan, ini lagi didorong nyari bengkel.",
+      "Maaf [TARGET], ada kebocoran pipa ledeng di rumah saya dan airnya menggenangi ruang tamu, saya harus menunggu tukang ledeng.",
+      "Halo [TARGET], mobil saya terserempet truk di jalan tol, saat ini saya sedang berurusan dengan asuransi dan polisi.",
+      "Mohon izin [TARGET], saya mengalami keracunan makanan parah setelah makan malam kemarin, perut saya melilit tidak bisa berdiri.",
+      "Permisi [TARGET], kucing saya tiba-tiba melahirkan di lemari pakaian saya dan saya harus mengurus anak-anaknya yang berlumuran darah.",
+      "Maaf [TARGET], tetangga saya menyalakan musik hajatan sekencang-kencangnya sejak subuh, kepala saya migrain parah tidak bisa fokus.",
+      "Halo [TARGET], kunci rumah saya dibawa terbawa oleh adik saya ke sekolah, jadi saya terkunci dari luar dan tidak bisa ganti baju kerja.",
+      "Mohon izin [TARGET], ada pohon tumbang menutupi jalan utama perumahan saya, tidak ada satupun kendaraan yang bisa keluar.",
+      "Permisi [TARGET], kacamata minus saya pecah terinjak saat saya mau mandi, pandangan saya kabur total dan bahaya jika saya menyetir.",
+      "Maaf [TARGET], AC di rumah konslet dan mengeluarkan percikan api, saya harus mematikan listrik dan menunggu teknisi PLN.",
+      "Halo [TARGET], saya harus menemani mertua saya ke UGD karena tensi darahnya tiba-tiba melonjak tinggi pagi ini."
     ],
     "ridiculous": [
       "Maaf [TARGET], hari ini saya tidak bisa masuk kerja dulu karena kucing peliharaan saya mendadak depresi setelah gagal menangkap cicak, saya harus menemani masa pemulihan emosionalnya.",
@@ -81,7 +91,17 @@
       "Halo [TARGET], saya disangka penjual cilok dan dikerubuti anak SD satu sekolahan, saya susah keluar dari kerumunan.",
       "Mohon izin [TARGET], saya digigit angsa peliharaan pak RT sampai celana saya robek dan kaki saya memar.",
       "Maaf [TARGET], saya kepeleset kulit pisang ala film kartun dan nyungsep masuk ke dalam got yang bau.",
-      "Waduh [TARGET], rambut saya nyangkut masuk ke dalam kipas angin meja pas saya lagi ngadem, ini lagi digunting perlahan."
+      "Waduh [TARGET], rambut saya nyangkut masuk ke dalam kipas angin meja pas saya lagi ngadem, ini lagi digunting perlahan.",
+      "Maaf [TARGET], saya digigit tikus got sebesar kucing saat membuang sampah, saya sedang di klinik untuk suntik rabies.",
+      "Halo [TARGET], saya tidak sengaja mencukur habis sebelah alis saya karena masih mengantuk, saya terlalu malu untuk ke kantor.",
+      "Mohon izin [TARGET], burung beo peliharaan tetangga terus-terusan meneriakkan nama saya, saya merasa diteror secara psikologis.",
+      "Permisi [TARGET], saya salah menelan kelereng milik anak saya karena mengira itu permen mint, sekarang saya merasa mual.",
+      "Maaf [TARGET], baju kerja saya dicuri oleh sekawanan monyet liar yang masuk lewat jendela kamar mandi.",
+      "Halo [TARGET], saya terjebak di dalam kamar mandi karena knop pintunya tiba-tiba copot dan jatuh ke kloset.",
+      "Mohon izin [TARGET], tangan saya tertempel lem super ke gagang sapu, saya belum berhasil melepaskannya sejak tadi malam.",
+      "Permisi [TARGET], saya dikejar anjing pudel galak sampai harus memanjat pohon mangga, saya belum berani turun.",
+      "Maaf [TARGET], saya salah menyemprotkan pewangi ruangan ke ketiak saya, sekarang kulit saya panas dan melepuh ringan.",
+      "Halo [TARGET], celana panjang saya menyusut jadi celana pendek karena salah cuci pakai air mendidih, saya tidak punya celana lain."
     ],
     "realityBending": [
       "Maaf bos [TARGET], saya baru saja dijemput paksa oleh agen lintas dimensi untuk memperbaiki kebocoran ruang-waktu di tahun 2045. Mungkin besok baru bisa kembali ke lini masa ini.",
@@ -120,7 +140,17 @@
       "Halo [TARGET], saya terjebak di dalam permainan *Minesweeper*, kalau saya salah melangkah, kamar saya akan meledak.",
       "Mohon izin [TARGET], wujud saya berubah menjadi tumpukan dokumen Excel yang belum di- *save*, tolong jangan tekan *close*.",
       "Maaf [TARGET], alien menculik atasan saya dan menunjuk saya sebagai Duta Besar Galaksi, saya harus menghadiri sidang antariksa.",
-      "Waduh [TARGET], mesin waktu saya rusak dan saya terlempar ke hari libur nasional tahun depan, jadi saya tidak usah masuk kerja."
+      "Waduh [TARGET], mesin waktu saya rusak dan saya terlempar ke hari libur nasional tahun depan, jadi saya tidak usah masuk kerja.",
+      "Maaf [TARGET], saya tidak sengaja meminum ramuan tak terlihat, tubuh saya sekarang transparan dan saya tidak bisa memakai baju.",
+      "Halo [TARGET], waktu berjalan mundur di dalam rumah saya, setiap kali saya melangkah ke pintu depan, saya kembali ke tempat tidur.",
+      "Mohon izin [TARGET], ruang tamu saya berubah menjadi portal menuju dimensi paralel yang dipenuhi manusia berkepala kubus.",
+      "Permisi [TARGET], gravitasi bumi tiba-tiba berpusat pada kulkas saya, sehingga semua benda di rumah termasuk saya menempel ke pintu kulkas.",
+      "Maaf [TARGET], roh saya terlepas dari tubuh saat saya bermimpi semalam, saya masih mencoba menemukan cara masuk kembali.",
+      "Halo [TARGET], saya dipanggil oleh dewan antar galaksi untuk bersaksi mengenai nasib bumi di masa depan.",
+      "Mohon izin [TARGET], bayangan saya menolak untuk mengikuti gerakan saya dan malah duduk minum kopi, saya ketakutan setengah mati.",
+      "Permisi [TARGET], seluruh ingatan tentang pekerjaan saya telah dihapus oleh kilatan cahaya dari piring terbang semalam.",
+      "Maaf [TARGET], saya terperangkap di dalam *loop* waktu hari Minggu, bagi saya besok belum terjadi.",
+      "Halo [TARGET], hukum fisika tidak berlaku pada diri saya hari ini, setiap saya mencoba berjalan, saya malah melayang ke atas."
     ]
   }
 }

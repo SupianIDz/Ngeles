@@ -39,7 +39,17 @@
       "Halo [TARGET], saya sakit perut melilit parah habis jajan seblak sembarangan kemarin sore.",
       "Mohon maaf [TARGET], seragam sekolah saya satu-satunya belum kering karena kehujanan pas dijemur.",
       "Permisi [TARGET], angkot yang saya naiki mogok di tengah tanjakan curam, penumpangnya disuruh turun semua.",
-      "Maaf [TARGET], saya nyasar naik bus salah jurusan karena ketiduran, ini saya udah sampai di kota sebelah."
+      "Maaf [TARGET], saya nyasar naik bus salah jurusan karena ketiduran, ini saya udah sampai di kota sebelah.",
+      "Maaf [TARGET], buku tugas saya robek parah karena ditarik-tarik oleh adik bayi saya semalam.",
+      "Halo [TARGET], rantai sepeda saya putus di tengah jalan yang sepi dan tidak ada bengkel terdekat.",
+      "Mohon izin [TARGET], saya mimisan parah sejak bangun tidur dan belum kunjung berhenti, kepala saya pusing.",
+      "Permisi [TARGET], angkutan umum di daerah saya sedang mogok massal, tidak ada kendaraan yang beroperasi sama sekali.",
+      "Maaf [TARGET], seragam putih saya kelunturan baju merah saat dicuci, sekarang warnanya pink merata.",
+      "Halo [TARGET], ban motor ayah saya kempes dua-duanya, jadi tidak ada yang bisa mengantar saya ke sekolah.",
+      "Mohon izin [TARGET], saya alergi debu parah karena kemarin kerja bakti bersihin gudang, hidung saya mampet dan mata bengkak.",
+      "Permisi [TARGET], jalanan depan rumah saya ditutup total karena ada pengerjaan gorong-gorong sedalam 2 meter.",
+      "Maaf [TARGET], saya ketiduran setelah shubuh karena semalaman tidak bisa tidur akibat sakit gigi kumat.",
+      "Halo [TARGET], sepatu sekolah saya basah kuyup karena kucing saya pipis di dalamnya."
     ],
     "ridiculous": [
       "Maaf Pak/Bu [TARGET], saya telat karena tadi pagi ayam tetangga berkokok dalam nada minor yang membuat saya merenungi tujuan hidup selama tiga jam.",
@@ -75,7 +85,17 @@
       "Halo [TARGET], saya dicegat dan dimarahi tukang sayur keliling karena ibu saya ngutang kangkung belum bayar.",
       "Mohon izin [TARGET], ransel saya diculik monyet liar yang masuk ke pekarangan rumah, dia nangkring di atas genteng.",
       "Maaf [TARGET], saya tidak sengaja menyikat gigi pakai sabun cuci muka, mulut saya berbusa parah dan mual.",
-      "Waduh [TARGET], saya salah pakai sepatu, sebelah kanan sepatu sekolah, sebelah kiri sepatu hak tinggi ibu saya."
+      "Waduh [TARGET], saya salah pakai sepatu, sebelah kanan sepatu sekolah, sebelah kiri sepatu hak tinggi ibu saya.",
+      "Maaf [TARGET], saya tidak bisa hadir karena rambut saya mengembang seperti singa setelah salah pakai sampo anjing.",
+      "Halo [TARGET], saya tersangkut di resleting jaket saya sendiri hingga menutupi wajah saya sepenuhnya.",
+      "Mohon izin [TARGET], buku catatan matematika saya dimakan oleh kambing tetangga yang lepas ke halaman rumah.",
+      "Permisi [TARGET], saya menelan biji semangka utuh dan ketakutan kalau nanti akan tumbuh pohon di perut saya.",
+      "Maaf [TARGET], saya salah membawa tas sekolah, yang terbawa malah tas belanja ibu saya yang berisi sayuran.",
+      "Halo [TARGET], saya tidak sengaja menggunakan spidol permanen sebagai pensil alis, dan sekarang tebal sekali.",
+      "Mohon izin [TARGET], saya dicegat oleh anak-anak TK yang meminta saya menjadi juri lomba menggambar di jalanan.",
+      "Permisi [TARGET], jari telunjuk saya masuk ke lubang botol kaca dan tidak bisa ditarik keluar.",
+      "Maaf [TARGET], saya dikejar sekawanan angsa yang marah sampai saya harus bersembunyi di pos satpam.",
+      "Halo [TARGET], saya batal berangkat karena saya merasa bersalah meninggalkan boneka beruang saya sendirian di rumah."
     ],
     "realityBending": [
       "Maaf [TARGET], saya tidak bisa masuk hari ini karena saya terlempar ke dimensi paralel di mana sekolah belum ditemukan dan saya ditugaskan untuk menciptakannya.",
@@ -111,7 +131,17 @@
       "Halo [TARGET], meja belajar saya menelan semua buku pelajaran saya ke dalam dimensi saku yang tak berujung.",
       "Mohon izin [TARGET], sistem gravitasi di sekolah kita di- *hack*, saya melihat gedung sekolah melayang ke angkasa.",
       "Maaf [TARGET], saya terjebak di putaran waktu saat istirahat siang, saya terus menerus makan siomay yang sama selama jutaan kali.",
-      "Waduh [TARGET], bayangan saya memutuskan untuk membolos hari ini dan dia mengambil alih tubuh fisik saya."
+      "Waduh [TARGET], bayangan saya memutuskan untuk membolos hari ini dan dia mengambil alih tubuh fisik saya.",
+      "Maaf [TARGET], sekolah kita tiba-tiba tenggelam ke dalam lautan lava, saya tidak ingin mengambil risiko.",
+      "Halo [TARGET], PR sejarah saya berubah menjadi mesin waktu dan menyedot saya kembali ke Perang Dunia II.",
+      "Mohon izin [TARGET], saya telah dikutuk oleh penyihir sehingga setiap kali saya berbicara, yang keluar adalah suara gajah.",
+      "Permisi [TARGET], seragam saya terbuat dari bahan anti-gravitasi, jika saya memakainya, saya akan melayang ke luar angkasa.",
+      "Maaf [TARGET], saya terhisap ke dalam cermin kamar mandi saya dan terjebak di dunia kebalikan.",
+      "Halo [TARGET], alien menghapus pengetahuan matematika dari otak saya, saya butuh waktu untuk mengunggah ulang datanya.",
+      "Mohon izin [TARGET], rumah saya tiba-tiba memiliki sistem keamanan laser mematikan yang menolak membiarkan saya keluar.",
+      "Permisi [TARGET], saya tidak sengaja menyentuh artefak terkutuk dan sekarang tubuh saya berubah menjadi batu marmer.",
+      "Maaf [TARGET], dimensi kita sedang tumpang tindih dengan dunia kartun, saya sedang dikejar oleh piano yang jatuh dari langit.",
+      "Halo [TARGET], saya tidak bisa ke sekolah karena cuaca hari ini diprediksi akan hujan meteor yang menghancurkan planet."
     ]
   }
 }

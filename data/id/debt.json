@@ -33,7 +33,17 @@
       "Halo [TARGET], gajiku bulan ini telat turun hampir sebulan, perusahaan lagi ada masalah *cashflow*.",
       "Aduh [TARGET], uang tunai yang mau kukasih ke kamu hilang jatuh di jalan entah di mana, aku nangis banget ini.",
       "Maaf [TARGET], aku baru aja kena PHK mendadak kemarin sore, aku bener-bener nggak ada pemasukan sekarang.",
-      "Sori ya [TARGET], ATM-ku keblokir gara-gara aku salah masukin PIN tiga kali berturut-turut, lagi error nih otak."
+      "Sori ya [TARGET], ATM-ku keblokir gara-gara aku salah masukin PIN tiga kali berturut-turut, lagi error nih otak.",
+      "Maaf banget [TARGET], uangnya kepakai buat beli susu dan popok anakku yang mendadak habis bulan ini.",
+      "Aduh [TARGET], gajiku bulan ini dipotong gara-gara sering telat, uangnya bener-bener ngepas buat makan doang.",
+      "Halo [TARGET], sori banget aku belum bisa bayar, ada tagihan listrik nunggak yang kalau nggak dibayar hari ini bakal diputus.",
+      "Maaf [TARGET], motorku turun mesin dan biayanya habis jutaan, uang tabunganku ludes semua.",
+      "Sori [TARGET], aku baru aja kecelakaan kecil dan uangnya kepakai buat berobat di klinik.",
+      "Halo [TARGET], aku belum bisa bayar hutang karena aku lagi kena musibah genteng rumah ambruk kena angin kencang.",
+      "Maaf [TARGET], kartu kreditku *overlimit* dan aku lagi dikejar *debt collector* bank, aku pusing banget mikirinnya.",
+      "Aduh [TARGET], uangnya kepakai bayar denda tilang polisi kemarin karena STNK-ku mati.",
+      "Sori [TARGET], perusahaan tempatku kerja lagi krisis, gajiku dicicil dua kali bulan ini.",
+      "Halo [TARGET], uangku habis buat beliin ibuku obat diabetes yang mahal banget."
     ],
     "ridiculous": [
       "Maaf [TARGET], uang yang mau kubayar dimakan rayap karena kusimpan di bawah kasur. Aku lagi usahakan ke BI buat tukar uang rusak.",
@@ -68,7 +78,17 @@
       "Aduh [TARGET], uangnya dicuri oleh burung kakatua liar yang terbang masuk lewat jendela kamarku.",
       "Maaf [TARGET], aku nggak sengaja ngebakar semua uangku waktu lagi mainan korek api kayak adegan di film aksi.",
       "Halo [TARGET], uangnya aku pakai buat beli asuransi jiwa untuk ikan koki peliharaanku yang gampang stres.",
-      "Sori [TARGET], uang koin di celenganku berubah jadi karatan semua karena kebanjiran, nggak ada toko yang mau nerima."
+      "Sori [TARGET], uang koin di celenganku berubah jadi karatan semua karena kebanjiran, nggak ada toko yang mau nerima.",
+      "Sori [TARGET], uang yang mau kubuat bayar kamu nggak sengaja kesapu dan kebuang ke tempat sampah tukang rongsok.",
+      "Aduh [TARGET], uang tunainya disembunyikan oleh anjingku di halaman belakang dan aku belum nemu di mana dia nguburnya.",
+      "Maaf [TARGET], aku nggak bisa bayar karena jariku kaku dan menolak mengetik PIN M-Banking tiap kali lihat namamu.",
+      "Halo [TARGET], celenganku ternyata selama ini dibobol sama adikku buat beli *skin* game online, aku syok berat.",
+      "Sori [TARGET], uang kertasnya dimakan rayap di lemari, cuma sisa serpihan-serpihan kecil yang nggak laku di bank.",
+      "Aduh [TARGET], aku salah transfer uangmu ke rekening mantanku yang namanya mirip, aku nggak berani minta balik.",
+      "Maaf [TARGET], dompetku dicopet monyet di kebun binatang waktu aku lagi *study tour*, aku rugi bandar.",
+      "Halo [TARGET], uangnya kugunakan untuk menyewa dukun santet guna menangkal kutukan sial dari rivalku.",
+      "Sori [TARGET], uangku nggak sengaja kusumbangkan semua ke panti asuhan karena salah pencet nominal nolnya kelebihan tiga.",
+      "Aduh [TARGET], aku ditipu investasi bodong jual beli tokek hias, sekarang tokeknya mati dan uangku melayang."
     ],
     "realityBending": [
       "Dengar [TARGET], secara teknis uang itu adalah energi. Dan menurut Hukum Termodinamika, energi tidak bisa diciptakan atau dimusnahkan. Jadi uangmu tidak hilang, hanya berubah bentuk menjadi aura kosmik di sekitarku.",
@@ -103,7 +123,17 @@
       "Sori [TARGET], uang yang mau kubayarkan padamu ternyata hanyalah ilusi optik ciptaan penyihir jalanan.",
       "Aduh [TARGET], saldo di rekeningku telah dikonversi menjadi energi *dark matter* untuk menyalakan mesin cuci waktu.",
       "Halo [TARGET], aku terjebak dalam kontrak hutang dengan iblis dari neraka tingkat tujuh, hutangku padamu tidak lagi relevan.",
-      "Maaf [TARGET], mata uang Rupiah sudah tidak diakui oleh Federasi Perdagangan Galaksi, mereka hanya menerima uranium murni."
+      "Maaf [TARGET], mata uang Rupiah sudah tidak diakui oleh Federasi Perdagangan Galaksi, mereka hanya menerima uranium murni.",
+      "Maaf [TARGET], bank sentral bumi dibekukan oleh aliansi antar galaksi, sistem keuangan kita saat ini sedang *down* total.",
+      "Sori [TARGET], aku baru saja bertukar tubuh dengan seorang pengemis dari abad ke-18, uang modernmu tidak ada di kantongku.",
+      "Aduh [TARGET], malaikat maut menolak mengambil nyawaku dengan syarat aku memberikan seluruh harta duniaku padanya.",
+      "Halo [TARGET], uang di rekeningku berubah menjadi deretan kode biner yang tidak bisa dibaca oleh sistem manusia.",
+      "Maaf [TARGET], karma dari kehidupan laluku menuntutku membayar hutang darah, uang tidak lagi ada harganya bagiku.",
+      "Sori [TARGET], bank tempatku menabung ternyata hanyalah ilusi yang diciptakan oleh penyihir, uangku sirna bersama mantra itu.",
+      "Aduh [TARGET], aku terjebak dalam putaran kasino waktu, setiap koin yang kumenangkan menghilang saat aku bangun tidur.",
+      "Halo [TARGET], mata uang dunia telah diubah menjadi cangkang kerang mutiara oleh raja laut, uang kertasku tidak laku.",
+      "Maaf [TARGET], bayanganku mencuri dompetku dan menggunakannya untuk berjudi di dimensi cermin.",
+      "Sori [TARGET], saldo bank-ku disedot oleh lubang cacing mikroskopis yang muncul di dalam *smartphone*-ku."
     ]
   },
   "meta": {

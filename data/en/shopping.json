@@ -15,7 +15,17 @@
       "Hello [TARGET], sorry for canceling, the shipping cost to my place turned out to be much more expensive than the item.",
       "Oh man [TARGET], I'm cancelling because my spouse secretly bought the exact same item as a surprise.",
       "Sorry [TARGET], I suddenly had an unexpected expense to pay an overdue electricity bill, my money is gone.",
-      "Sorry [TARGET], I cancelled the purchase after reading online reviews saying this item doesn't last long."
+      "Sorry [TARGET], I cancelled the purchase after reading online reviews saying this item doesn't last long.",
+      "Sorry [TARGET], I'm canceling the order because my wife went on a rampage seeing this item, she said it's unnecessary.",
+      "Hello [TARGET], I'm so sorry, it turns out the item you're selling doesn't fit the room size in my house.",
+      "Oh man [TARGET], I'll cancel, suddenly there's a family emergency expense that is more urgent than buying this.",
+      "Sorry [TARGET], the shipping fee turned out to be much more expensive than I estimated, it's way over budget.",
+      "Sorry [TARGET], I'll cancel the order, a neighbor just gave me a similar item for free.",
+      "Hello [TARGET], I won't buy it, it turns out the item's specifications are different from what I need for work.",
+      "Oh man [TARGET], I cancel the order, the agreed meetup location is too far and I don't have a vehicle.",
+      "Sorry [TARGET], my bank account is temporarily blocked, so I can't pay today. Just cancel it.",
+      "Sorry [TARGET], I'm canceling because this item was meant for a gift, but the party has already passed.",
+      "Hello [TARGET], I'll just cancel, I read the reviews and they say this brand breaks easily."
     ],
     "ridiculous": [
       "Sorry [TARGET], I'm canceling because my trusted shaman said your merchandise has an aura that clashes with my birth chart.",
@@ -27,7 +37,17 @@
       "Oh man [TARGET], my ancestor's spirit appeared in my dream last night and strictly forbade me from buying this.",
       "Sorry [TARGET], my cat became hysterical and panicked upon seeing the photo of your item, I don't want to risk it.",
       "Hello [TARGET], I cancelled because my street name was just unilaterally changed by the local head, the courier will get lost.",
-      "Sorry [TARGET], my index finger is severely sprained, I don't have the strength to press the order confirmation button."
+      "Sorry [TARGET], my index finger is severely sprained, I don't have the strength to press the order confirmation button.",
+      "Sorry [TARGET], my cat was terrified seeing the picture of the item you sell, I'm cancelling for its sanity.",
+      "Sorry [TARGET], my spiritual shaman forbade me from buying items in this color because it will bring bad luck for seven generations.",
+      "Oh man [TARGET], I'm canceling, it turns out the money I was going to use to pay is my kid's Monopoly play money.",
+      "Hello [TARGET], I'll cancel because I just realized I'm single, why would I buy a couple's item.",
+      "Sorry [TARGET], my index finger is sprained, I feel excruciating pain every time I try to press the 'Transfer' button.",
+      "Sorry [TARGET], I'll cancel, I only asked a lot of questions to train my debate and negotiation skills.",
+      "Oh man [TARGET], I won't buy it, my mom threatened to strike my name from the family register if this package arrives.",
+      "Hello [TARGET], I cancel because the item's name contradicts the principles of the carb diet I am currently on.",
+      "Sorry [TARGET], I'll cancel the meetup, I have a phobia of meeting strangers at windy gas stations.",
+      "Sorry [TARGET], I won't order, I just realized this will clutter my house which is only the size of a tiny box."
     ],
     "realityBending": [
       "Sorry [TARGET], the item you are selling is actually a cursed artifact from Babylon that will doom my next 7 generations.",
@@ -39,7 +59,17 @@
       "Oh man [TARGET], I cancelled because my future self arrived and slapped my face before I could transfer the payment.",
       "Sorry [TARGET], physical packages are obsolete in my timeline, we now just download objects directly into our minds.",
       "Hello [TARGET], the transaction was cancelled by karma, every time I try to pay, my money turns to ashes.",
-      "Sorry [TARGET], my pocket dimension is already full of mystical furniture, there is no room left for your item."
+      "Sorry [TARGET], my pocket dimension is already full of mystical furniture, there is no room left for your item.",
+      "Sorry [TARGET], the item you are selling emits a negative energy that could tear the balance between dimensions.",
+      "Sorry [TARGET], I was thrown back to the prehistoric era and there is no courier service that can penetrate time.",
+      "Oh man [TARGET], my reflection in the mirror screamed and shattered the glass when I was about to press 'Buy'.",
+      "Hello [TARGET], the money in my wallet refused to be spent and they marched out of the house like ants.",
+      "Sorry [TARGET], physical packages are no longer relevant in my world, we only receive cosmic wave data transmissions.",
+      "Sorry [TARGET], our transaction was automatically cancelled by universal karma to prevent the destruction of earth.",
+      "Oh man [TARGET], your item was detected as an alien artifact that could trigger an invasion from the Andromeda galaxy.",
+      "Hello [TARGET], every time I try to buy, my body resets into a toddler who doesn't understand the concept of shopping.",
+      "Sorry [TARGET], this online shopping portal leads to a ghost market, I dare not trade my lifespan for this item.",
+      "Sorry [TARGET], I cancel because the lines on my palm indicate that receiving this item will erase my existence."
     ]
   }
 }

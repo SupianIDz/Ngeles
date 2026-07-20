@@ -42,7 +42,17 @@
       "Hello [TARGET], I lost my car keys somewhere inside my house and I've been searching for over an hour.",
       "Excuse me [TARGET], the sole of my work shoe suddenly snapped off as I was getting on my motorcycle, I need to find a replacement.",
       "Sorry [TARGET], my laptop suddenly died completely and started emitting thin smoke, I have to take it to the repair shop immediately.",
-      "I apologize [TARGET], my motorcycle tire popped from a pile of thumbtacks on the road, I'm currently pushing it to find a mechanic."
+      "I apologize [TARGET], my motorcycle tire popped from a pile of thumbtacks on the road, I'm currently pushing it to find a mechanic.",
+      "Sorry [TARGET], a water pipe burst in my house and flooded my living room, I have to wait for the plumber.",
+      "Hello [TARGET], my car got sideswiped by a truck on the highway, I'm currently dealing with insurance and the police.",
+      "Excuse me [TARGET], I'm suffering from severe food poisoning after last night's dinner, my stomach cramps so bad I can't stand.",
+      "Sorry [TARGET], my cat suddenly gave birth in my closet and I have to take care of the blood-covered kittens.",
+      "Hello [TARGET], my neighbor has been blasting loud party music since dawn, I have a massive migraine and can't focus.",
+      "Excuse me [TARGET], my house key was taken by my little sibling to school, so I'm locked out and can't change into my work clothes.",
+      "Sorry [TARGET], a fallen tree is blocking the main road of my neighborhood, no vehicle can get out at all.",
+      "Hello [TARGET], my prescription glasses broke when I stepped on them, my vision is completely blurred and it's dangerous for me to drive.",
+      "Excuse me [TARGET], my home AC short-circuited and sparked fire, I have to turn off the main power and wait for an electrician.",
+      "Sorry [TARGET], I have to accompany my mother-in-law to the ER because her blood pressure suddenly spiked high this morning."
     ],
     "ridiculous": [
       "My sincerest apologies [TARGET], but my cat had an emotional breakdown this morning after failing to catch a lizard. I can't in good conscience leave during her recovery.",
@@ -81,7 +91,17 @@
       "Hello [TARGET], I was mistaken for a street food vendor and mobbed by an entire elementary school, I can't get out of the crowd.",
       "Excuse me [TARGET], I was bitten by the neighborhood chief's pet goose until my pants ripped and my leg bruised.",
       "Sorry [TARGET], I slipped on a banana peel like a cartoon character and face-planted straight into a smelly sewer.",
-      "Hey [TARGET], my hair got sucked into my desk fan while trying to cool down, I'm slowly cutting myself free."
+      "Hey [TARGET], my hair got sucked into my desk fan while trying to cool down, I'm slowly cutting myself free.",
+      "Sorry [TARGET], I got bitten by a sewer rat the size of a cat while throwing out the trash, I'm at the clinic getting rabies shots.",
+      "Hello [TARGET], I accidentally shaved off half my eyebrow because I was still sleepy, I'm too embarrassed to go to the office.",
+      "Excuse me [TARGET], a neighbor's pet parrot keeps screaming my name repeatedly, I feel psychologically terrorized.",
+      "Sorry [TARGET], I accidentally swallowed my kid's glass marble thinking it was a mint candy, now I feel nauseous.",
+      "Hello [TARGET], my work clothes were stolen by a gang of wild monkeys that entered through the bathroom window.",
+      "Excuse me [TARGET], I'm trapped inside the bathroom because the doorknob suddenly came off and fell into the toilet.",
+      "Sorry [TARGET], my hand got superglued to a broom handle, I haven't managed to free it since last night.",
+      "Hello [TARGET], I was chased by a vicious poodle and had to climb a mango tree, I still don't dare to come down.",
+      "Excuse me [TARGET], I mistakenly sprayed room freshener on my armpits, now my skin is burning and slightly blistered.",
+      "Sorry [TARGET], my trousers shrank into shorts because I washed them in boiling water by mistake, I have no other pants."
     ],
     "realityBending": [
       "Sorry boss [TARGET], I was forcibly recruited by interdimensional agents to repair a space-time leak in 2045. I should be back in this timeline by tomorrow, maybe.",
@@ -120,7 +140,17 @@
       "Hello [TARGET], I am trapped inside a game of Minesweeper. If I take the wrong step, my room will explode.",
       "Excuse me [TARGET], my physical form turned into a stack of unsaved Excel documents, please do not press close.",
       "Sorry [TARGET], aliens abducted my boss and appointed me as the Galactic Ambassador, I must attend a space summit.",
-      "Hey [TARGET], my time machine broke and threw me into next year's national holiday, so technically I don't have to work."
+      "Hey [TARGET], my time machine broke and threw me into next year's national holiday, so technically I don't have to work.",
+      "Sorry [TARGET], I accidentally drank an invisibility potion, my body is now transparent and I can't wear clothes.",
+      "Hello [TARGET], time runs backward inside my house, every time I walk to the front door, I end up back in bed.",
+      "Excuse me [TARGET], my living room transformed into a portal to a parallel dimension filled with cube-headed humans.",
+      "Sorry [TARGET], Earth's gravity suddenly centered on my fridge, so all objects in my house including me are stuck to the fridge door.",
+      "Hello [TARGET], my soul detached from my body during a dream last night, I'm still trying to find a way back in.",
+      "Excuse me [TARGET], I was summoned by the intergalactic council to testify regarding the future fate of Earth.",
+      "Sorry [TARGET], my shadow refused to follow my movements and instead sat down to drink coffee, I'm scared to death.",
+      "Hello [TARGET], all my memories about my job were erased by a flash of light from a flying saucer last night.",
+      "Excuse me [TARGET], I'm trapped in a Sunday time loop, so for me, tomorrow hasn't happened yet.",
+      "Sorry [TARGET], the laws of physics don't apply to me today, every time I try to walk, I float upwards instead."
     ]
   }
 }

@@ -15,7 +15,17 @@
       "Aduh [TARGET], maaf aku lupa, kalender di HP-ku ternyata nggak nge-sinkron dari email jadi nggak ada notif sama sekali.",
       "Maaf [TARGET], pikiranku lagi kalut banget mikirin banyak masalah sampai tanggal penting ini aja kelewat.",
       "Halo [TARGET], aku beneran lupa nyatet hari ini di buku *planner*-ku, aku teledor banget asli.",
-      "Sori [TARGET], aku salah atur alarm pengingat, malah ku- *setting* di bulan depan, ampun deh."
+      "Sori [TARGET], aku salah atur alarm pengingat, malah ku- *setting* di bulan depan, ampun deh.",
+      "Maaf banget [TARGET], belakangan ini aku sibuk banget ngurusin proyek kantor yang *deadline*-nya beruntun sampai lupa tanggal.",
+      "Aduh [TARGET], aku sori banget kelewat, otakku lagi kacau mikirin cicilan rumah yang naik bulan ini.",
+      "Halo [TARGET], aku benar-benar minta maaf lupa, kalender di HP-ku nge- *bug* dan semua pengingatnya hilang.",
+      "Sori [TARGET], aku lagi sakit demam tinggi berhari-hari, jangankan ingat hari penting, ingat nama sendiri aja susah.",
+      "Maaf [TARGET], pikiranku lagi kebagi ke urusan orang tua yang lagi dirawat, jadi bener-bener lepas dari ingatan.",
+      "Aduh [TARGET], aku baru ngeh hari ini tanggal berapa setelah lihat postingan orang, sori banget kelewatan.",
+      "Halo [TARGET], aku minta maaf banget, *planner* kerjaku hilang di kereta dan aku bergantung banget sama buku itu.",
+      "Sori [TARGET], aku salah setel alarm bulanan, malah kutaruh di tanggal yang salah. Ampun deh keteledoranku.",
+      "Maaf [TARGET], minggu ini aku *full* di lapangan dan jauh dari sinyal, bener-bener nggak kepikiran kalender.",
+      "Aduh [TARGET], aku ketiduran parah gara-gara jetlag dari luar kota, pas bangun harinya udah berganti."
     ],
     "ridiculous": [
       "Sori [TARGET], kalender dinding di rumahku dimakan rayap tepat di bagian angka tanggal hari ini, aku kehilangan konsep waktu.",
@@ -27,7 +37,17 @@
       "Aduh [TARGET], aku terlalu sibuk ngurusin ayam tetangga yang kabur masuk rumahku sampai lupa ada hari penting ini.",
       "Maaf [TARGET], aku nggak sengaja kehipnotis tayangan *home shopping* panci ajaib seharian penuh sampai hilang ingatan sesaat.",
       "Halo [TARGET], aku terdistraksi nyari ujung lakban bening yang hilang selama 24 jam berturut-turut.",
-      "Sori [TARGET], ingatanku soal tanggal ini terhapus gara-gara aku kebanyakan nyium bau bensin eceran."
+      "Sori [TARGET], ingatanku soal tanggal ini terhapus gara-gara aku kebanyakan nyium bau bensin eceran.",
+      "Sori [TARGET], kalender dinding rumahku sengaja kugunting bagian tanggal ini buat bungkus gorengan, jadinya aku lupa.",
+      "Maaf [TARGET], kepalaku kepentok tiang listrik pas lagi jalan ngelamun, aku amnesia ringan khusus untuk tanggal ini.",
+      "Aduh [TARGET], kucingku mengencingi kalender mejaku sampai angkanya luntur semua tak bersisa.",
+      "Halo [TARGET], aku lupa karena disibukkan oleh perdebatan sengit dengan asisten virtual Siri soal makna kehidupan.",
+      "Sori [TARGET], aku menghabiskan waktu 24 jam nonstop nyari ujung selotip bening sampai kehilangan konsep waktu.",
+      "Maaf [TARGET], aku nggak sengaja makan kue yang ada kandungan obat tidurnya, aku hibernasi seharian penuh.",
+      "Aduh [TARGET], aku terlalu fokus menghitung jumlah ubin di ruang tamuku sampai melupakan segala hal penting di dunia.",
+      "Halo [TARGET], otakku mengalami *overheating* karena mikirin teka-teki silang, jadi memori soal hari penting dihapus otomatis.",
+      "Sori [TARGET], alarm HP-ku bunyi pakai lagu pengantar tidur, alih-alih bangun aku malah masuk mimpi level 3.",
+      "Maaf [TARGET], aku lupa gara-gara terlalu lama jongkok di kamar mandi merenungi nasib semut yang tenggelam."
     ],
     "realityBending": [
       "Maaf [TARGET], alien dari konstelasi Zeta Reticuli menculik ingatanku tentang hari penting ini untuk penelitian emosi manusia.",
@@ -39,7 +59,17 @@
       "Aduh [TARGET], memori tentang hari penting ini dicuri oleh perompak pikiran dari galaksi tetangga.",
       "Sori [TARGET], aku tak sengaja memakan buah pelupa dari pohon mitologi Norse, ini baru sadar setelah efeknya hilang.",
       "Halo [TARGET], hari ini terjebak dalam lipatan ruang, jadi secara teknis hari ini tidak pernah eksis di duniaku.",
-      "Maaf [TARGET], alam semesta me- *reboot* kesadaranku ke versi pabrik pagi ini, semua memori kalender terhapus total."
+      "Maaf [TARGET], alam semesta me- *reboot* kesadaranku ke versi pabrik pagi ini, semua memori kalender terhapus total.",
+      "Maaf [TARGET], alien dari dimensi ketujuh menculik ingatanku tentang hari ini dan menjadikannya bahan bakar UFO.",
+      "Sori [TARGET], waktu melompat langsung dari hari kemarin ke besok lusa, hari penting ini benar-benar tidak pernah terjadi.",
+      "Aduh [TARGET], aku terjebak dalam lipatan ruang kosmik di mana konsep kalender Masehi tidak berlaku sama sekali.",
+      "Halo [TARGET], departemen sensor realita menghapus tanggal ini dari sistem ingatanku untuk mencegah anomali waktu.",
+      "Maaf [TARGET], aku meminum ramuan pelupa dari penyihir hutan, semua kenangan manisku hilang tanpa bekas.",
+      "Sori [TARGET], alam semesta me- *reboot* *timeline* kita pagi tadi, memori kalender terhapus ke pengaturan pabrik.",
+      "Aduh [TARGET], dewa waktu memberikan tombol *fast forward* padaku dan aku mendudukinya tanpa sengaja.",
+      "Halo [TARGET], hari ini terkurung di dalam penjara kuantum, aku tidak bisa mengakses momen ini dalam pikiranku.",
+      "Maaf [TARGET], fotomu di ingatanku perlahan-lahan memudar bak tertiup angin dimensi, aku tidak mengingat hari ini.",
+      "Sori [TARGET], bayanganku mencuri perayaan hari ini dan kabur membawanya ke dunia balik cermin."
     ]
   }
 }

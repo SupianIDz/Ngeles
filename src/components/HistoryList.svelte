@@ -31,6 +31,36 @@
     }
     onShowToast(t(lang, "toastCopied"));
   }
+
+  function formatDate(ts: number, l: string): string {
+    if (!ts) return "";
+    return new Date(ts).toLocaleString(l === "id" ? "id-ID" : "en-US", {
+      month: "short",
+      day: "numeric",
+      hour: "2-digit",
+      minute: "2-digit",
+    });
+  }
+
+  function timeAgo(ms: number, l: string): string {
+    if (!ms) return "";
+    const diff = Date.now() - ms;
+    const minutes = Math.floor(diff / 60000);
+    const hours = Math.floor(minutes / 60);
+    const days = Math.floor(hours / 24);
+
+    if (l === "id") {
+      if (minutes < 1) return "Baru saja";
+      if (minutes < 60) return `${minutes} menit lalu`;
+      if (hours < 24) return `${hours} jam lalu`;
+      return `${days} hari lalu`;
+    } else {
+      if (minutes < 1) return "Just now";
+      if (minutes < 60) return `${minutes} min ago`;
+      if (hours < 24) return `${hours} hr ago`;
+      return `${days} days ago`;
+    }
+  }
 </script>
 
 <section class="mt-8">
@@ -71,11 +101,19 @@
             <p class="text-sm leading-snug text-slate-600 dark:text-slate-300">
               {entry.text.length > 90 ? entry.text.slice(0, 90) + "…" : entry.text}
             </p>
-            {#if entry.generator_name}
-              <p class="mt-1 text-[10px] font-medium text-emerald-500">
-                <i class="fa-solid fa-user-astronaut mr-1"></i>Dibuat oleh: {entry.generator_name}
-              </p>
-            {/if}
+            <div class="mt-1.5 flex flex-wrap items-center gap-2 text-[10px] font-medium text-slate-400 dark:text-slate-500">
+              {#if entry.generator_name}
+                <span class="text-emerald-500 dark:text-emerald-400">
+                  <i class="fa-solid fa-user-astronaut mr-1"></i>{lang === 'id' ? 'Dibuat oleh:' : 'By:'} {entry.generator_name}
+                </span>
+                <span class="opacity-40">•</span>
+              {/if}
+              {#if entry.ts}
+                <span><i class="fa-regular fa-calendar mr-1"></i>{formatDate(entry.ts, lang)}</span>
+                <span class="opacity-40">•</span>
+                <span><i class="fa-regular fa-clock mr-1"></i>{timeAgo(entry.ts, lang)}</span>
+              {/if}
+            </div>
           </div>
           <div class="flex shrink-0 flex-col gap-1 pt-0.5 opacity-60 transition group-hover:opacity-100">
             <button 

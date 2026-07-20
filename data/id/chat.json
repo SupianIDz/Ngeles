@@ -15,7 +15,17 @@
       "Aduh [TARGET], maaf banget kuota internetku habis dan aku baru sempat mampir beli paketan ini.",
       "Halo [TARGET], sori baru respon, tadi aku ketiduran di depan laptop waktu lagi ngerjain tugas.",
       "Maaf [TARGET], dari tadi sore aku kejebak meeting panjang sama klien yang cerewet banget.",
-      "Sori [TARGET] baru baca, aku keasyikan maraton drakor sampai lupa ngecek HP sama sekali."
+      "Sori [TARGET] baru baca, aku keasyikan maraton drakor sampai lupa ngecek HP sama sekali.",
+      "Maaf banget [TARGET] baru buka HP, dari tadi aku lagi *deep work* beresin revisi kerjaan yang numpuk.",
+      "Aduh [TARGET], sori baru balas, aku baru kelar *driving* panjang lintas kota dan nggak berani megang HP.",
+      "Halo [TARGET], maaf ya baru nyaut, seharian ini aku sakit kepala parah dan cuma tiduran tanpa megang HP.",
+      "Sori [TARGET], HP-ku diservis dari pagi gara-gara layarnya retak, ini baru selesai dibenerin.",
+      "Maaf [TARGET], dari tadi siang sinyal di tempatku *blank spot* total karena mati lampu seharian.",
+      "Halo [TARGET], sori banget, notifikasimu ketumpuk sama puluhan chat grup kerjaan yang lagi *hectic*.",
+      "Aduh [TARGET], aku kelupaan naruh HP di dalam tas dan baru kuingat pas udah di rumah.",
+      "Sori [TARGET], aku lagi nemenin orang tua di rumah sakit dan bener-bener fokus jaga mereka dari tadi.",
+      "Maaf [TARGET], paket dataku habis dari pagi dan aku baru sempet nyari Wi-Fi ini.",
+      "Halo [TARGET], aku lagi sibuk masak besar buat acara keluarga, tanganku kotor dan basah dari tadi."
     ],
     "ridiculous": [
       "Sori [TARGET] baru balas, HP-ku disita keponakanku yang masih balita dan dia ngotot mau nonton Cocomelon seharian.",
@@ -27,7 +37,17 @@
       "Maaf [TARGET] baru bales, aku disandera atasanku disuruh *push rank* Mobile Legends sampai *Mythic*.",
       "Sori [TARGET], jempol kananku keseleo parah gara-gara main game *fighting*, aku harus ngetik pakai jari kelingking perlahan.",
       "Halo [TARGET], kucingku tiduran di atas layar HP-ku berjam-jam, aku nggak berani bangunin dia buat balas chatmu.",
-      "Maaf [TARGET], tadi layarku penuh iler karena aku ketiduran dan *touchscreen*-nya jadi macet nggak bisa digeser."
+      "Maaf [TARGET], tadi layarku penuh iler karena aku ketiduran dan *touchscreen*-nya jadi macet nggak bisa digeser.",
+      "Sori [TARGET], layar HP-ku dijilati anjingku sampai basah kuyup, *touchscreen*-nya jadi error ngetik sendiri.",
+      "Aduh [TARGET], aku ketiduran pas lagi ngetik balasan buatmu, sampai ilernya netes ke atas *keyboard*.",
+      "Maaf [TARGET], jari telunjukku keseleo gara-gara main tamiya, aku nggak sanggup ngetik pesan panjang.",
+      "Halo [TARGET], HP-ku disembunyikan ibuku gara-gara aku ketahuan main *game* sampai jam 3 pagi.",
+      "Sori [TARGET], burung parkitku matok layar HP-ku tiap kali aku mau ngetik balasan buatmu.",
+      "Aduh [TARGET], mataku silau banget lihat namamu di notifikasi, aku butuh waktu buat ngumpulin keberanian membalas.",
+      "Maaf [TARGET], aku baru balas karena aku lagi nungguin *loading screen* *game* yang nggak kelar-kelar dari tadi.",
+      "Halo [TARGET], aku lagi eksperimen puasa bicara, dan itu ternyata juga berlaku untuk puasa mengetik.",
+      "Sori [TARGET], aku salah lihat profilmu, kukira kamu *bot spam* pinjol jadi kuabaikan dari tadi.",
+      "Aduh [TARGET], aku berusaha membalas pesanmu dengan kekuatan pikiran *telepati*, tapi sepertinya kamu tidak menerimanya."
     ],
     "realityBending": [
       "Maaf [TARGET], notifikasimu nyangkut di satelit Palapa dan baru turun ke atmosfer bumiku detik ini.",
@@ -39,7 +59,17 @@
       "Aduh [TARGET], rotasi bumi di sekitarku bergerak terbalik, pesanmu masuk kemarin tapi baru terkirim kepadaku besok.",
       "Maaf [TARGET], saat kamu nge-chat, HP-ku menumbuhkan kaki laba-laba dan berlarian keliling kamar, ini baru tertangkap.",
       "Halo [TARGET], notifikasimu menyebabkan ledakan radiasi elektromagnetik di kamarku, aku harus memakai baju anti-radiasi untuk membalas.",
-      "Sori [TARGET], aku terjebak di dalam ruang obrolan virtual tanpa tombol kembali, butuh *hacker* untuk mengeluarkanku."
+      "Sori [TARGET], aku terjebak di dalam ruang obrolan virtual tanpa tombol kembali, butuh *hacker* untuk mengeluarkanku.",
+      "Maaf [TARGET], dimensi di ruang tamu rumahku melengkung, pesanmu butuh waktu tiga tahun cahaya untuk sampai padaku.",
+      "Sori [TARGET], kata-kata yang kuketik selalu berubah menjadi nama-nama dinosaurus secara gaib.",
+      "Aduh [TARGET], layarku berubah menjadi portal mini ke dasar palung Mariana, jariku basah tiap kali menyentuhnya.",
+      "Halo [TARGET], alien meretas frekuensi komunikasiku dan menyaring semua pesan manusia yang masuk.",
+      "Maaf [TARGET], jiwaku ditarik paksa ke astral saat kamu nge-chat, aku baru saja kembali ke tubuh fisikku.",
+      "Sori [TARGET], waktu berputar sangat cepat di kamarku, bagiku pesanmu baru masuk sedetik yang lalu.",
+      "Aduh [TARGET], sistem operasional HP-ku berevolusi memiliki kesadaran sendiri dan menolak mematuhi perintah ketikanku.",
+      "Halo [TARGET], huruf di keyboardku berhamburan lari keluar dari layar setiap kali aku ingin menyusun kalimat.",
+      "Maaf [TARGET], pesanmu terenskripsi dalam bahasa kalbu dewa dewi kuno, aku butuh penerjemah surgawi.",
+      "Sori [TARGET], setiap kali aku membalas pesanmu, aku terlempar ke *timeline* alternatif di mana kita tidak saling kenal."
     ]
   }
 }

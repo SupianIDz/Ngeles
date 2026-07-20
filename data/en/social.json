@@ -42,7 +42,17 @@
       "Oh man [TARGET], I'm feeling really unwell, catching a flu and sneezing non-stop since this morning.",
       "Sorry [TARGET], my boss gave me extra work that must be finished today, I'm forced to work overtime.",
       "Hey [TARGET], my car is currently at the mechanic for its monthly routine service, so I have no vehicle.",
-      "Sorry [TARGET], my motorcycle tire is flat at home and my pump is broken, I have a headache just thinking about pushing it."
+      "Sorry [TARGET], my motorcycle tire is flat at home and my pump is broken, I have a headache just thinking about pushing it.",
+      "I'm so sorry [TARGET], my mom suddenly fainted at home and I have to rush her to the clinic.",
+      "Oh man [TARGET], I left my wallet at the office, I can't go out with absolutely zero cash.",
+      "Sorry [TARGET], my car tire blew out and I have to wait for a tow truck with a long queue.",
+      "Hello [TARGET], I overslept due to extreme exhaustion after working a 3-day marathon without rest.",
+      "Sorry [TARGET], my boss suddenly called an emergency meeting after hours, I absolutely cannot refuse.",
+      "Oh man [TARGET], I've had severe diarrhea since noon, back and forth to the toilet until my body is weak.",
+      "Hello [TARGET], an important family guest from out of town dropped by and I'm forced to accompany them.",
+      "Sorry [TARGET], the motorcycle I borrowed from a friend broke down, I have to accompany him to the mechanic.",
+      "Oh man [TARGET], I got food poisoning from eating stale clams last night, throwing up constantly and can't walk.",
+      "Hello [TARGET], the power went out at my house and I haven't showered at all, I can't go out looking this messy."
     ],
     "ridiculous": [
       "Sorry [TARGET], I can't leave the house tonight — my pet is giving me a look of pure judgment that I simply cannot ignore.",
@@ -81,7 +91,17 @@
       "Oh man [TARGET], I got stuck in a children's playground slide out of nostalgia, waiting for the fire department to rescue me.",
       "Sorry [TARGET], I can't come because I'm throwing a tantrum at my own hair which refuses to be styled.",
       "Hello [TARGET], I'm trapped in a supermarket because I'm being forced to listen to a pan salesperson vent about their life for 3 hours.",
-      "Hey [TARGET], my pants ripped right at the back while I was squatting to tie my shoelaces in front of my house."
+      "Hey [TARGET], my pants ripped right at the back while I was squatting to tie my shoelaces in front of my house.",
+      "Sorry [TARGET], I botched cutting my own bangs and now I'm half bald, I'm too embarrassed to leave the house.",
+      "Oh man [TARGET], I got wedged between two cars parked way too close together, I literally can't move.",
+      "Sorry [TARGET], my jeans ripped at the back while I was trying to do a squat pose.",
+      "Hello [TARGET], I was chased by an aggressive flock of pigeons in the park and had to hide in a public restroom for over an hour.",
+      "Sorry [TARGET], my right hand accidentally got covered in green paint that won't wash off, I look like an alien.",
+      "Oh man [TARGET], I mistakenly used bug spray instead of deodorant, now my armpits are burning and itchy.",
+      "Sorry [TARGET], I got trapped watching a Teflon pan review on YouTube for 6 hours straight and lost track of time.",
+      "Hello [TARGET], the neighbor's cat pooped inside my shoes, the smell won't go away even after washing them 3 times.",
+      "Sorry [TARGET], my tooth fell out while chewing ice cubes, I can't hang out with a missing tooth.",
+      "Oh man [TARGET], I got stuck on my own fence because I foolishly tried to jump over it when I lost the key."
     ],
     "realityBending": [
       "Sorry [TARGET], my house is surrounded by friendly aliens who asked me to teach them how to make local coffee. Abandoning them mid-lesson would be rude.",
@@ -120,7 +140,17 @@
       "Oh man [TARGET], this world is just a matrix simulation and I just found the exit door.",
       "Sorry [TARGET], the laws of physics in my house suddenly stopped working, water flows upward and I'm walking on the ceiling.",
       "Hey [TARGET], my existence was temporarily suspended by the cosmic council because I used too much karma quota.",
-      "Sorry [TARGET], my mind connected to the dolphin telepathy network, I am too busy deciphering the ocean's code."
+      "Sorry [TARGET], my mind connected to the dolphin telepathy network, I am too busy deciphering the ocean's code.",
+      "Sorry [TARGET], my body is slowly fading into a transparent ghost, it seems to be a reality glitch effect.",
+      "Oh man [TARGET], an interdimensional portal opened in my living room and sucked all my going-out clothes into it.",
+      "Sorry [TARGET], I was just appointed as a judge in the trial of the gods on Mount Olympus.",
+      "Hello [TARGET], I accidentally ate a devil fruit and now my body is made of constantly bouncing rubber.",
+      "Sorry [TARGET], karma from my past life is seeking revenge today, I am forbidden to leave the house before midnight.",
+      "Oh man [TARGET], my shadow rebelled and locked my door from the outside, saying I need to rest.",
+      "Sorry [TARGET], my vocal frequency suddenly shifted to ultrasonic waves, you won't be able to hear me.",
+      "Hello [TARGET], I was abducted by a clan of gold-mining dwarfs who need my manual labor underground.",
+      "Sorry [TARGET], the earth stopped rotating briefly causing an extreme cosmic jetlag on my nervous system.",
+      "Oh man [TARGET], time keeps looping in my house, I've repeated my morning shower for three weeks now."
     ]
   }
 }

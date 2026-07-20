@@ -39,7 +39,17 @@
       "Hello [TARGET], I have severe stomach cramps from eating random spicy street food yesterday afternoon.",
       "I apologize [TARGET], my only school uniform hasn't dried because it rained while it was on the clothesline.",
       "Excuse me [TARGET], the public minibus I was riding broke down on a steep hill and all passengers were ordered to get out.",
-      "Sorry [TARGET], I got lost on the wrong bus route because I fell asleep, I'm currently in the next town over."
+      "Sorry [TARGET], I got lost on the wrong bus route because I fell asleep, I'm currently in the next town over.",
+      "Sorry [TARGET], my homework notebook was severely torn because my baby sibling pulled on it all night.",
+      "Hello [TARGET], my bicycle chain snapped in the middle of a quiet road and there's no repair shop nearby.",
+      "Excuse me [TARGET], I've had a severe nosebleed since waking up and it won't stop, my head is spinning.",
+      "Sorry [TARGET], the public transport in my area is on a massive strike, no vehicles are operating at all.",
+      "Hello [TARGET], my white uniform was stained by a red shirt in the laundry, now it's completely pink.",
+      "Excuse me [TARGET], both of my dad's motorcycle tires are flat, so there's no one to drop me off at school.",
+      "Sorry [TARGET], I have severe dust allergies from cleaning the storage room yesterday, my nose is blocked and eyes are swollen.",
+      "Hello [TARGET], the street in front of my house is totally closed due to a 2-meter deep sewer construction.",
+      "Excuse me [TARGET], I overslept after dawn because I couldn't sleep all night due to a raging toothache.",
+      "Sorry [TARGET], my school shoes are soaking wet because my cat peed inside them."
     ],
     "ridiculous": [
       "I'm so sorry [TARGET], I'm late because the neighbor's rooster crowed in a minor key this morning, sending me into a three-hour existential crisis.",
@@ -75,7 +85,17 @@
       "Hello [TARGET], I was intercepted and scolded by the traveling vegetable vendor because my mom hasn't paid her cabbage debt.",
       "Excuse me [TARGET], my backpack was abducted by a wild monkey that entered our yard, it's sitting on the roof.",
       "Sorry [TARGET], I accidentally brushed my teeth with facial wash soap, my mouth is foaming severely and I feel nauseous.",
-      "Hey [TARGET], I wore the wrong shoes: right side is my school shoe, left side is my mom's high heel."
+      "Hey [TARGET], I wore the wrong shoes: right side is my school shoe, left side is my mom's high heel.",
+      "Sorry [TARGET], I can't attend because my hair puffed up like a lion's mane after mistakenly using dog shampoo.",
+      "Hello [TARGET], I got stuck inside my own jacket zipper until it completely covered my face.",
+      "Excuse me [TARGET], my math notebook was eaten by a stray goat that wandered into our yard.",
+      "Sorry [TARGET], I swallowed a whole watermelon seed and am terrified a tree will grow in my stomach.",
+      "Hello [TARGET], I grabbed the wrong bag, I brought my mom's grocery bag full of vegetables instead of my backpack.",
+      "Excuse me [TARGET], I accidentally used a permanent marker as an eyebrow pencil, and now they are ridiculously thick.",
+      "Sorry [TARGET], I was intercepted by kindergarten kids who demanded I judge their street drawing contest.",
+      "Hello [TARGET], my index finger got stuck in the neck of a glass bottle and won't come out.",
+      "Excuse me [TARGET], I was chased by an angry flock of geese until I had to hide in a security guard post.",
+      "Sorry [TARGET], I cancelled my trip because I felt immensely guilty leaving my teddy bear alone at home."
     ],
     "realityBending": [
       "Sorry [TARGET], I won't be in class today because I accidentally stepped into a parallel dimension where school hasn't been invented yet, and it's my duty to establish it.",
@@ -111,7 +131,17 @@
       "Hello [TARGET], my study desk swallowed all my textbooks into an endless pocket dimension.",
       "Excuse me [TARGET], our school's gravity system was hacked, I saw the school building floating into space.",
       "Sorry [TARGET], I'm stuck in a time loop during lunch break, I keep eating the same dumpling millions of times.",
-      "Hey [TARGET], my shadow decided to skip school today and took over my physical body."
+      "Hey [TARGET], my shadow decided to skip school today and took over my physical body.",
+      "Sorry [TARGET], our school suddenly sank into a sea of lava, I don't want to take any risks.",
+      "Hello [TARGET], my history homework turned into a time machine and sucked me back into World War II.",
+      "Excuse me [TARGET], I've been cursed by a witch so that every time I speak, an elephant's trumpet sound comes out.",
+      "Sorry [TARGET], my uniform is made of anti-gravity material, if I wear it, I'll float into outer space.",
+      "Hello [TARGET], I was sucked into my bathroom mirror and am trapped in a reverse dimension.",
+      "Excuse me [TARGET], aliens deleted all mathematical knowledge from my brain, I need time to re-download the data.",
+      "Sorry [TARGET], my house suddenly activated a deadly laser security system that refuses to let me out.",
+      "Hello [TARGET], I accidentally touched a cursed artifact and now my body is turning into solid marble.",
+      "Excuse me [TARGET], our dimension is overlapping with a cartoon world, I am currently being chased by a piano falling from the sky.",
+      "Sorry [TARGET], I can't go to school because today's weather forecast predicted a planet-destroying meteor shower."
     ]
   }
 }

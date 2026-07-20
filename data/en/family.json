@@ -42,7 +42,17 @@
       "Hello [TARGET], my toothache flared up so badly I can't even eat or speak clearly.",
       "Oh no [TARGET], a distant relative from out of town suddenly dropped by to stay the night, I have to entertain them.",
       "Sorry [TARGET], I have a routine doctor's appointment that I booked a month ago.",
-      "Sorry [TARGET], I completely overslept all day because I stayed up all night finishing an assignment."
+      "Sorry [TARGET], I completely overslept all day because I stayed up all night finishing an assignment.",
+      "Sorry [TARGET], I really have to work on an impromptu annual report revision due tomorrow morning.",
+      "Hello [TARGET], my stomach cramps have been awful since last night, I think I have a mild intestinal infection.",
+      "Oh man [TARGET], I have to find medicine for a neighbor's crying child because the mother is out of town.",
+      "Sorry [TARGET], my car was borrowed by my uncle who had an emergency, so I have no vehicle.",
+      "Hello [TARGET], I fell into a deep sleep after taking allergy medicine that turned out to be heavily drowsy.",
+      "Oh man [TARGET], there's a gas leak in my kitchen, I'm panicking waiting for the repairman to check it.",
+      "Sorry [TARGET], my boss suddenly ordered me to stand by and monitor the server for a system maintenance tonight.",
+      "Hello [TARGET], my niece was suddenly dropped off at the hospital because my aunt is in the ER, I have to accompany them.",
+      "Oh man [TARGET], my reading glasses broke, my head spins if I force myself to drive a long distance.",
+      "Sorry [TARGET], my roof leaked terribly during the heavy rain, water pooled on my bed, I have to clean it up first."
     ],
     "ridiculous": [
       "Deeply sorry [TARGET], my only decent family-gathering outfit was commandeered as a bed by a stray cat and is now covered in inexplicably magical fur.",
@@ -81,7 +91,17 @@
       "Hey [TARGET], I can't come because I'm busy chatting with a crow on my roof, he's a very good listener.",
       "Oh no [TARGET], my head got stuck in my shirt collar because it shrank when I tried to take it off, I'm panicking and can't see.",
       "Sorry [TARGET], I fell out of bed and rolled all the way under it into a pile of cobwebs.",
-      "Hello [TARGET], I cancelled coming over because I am holding a funeral ceremony for a mosquito I just swatted."
+      "Hello [TARGET], I cancelled coming over because I am holding a funeral ceremony for a mosquito I just swatted.",
+      "Sorry [TARGET], I forgot where I put my dentures, I'm busy searching every corner of the house.",
+      "Hello [TARGET], a heavy stone mortar fell on my big toe in the kitchen, the nail came off and it hurts too much to walk.",
+      "Oh man [TARGET], I misspoke to a blind massage therapist, and ended up massaging him for two hours instead.",
+      "Sorry [TARGET], my favorite shorts blew away in the wind and got stuck on a power pole, I'm trying to retrieve them.",
+      "Hello [TARGET], I'm being held hostage by my cat who gave birth on my lap, I don't have the heart to move her.",
+      "Oh man [TARGET], a flying cockroach flew straight into my nose, I screamed hysterically and am still traumatized in the corner of my room.",
+      "Sorry [TARGET], I used the wrong spice and applied chili powder as a face mask, now my face is burning red.",
+      "Hello [TARGET], a whole bottle of pandan syrup spilled on my shirt, now I smell like a walking iced dessert.",
+      "Oh man [TARGET], I got stuck inside a supermarket shopping cart while goofing around trying to fit inside.",
+      "Sorry [TARGET], I took the wrong minibus and ended up at the animal market on the edge of town that smells like goats."
     ],
     "realityBending": [
       "So sorry uncle/aunt [TARGET], I'm not currently on Earth. I accidentally walked through a wardrobe portal and I'm now stranded in Narnia with a very talkative lion.",
@@ -120,7 +140,17 @@
       "Hey [TARGET], our house was swallowed by a space-time distortion and is now located between the Rings of Saturn.",
       "Oh no [TARGET], our family tree diagram suddenly came alive, grew giant roots, and dragged me into its lair.",
       "Sorry [TARGET], my DNA mutated into a prehistoric jellyfish, I can no longer breathe outside of saltwater.",
-      "Hello [TARGET], the grim reaper picked me up by mistake this morning, I am currently processing an administrative appeal in the afterlife."
+      "Hello [TARGET], the grim reaper picked me up by mistake this morning, I am currently processing an administrative appeal in the afterlife.",
+      "Sorry [TARGET], my name was just magically erased from the birth certificate, it seems I was never born into this family.",
+      "Hello [TARGET], our house was swept away by a dimensional storm and is now stranded in the middle of the Sahara desert.",
+      "Oh man [TARGET], our ancestor from the 18th century appeared in my mirror giving me a long lecture I can't walk away from.",
+      "Sorry [TARGET], my hands magically transformed into crab claws, I'm terrified of being caught by a seafood vendor.",
+      "Hello [TARGET], aliens from Mars are conducting a surprise inspection of my house to ensure I'm not harboring nuclear weapons.",
+      "Oh man [TARGET], I accidentally chanted a forbidden spell and my house is now surrounded by a zombie horde.",
+      "Sorry [TARGET], I got sucked into a landscape painting in the living room and am trying to find the exit.",
+      "Hello [TARGET], gravity in my room inverted 180 degrees, I'm stuck on my bedroom ceiling.",
+      "Oh man [TARGET], the flow of time around me slowed down extremely, a single breath takes me two hours.",
+      "Sorry [TARGET], I have been chosen as the guardian knight of a parallel world, my mission cannot be delayed."
     ]
   }
 }
