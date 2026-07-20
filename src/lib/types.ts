@@ -13,7 +13,7 @@ export interface HistoryEntry {
   context: Context;
   level: Level;
   lang: Lang;
-  ts: number;
+  created_at: number;
 }
 
 export interface AppState {

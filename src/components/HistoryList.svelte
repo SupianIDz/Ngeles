@@ -84,7 +84,7 @@
 
   {#if history.length > 0}
     <div class="max-h-56 space-y-2 overflow-y-auto pr-1" transition:fade>
-      {#each history as entry (entry.id || entry.ts)}
+      {#each history as entry (entry.id || entry.created_at)}
         <div 
           transition:fly={{ y: 10, duration: 200 }}
           class="group flex items-start gap-3 rounded-2xl px-4 py-3 bg-white/70 dark:bg-slate-800/70 border border-slate-400/10 dark:border-slate-600/20 transition-all hover:translate-x-[3px] hover:shadow-[0_4px_12px_rgba(78,91,122,0.08)] dark:hover:shadow-none"
@@ -108,10 +108,10 @@
                 </span>
                 <span class="opacity-40">•</span>
               {/if}
-              {#if entry.ts}
-                <span><i class="fa-regular fa-calendar mr-1"></i>{formatDate(entry.ts, lang)}</span>
+              {#if entry.created_at}
+                <span><i class="fa-regular fa-calendar mr-1"></i>{formatDate(entry.created_at, lang)}</span>
                 <span class="opacity-40">•</span>
-                <span><i class="fa-regular fa-clock mr-1"></i>{timeAgo(entry.ts, lang)}</span>
+                <span><i class="fa-regular fa-clock mr-1"></i>{timeAgo(entry.created_at, lang)}</span>
               {/if}
             </div>
           </div>
