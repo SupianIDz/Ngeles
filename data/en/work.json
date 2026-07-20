@@ -52,7 +52,17 @@
       "Sorry [TARGET], a fallen tree is blocking the main road of my neighborhood, no vehicle can get out at all.",
       "Hello [TARGET], my prescription glasses broke when I stepped on them, my vision is completely blurred and it's dangerous for me to drive.",
       "Excuse me [TARGET], my home AC short-circuited and sparked fire, I have to turn off the main power and wait for an electrician.",
-      "Sorry [TARGET], I have to accompany my mother-in-law to the ER because her blood pressure suddenly spiked high this morning."
+      "Sorry [TARGET], I have to accompany my mother-in-law to the ER because her blood pressure suddenly spiked high this morning.",
+      "Sorry [TARGET], my phone alarm completely died because the battery drained overnight, so I overslept.",
+      "Hello [TARGET], I have to change my spare tire on the highway because my tire tore on a curb.",
+      "Excuse me [TARGET], there's an emergency at my child's school because they fell and their knee is bleeding badly.",
+      "Sorry [TARGET], my white uniform shirt got spilled with hot black coffee this morning, I have to wash and dry it first.",
+      "Hello [TARGET], my house gate is locked from the outside and my wife accidentally took the keys to the market.",
+      "Excuse me [TARGET], I'm stuck at the station because the commuter train has a signal failure for over 45 minutes.",
+      "Sorry [TARGET], my neighbor dropped off their crying baby due to a medical emergency in their family.",
+      "Hello [TARGET], I just realized I left my wallet and vehicle registration in my office drawer last night.",
+      "Excuse me [TARGET], I caught a stomach flu since dawn, my body is shivering and I can't even stand up.",
+      "Sorry [TARGET], my motorcycle key snapped off inside the ignition, I'm waiting for a mobile locksmith."
     ],
     "ridiculous": [
       "My sincerest apologies [TARGET], but my cat had an emotional breakdown this morning after failing to catch a lizard. I can't in good conscience leave during her recovery.",
@@ -101,7 +111,17 @@
       "Sorry [TARGET], my hand got superglued to a broom handle, I haven't managed to free it since last night.",
       "Hello [TARGET], I was chased by a vicious poodle and had to climb a mango tree, I still don't dare to come down.",
       "Excuse me [TARGET], I mistakenly sprayed room freshener on my armpits, now my skin is burning and slightly blistered.",
-      "Sorry [TARGET], my trousers shrank into shorts because I washed them in boiling water by mistake, I have no other pants."
+      "Sorry [TARGET], my trousers shrank into shorts because I washed them in boiling water by mistake, I have no other pants.",
+      "Sorry [TARGET], I accidentally used liquid glue as lip balm, my lips are stuck together and I can barely speak.",
+      "Hello [TARGET], I was chased by a flock of wild turkeys that escaped a farm while taking a shortcut.",
+      "Excuse me [TARGET], I am currently mediating a territorial conflict between my pet cat and the neighbor's cat on my roof.",
+      "Sorry [TARGET], my pants zipper got permanently jammed down in a public place, I am desperately looking for a large safety pin.",
+      "Hello [TARGET], I fell asleep in the bathtub while taking a warm soak, the water was freezing ice cold when I woke up.",
+      "Excuse me [TARGET], a swarm of honey bees decided to build a hive inside my motorcycle helmet overnight.",
+      "Sorry [TARGET], my left shoe flew off and got stuck on a power line when I aggressively kicked a rock on the street.",
+      "Hello [TARGET], I accidentally swapped my work briefcase with a middle schooler's bag on the train, it's full of comic books.",
+      "Excuse me [TARGET], I'm stuck inside my living room bean bag because the zipper broke and I was swallowed by the foam.",
+      "Sorry [TARGET], my finger got stuck in the nostril of a bronze statue at the park when I jokingly posed for a photo."
     ],
     "realityBending": [
       "Sorry boss [TARGET], I was forcibly recruited by interdimensional agents to repair a space-time leak in 2045. I should be back in this timeline by tomorrow, maybe.",
@@ -150,7 +170,17 @@
       "Sorry [TARGET], my shadow refused to follow my movements and instead sat down to drink coffee, I'm scared to death.",
       "Hello [TARGET], all my memories about my job were erased by a flash of light from a flying saucer last night.",
       "Excuse me [TARGET], I'm trapped in a Sunday time loop, so for me, tomorrow hasn't happened yet.",
-      "Sorry [TARGET], the laws of physics don't apply to me today, every time I try to walk, I float upwards instead."
+      "Sorry [TARGET], the laws of physics don't apply to me today, every time I try to walk, I float upwards instead.",
+      "Sorry [TARGET], I'm trapped in a room with no doors or windows that magically materialized in my house.",
+      "Hello [TARGET], my shadow decided to take its annual leave and refuses to follow me to work.",
+      "Excuse me [TARGET], I accidentally created an evil clone of myself, and we are currently fighting for the right to exist.",
+      "Sorry [TARGET], time is running backwards on the street in front of me, if I walk forward I regress into the past.",
+      "Hello [TARGET], my work clothes transformed into a medieval suit of armor that weighs 50 kilograms.",
+      "Excuse me [TARGET], the road to the office has been sucked in by a microscopic wormhole and vanished from the map.",
+      "Sorry [TARGET], my mind is currently being forcibly synchronized with an alien intelligence satellite.",
+      "Hello [TARGET], earth's gravity suddenly ignored me, so I have to tie myself to a pole to prevent floating away.",
+      "Excuse me [TARGET], the color of the world suddenly turned black and white, I need to find dimensional glasses to fix it.",
+      "Sorry [TARGET], my voice was stolen by a sea witch, so I won't be able to participate in today's meetings."
     ]
   }
 }

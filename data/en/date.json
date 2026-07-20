@@ -43,7 +43,17 @@
       "Sorry [TARGET], the road to your place is totally closed due to a massive multi-car pileup, traffic is at a dead standstill.",
       "Hello [TARGET], I mistakenly ate stale clam skewers, my stomach cramps are terrible and I'm throwing up.",
       "Oh man [TARGET], my clothes are soaking wet from a car splashing a puddle over me, and I don't have a change of clothes.",
-      "Sorry [TARGET], my neighbor got robbed and the local police held me as an eyewitness, the questioning is taking forever."
+      "Sorry [TARGET], my neighbor got robbed and the local police held me as an eyewitness, the questioning is taking forever.",
+      "I'm so sorry [TARGET], my workload is insanely piled up, my boss demanded the presentation deck done before 10 PM.",
+      "Oh man [TARGET], my head is throbbing badly, I think my vertigo relapsed due to sheer exhaustion.",
+      "Hello [TARGET], my motorcycle broke down in the middle of the road on my way to you, I'm waiting for help.",
+      "Sorry [TARGET], my mom suddenly called crying because of an issue at home, I have to rush back early.",
+      "Sorry [TARGET], I completely forgot I had an appointment with the dentist to adjust my braces tonight.",
+      "Oh man [TARGET], my wallet fell out of my pocket on the street, I'm panicking and reporting to the police station right now.",
+      "Hello [TARGET], an emergency meeting suddenly popped up with an overseas client in a wildly different time zone.",
+      "Sorry [TARGET], my stomach has been cramping for an hour, back and forth to the toilet until my body is weak.",
+      "Sorry [TARGET], I fell into a deep sleep because I just took an allergy cough syrup with heavy drowsy side effects.",
+      "Oh man [TARGET], the road outside my housing complex is blocked by residents because a fallen tree is laying across the street."
     ],
     "ridiculous": [
       "I'm sorry [TARGET], I just realized our zodiac signs are fundamentally incompatible and Mercury is in retrograde. My aura reader said it's too dangerous.",
@@ -88,7 +98,17 @@
       "Hello [TARGET], a fire ant bit my cheek right on the nose, the swelling is so huge I look like a clown.",
       "Oh man [TARGET], I walked into the wrong salon and they shaved my eyebrows completely bald, I'm mortified.",
       "Sorry [TARGET], I fell asleep with a charcoal face mask on, now it has petrified and is extremely hard to wash off.",
-      "Hello [TARGET], my cat kept meowing sadly when I tried to leave, I didn't have the heart and chose to lie down with her."
+      "Hello [TARGET], my cat kept meowing sadly when I tried to leave, I didn't have the heart and chose to lie down with her.",
+      "Sorry [TARGET], I accidentally shaved off only half of my mustache, my appearance is way too ridiculous to be seen.",
+      "Oh man [TARGET], one of my teeth fell out while eating hard fruit salad, I have no confidence to smile.",
+      "Sorry [TARGET], I was attacked by a flock of white geese guarding my neighborhood gate, I'm terrified.",
+      "Hello [TARGET], the zipper on my favorite pants burst completely in the middle of the mall, I'm hiding in a fitting room.",
+      "Sorry [TARGET], I mistakenly used wood glue instead of hair pomade, my hair is as stiff as a rock.",
+      "Oh man [TARGET], a mosquito flew into my nose and got stuck inside, I'm sneezing uncontrollably non-stop.",
+      "Sorry [TARGET], I accidentally soaked my shoes in a bucket of bright pink watercolor paint.",
+      "Hello [TARGET], my cat keeps holding onto my ankle tightly while whining, I don't have the heart to leave.",
+      "Sorry [TARGET], I mistakenly drank body lotion because the bottle was right next to my drinking tumbler.",
+      "Oh man [TARGET], I was accused of shoplifting by a minimarket security guard because my shirt looks exactly like the suspect's."
     ],
     "realityBending": [
       "Listen [TARGET], an agent from the future just appeared in my room and warned me that our date tonight triggers a zombie apocalypse in 2030. For the sake of humanity, I must cancel.",
@@ -133,7 +153,17 @@
       "Hello [TARGET], a meteor shower destroyed the route to your place, the ground split into an ocean of hot lava.",
       "Oh man [TARGET], my body becomes transparent under moonlight, I don't want you dating an invisible man.",
       "Sorry [TARGET], I magically teleported to the prehistoric era and am currently hiding from a T-Rex.",
-      "Hello [TARGET], we must not meet tonight, a blind seer at the intersection said our meeting will destroy the solar system."
+      "Hello [TARGET], we must not meet tonight, a blind seer at the intersection said our meeting will destroy the solar system.",
+      "Sorry [TARGET], the goddess of love warned me that our romance will trigger an interdimensional nuclear war.",
+      "Sorry [TARGET], I accidentally ate a forbidden fruit, which cursed me to only speak in ancient rhyming poetry.",
+      "Oh man [TARGET], our date is being closely monitored by intelligence agents from the future who want to prevent our birth.",
+      "Hello [TARGET], my body slowly fades away every time I think about you, this is a punishment from universal karma.",
+      "Sorry [TARGET], this world is currently undergoing sudden server maintenance, interactions between entities are paused.",
+      "Sorry [TARGET], I was thrown into a parallel universe where we are mortal enemies with superpowers.",
+      "Oh man [TARGET], my love for you triggered a microscopic supernova explosion in my living room, it's very dangerous.",
+      "Hello [TARGET], my shadow strictly forbids me from seeing you because it would destroy the stability of the mirror world.",
+      "Sorry [TARGET], cosmic tarot cards predicted the destruction of the solar system if I go out tonight.",
+      "Sorry [TARGET], my heart was sucked into a time wormhole, turning me into an emotionless being temporarily."
     ]
   },
   "meta": {

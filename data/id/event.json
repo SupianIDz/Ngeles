@@ -25,7 +25,17 @@
       "Halo [TARGET], aku minta maaf banget, *planner* kerjaku hilang di kereta dan aku bergantung banget sama buku itu.",
       "Sori [TARGET], aku salah setel alarm bulanan, malah kutaruh di tanggal yang salah. Ampun deh keteledoranku.",
       "Maaf [TARGET], minggu ini aku *full* di lapangan dan jauh dari sinyal, bener-bener nggak kepikiran kalender.",
-      "Aduh [TARGET], aku ketiduran parah gara-gara jetlag dari luar kota, pas bangun harinya udah berganti."
+      "Aduh [TARGET], aku ketiduran parah gara-gara jetlag dari luar kota, pas bangun harinya udah berganti.",
+      "Maaf banget [TARGET], seminggu ini aku dikejar *deadline* proyek tender besar yang menyita waktu tidurku sampai lupa hari.",
+      "Aduh [TARGET], sori banget kelewat, pikiranku lagi ambyar mikirin tagihan rumah sakit ibuku yang membengkak.",
+      "Halo [TARGET], aku benar-benar minta maaf, HP-ku keriset ke setelan pabrik dan semua pengingat kalenderku hilang total.",
+      "Sori [TARGET], aku kena tipes dan bedrest total berhari-hari di rumah sakit, bener-bener nggak kepikiran kalender sama sekali.",
+      "Maaf [TARGET], aku sibuk banget ngurusin pindahan rumah dari luar kota, jadwal kegiatanku berantakan semua bulan ini.",
+      "Aduh [TARGET], sori aku baru sadar hari ini tanggal berapa setelah lihat tanggalan di koran pagi, bener-bener kelewatan.",
+      "Halo [TARGET], aku minta maaf sebesar-besarnya, buku *planner* harianku ketinggalan di kereta antar kota.",
+      "Sori [TARGET], alarm bulanan yang kusetel ternyata malah bunyi sebulan lebih lambat gara-gara aku salah pencet *setting*.",
+      "Maaf [TARGET], aku terjebak survei lapangan di daerah pelosok tanpa sinyal dan listrik, aku sama sekali buta tanggal.",
+      "Aduh [TARGET], aku kelelahan parah dan ketiduran lebih dari 18 jam sehari setelah pulang dinas, hari berlalu tanpa aku sadari."
     ],
     "ridiculous": [
       "Sori [TARGET], kalender dinding di rumahku dimakan rayap tepat di bagian angka tanggal hari ini, aku kehilangan konsep waktu.",
@@ -47,7 +57,17 @@
       "Aduh [TARGET], aku terlalu fokus menghitung jumlah ubin di ruang tamuku sampai melupakan segala hal penting di dunia.",
       "Halo [TARGET], otakku mengalami *overheating* karena mikirin teka-teki silang, jadi memori soal hari penting dihapus otomatis.",
       "Sori [TARGET], alarm HP-ku bunyi pakai lagu pengantar tidur, alih-alih bangun aku malah masuk mimpi level 3.",
-      "Maaf [TARGET], aku lupa gara-gara terlalu lama jongkok di kamar mandi merenungi nasib semut yang tenggelam."
+      "Maaf [TARGET], aku lupa gara-gara terlalu lama jongkok di kamar mandi merenungi nasib semut yang tenggelam.",
+      "Sori [TARGET], kalender dinding di kamarku sobek digaruk kucing persiaku sampai angkanya hilang tak bersisa, aku jadi lupa hari.",
+      "Maaf [TARGET], kepalaku terbentur pinggiran pintu kulkas, aku mengalami amnesia parsial yang hanya melupakan tanggal ini.",
+      "Aduh [TARGET], adik kecilku mencoret-coret angka di kalender mejaku dengan krayon hitam, aku buta urutan bulan dan hari.",
+      "Halo [TARGET], aku sibuk berdebat dengan *smart speaker* Alexa soal resep masak telur dadar sampai kehilangan konsep waktu berhari-hari.",
+      "Sori [TARGET], aku menghabiskan waktu semalaman penuh menonton tutorial melipat kertas origami di YouTube sampai lupa janji penting.",
+      "Maaf [TARGET], aku salah makan pil obat tidur dosis tinggi yang kusembunyikan di laci, aku tidur panjang mirip beruang hibernasi.",
+      "Aduh [TARGET], aku terlalu asyik menghitung mundur jumlah tetesan air hujan dari genteng bocor sampai pikiranku kosong.",
+      "Halo [TARGET], sistem navigasi otakku *error* karena aku kebanyakan makan es krim, ingatanku tentang perayaan ini membeku sempurna.",
+      "Sori [TARGET], alarm HP-ku berbunyi kencang namun suaranya kuganti dengan ASMR orang berbisik, aku malah makin pulas tertidur.",
+      "Maaf [TARGET], aku menghabiskan waktu dua hari dua malam duduk di toilet jongkok sambil meratapi nyamuk yang terbang, ingatanku memudar."
     ],
     "realityBending": [
       "Maaf [TARGET], alien dari konstelasi Zeta Reticuli menculik ingatanku tentang hari penting ini untuk penelitian emosi manusia.",
@@ -69,7 +89,17 @@
       "Aduh [TARGET], dewa waktu memberikan tombol *fast forward* padaku dan aku mendudukinya tanpa sengaja.",
       "Halo [TARGET], hari ini terkurung di dalam penjara kuantum, aku tidak bisa mengakses momen ini dalam pikiranku.",
       "Maaf [TARGET], fotomu di ingatanku perlahan-lahan memudar bak tertiup angin dimensi, aku tidak mengingat hari ini.",
-      "Sori [TARGET], bayanganku mencuri perayaan hari ini dan kabur membawanya ke dunia balik cermin."
+      "Sori [TARGET], bayanganku mencuri perayaan hari ini dan kabur membawanya ke dunia balik cermin.",
+      "Maaf [TARGET], alien penjelajah waktu mencuri ingatanku tentang peristiwa bersejarah ini untuk dijadikan arsip di galaksi Andromeda.",
+      "Sori [TARGET], dimensi ruang dan waktu terlipat di depan mataku, tanggal hari ini dilompati sepenuhnya secara gaib.",
+      "Aduh [TARGET], aku terhisap masuk ke dalam kehampaan kosmik tempat di mana konsep waktu kalender surya tidak lagi relevan.",
+      "Halo [TARGET], departemen kepolisian waktu menghapus hari ini dari memori otakku untuk mencegah paradoks kehancuran bumi.",
+      "Maaf [TARGET], aku ditawari minuman penghilang ingatan oleh peri penunggu sumur tua, semua momen indahku hilang tertelan sihir.",
+      "Sori [TARGET], alam semesta me- *reboot* realita kita saat subuh, semua ingatan tentang jadwal kalender di- *reset* paksa ke setelan awal.",
+      "Aduh [TARGET], penjaga jam pasir dewa kosmik menjatuhkan pasir waktuku, menyebabkan aku melupakan satu bulan penuh dalam ingatanku.",
+      "Halo [TARGET], hari penting ini dikurung dalam penjara kuantum oleh entitas dimensi ke-empat, aku tidak bisa mengingatnya sekalipun kucoba.",
+      "Maaf [TARGET], kenangan tentang hari ini telah pudar terbawa badai angin matahari, sepertinya kita harus memulai dari awal.",
+      "Sori [TARGET], bayanganku memberontak dan mencuri momen perayaan ini, dia merayakannya sendirian di dunia balik cermin tanpa mengajakku."
     ]
   }
 }

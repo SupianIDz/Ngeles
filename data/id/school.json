@@ -49,7 +49,17 @@
       "Mohon izin [TARGET], saya alergi debu parah karena kemarin kerja bakti bersihin gudang, hidung saya mampet dan mata bengkak.",
       "Permisi [TARGET], jalanan depan rumah saya ditutup total karena ada pengerjaan gorong-gorong sedalam 2 meter.",
       "Maaf [TARGET], saya ketiduran setelah shubuh karena semalaman tidak bisa tidur akibat sakit gigi kumat.",
-      "Halo [TARGET], sepatu sekolah saya basah kuyup karena kucing saya pipis di dalamnya."
+      "Halo [TARGET], sepatu sekolah saya basah kuyup karena kucing saya pipis di dalamnya.",
+      "Maaf [TARGET], sepatu sekolah saya hilang sebelah karena digigit anjing peliharaan saya ke taman.",
+      "Halo [TARGET], jalanan depan rumah banjir selutut akibat hujan semalaman, motor tidak bisa lewat.",
+      "Mohon izin [TARGET], mata saya merah dan bengkak sebelah karena iritasi debu atau debu jalanan.",
+      "Permisi [TARGET], buku tugas dan LKS saya basah ketumpahan kuah soto waktu sarapan.",
+      "Maaf [TARGET], ibu saya lupa membangunkan saya dan alarm HP saya bunyinya terlalu pelan.",
+      "Halo [TARGET], resleting tas ransel saya jebol sehingga buku-buku saya berhamburan jatuh semua.",
+      "Mohon izin [TARGET], ojek online yang saya pesan nyasar sangat jauh dan tidak kunjung datang.",
+      "Permisi [TARGET], saya harus mengantar adik saya imunisasi ke puskesmas karena orang tua mendadak kerja.",
+      "Maaf [TARGET], sakit tenggorokan saya sangat parah sampai saya tidak bisa mengeluarkan suara sedikitpun.",
+      "Halo [TARGET], seragam olahraga saya terbawa angin kencang saat dijemur dan nyangkut di pohon tetangga."
     ],
     "ridiculous": [
       "Maaf Pak/Bu [TARGET], saya telat karena tadi pagi ayam tetangga berkokok dalam nada minor yang membuat saya merenungi tujuan hidup selama tiga jam.",
@@ -95,7 +105,17 @@
       "Mohon izin [TARGET], saya dicegat oleh anak-anak TK yang meminta saya menjadi juri lomba menggambar di jalanan.",
       "Permisi [TARGET], jari telunjuk saya masuk ke lubang botol kaca dan tidak bisa ditarik keluar.",
       "Maaf [TARGET], saya dikejar sekawanan angsa yang marah sampai saya harus bersembunyi di pos satpam.",
-      "Halo [TARGET], saya batal berangkat karena saya merasa bersalah meninggalkan boneka beruang saya sendirian di rumah."
+      "Halo [TARGET], saya batal berangkat karena saya merasa bersalah meninggalkan boneka beruang saya sendirian di rumah.",
+      "Maaf [TARGET], saya tidak sengaja mencelupkan kepala saya ke adonan kue ibu, rambut saya jadi kaku lengket.",
+      "Halo [TARGET], saya bersembunyi dari tukang somay langganan yang menagih utang uang jajan saya.",
+      "Mohon izin [TARGET], saya lupa pakai celana sekolah dan hanya pakai celana pendek bergambar Spongebob.",
+      "Permisi [TARGET], jempol tangan saya bengkak setelah dijepit capit kepiting hias di aquarium kamar.",
+      "Maaf [TARGET], saya ketiduran sambil memeluk tiang listrik di halte bus karena terlalu mengantuk.",
+      "Halo [TARGET], saya dikejar burung unta yang lepas dari kebun binatang setempat.",
+      "Mohon izin [TARGET], saya tidak bisa bergerak karena tubuh saya dililit selimut yang kancingnya kusut mengikat saya.",
+      "Permisi [TARGET], saya salah mengoleskan lem super ke sikat gigi, untung belum masuk ke mulut.",
+      "Maaf [TARGET], kacamata saya dicuri kera liar dan dipakai nangkring di atas menara masjid.",
+      "Halo [TARGET], saya masuk ke angkot yang isinya rombongan ibu-ibu arisan yang menolak membiarkan saya turun."
     ],
     "realityBending": [
       "Maaf [TARGET], saya tidak bisa masuk hari ini karena saya terlempar ke dimensi paralel di mana sekolah belum ditemukan dan saya ditugaskan untuk menciptakannya.",
@@ -141,7 +161,17 @@
       "Mohon izin [TARGET], rumah saya tiba-tiba memiliki sistem keamanan laser mematikan yang menolak membiarkan saya keluar.",
       "Permisi [TARGET], saya tidak sengaja menyentuh artefak terkutuk dan sekarang tubuh saya berubah menjadi batu marmer.",
       "Maaf [TARGET], dimensi kita sedang tumpang tindih dengan dunia kartun, saya sedang dikejar oleh piano yang jatuh dari langit.",
-      "Halo [TARGET], saya tidak bisa ke sekolah karena cuaca hari ini diprediksi akan hujan meteor yang menghancurkan planet."
+      "Halo [TARGET], saya tidak bisa ke sekolah karena cuaca hari ini diprediksi akan hujan meteor yang menghancurkan planet.",
+      "Maaf [TARGET], buku pelajaran sejarah saya menyedot saya masuk ke dalam revolusi industri.",
+      "Halo [TARGET], saya tidak sengaja meminum ramuan menyusut dan sekarang ukuran tubuh saya sama dengan semut.",
+      "Mohon izin [TARGET], sekolah kita dipindahkan ke dimensi cermin di mana nilai jelek dianggap nilai bagus.",
+      "Permisi [TARGET], guru saya terungkap sebagai hologram kecerdasan buatan, saya menolak diajar oleh robot.",
+      "Maaf [TARGET], semua tulisan di buku saya mendadak berubah menjadi kode rahasia suku Maya kuno.",
+      "Halo [TARGET], hujan meteor menghancurkan rute bus sekolah dan meninggalkan kawah sedalam lima ratus meter.",
+      "Mohon izin [TARGET], jam dinding di kamarku berjalan mundur sangat cepat hingga aku kembali ke usia TK.",
+      "Permisi [TARGET], bayanganku memberontak dan kabur dari tubuhku, aku sedang melakukan pengejaran di alam gaib.",
+      "Maaf [TARGET], tubuhku menolak hukum gravitasi fisika Newton dan lebih memilih mengambang di langit-langit.",
+      "Halo [TARGET], sekolah kita telah dikepung oleh naga es raksasa, saya rasa kita butuh bantuan kesatria sihir."
     ]
   }
 }

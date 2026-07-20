@@ -52,7 +52,17 @@
       "Hello [TARGET], an important family guest from out of town dropped by and I'm forced to accompany them.",
       "Sorry [TARGET], the motorcycle I borrowed from a friend broke down, I have to accompany him to the mechanic.",
       "Oh man [TARGET], I got food poisoning from eating stale clams last night, throwing up constantly and can't walk.",
-      "Hello [TARGET], the power went out at my house and I haven't showered at all, I can't go out looking this messy."
+      "Hello [TARGET], the power went out at my house and I haven't showered at all, I can't go out looking this messy.",
+      "I'm so sorry [TARGET], my stomach suddenly got bloated and extremely nauseous, I think I caught a bad cold.",
+      "Oh man [TARGET], my mom asked me to rush her to the emergency pharmacy to buy her blood pressure meds.",
+      "Sorry [TARGET], my bedroom door lock jammed and I'm literally trapped inside unable to get out.",
+      "Hello [TARGET], I was suddenly ordered to handle a miscalculated month-end report by my office.",
+      "Sorry [TARGET], I'm incredibly dizzy from low blood pressure, the floor feels like it's spinning constantly.",
+      "Oh man [TARGET], my motorcycle suddenly broke down and won't start, I think the spark plug is flooded.",
+      "Sorry [TARGET], a distant cousin arrived from the village suddenly with gifts and forced me to show them around the city.",
+      "Hello [TARGET], my dog suddenly fell sick, weak, and refuses to eat, I have to look after him at home.",
+      "Sorry [TARGET], I left my wallet and vehicle registration at a friend's house last night, I have to retrieve them first.",
+      "Oh man [TARGET], my cavity suddenly hurts with severe sharp pain, I need to lie down and take painkillers."
     ],
     "ridiculous": [
       "Sorry [TARGET], I can't leave the house tonight — my pet is giving me a look of pure judgment that I simply cannot ignore.",
@@ -101,7 +111,17 @@
       "Sorry [TARGET], I got trapped watching a Teflon pan review on YouTube for 6 hours straight and lost track of time.",
       "Hello [TARGET], the neighbor's cat pooped inside my shoes, the smell won't go away even after washing them 3 times.",
       "Sorry [TARGET], my tooth fell out while chewing ice cubes, I can't hang out with a missing tooth.",
-      "Oh man [TARGET], I got stuck on my own fence because I foolishly tried to jump over it when I lost the key."
+      "Oh man [TARGET], I got stuck on my own fence because I foolishly tried to jump over it when I lost the key.",
+      "Sorry [TARGET], I can't come because I'm throwing a tantrum over the ending of the Korean drama I binged all night.",
+      "Oh man [TARGET], I messed up trimming my eyelashes with nail clippers, my eyes look incredibly weird.",
+      "Sorry [TARGET], my jeans are too tight after washing, I fell backward while trying to squeeze into them.",
+      "Hello [TARGET], I was intercepted by a gang of street cats forming a barricade in front of my house gate.",
+      "Sorry [TARGET], I mistakenly polished my black shoes with charcoal toothpaste, the color stained the whole floor.",
+      "Oh man [TARGET], I got locked on my own bedroom balcony and screamed for help but nobody heard me.",
+      "Sorry [TARGET], I accidentally drank dish soap water because I thought it was melon syrup.",
+      "Hello [TARGET], I was forcibly kidnapped by my nephew to roleplay as a monster in his bedroom.",
+      "Sorry [TARGET], my shirt zipper got snagged in the window mesh, I'm trapped and can't move.",
+      "Oh man [TARGET], I got busy counting my falling hair in the bathroom and completely lost track of our meetup time."
     ],
     "realityBending": [
       "Sorry [TARGET], my house is surrounded by friendly aliens who asked me to teach them how to make local coffee. Abandoning them mid-lesson would be rude.",
@@ -150,7 +170,17 @@
       "Sorry [TARGET], my vocal frequency suddenly shifted to ultrasonic waves, you won't be able to hear me.",
       "Hello [TARGET], I was abducted by a clan of gold-mining dwarfs who need my manual labor underground.",
       "Sorry [TARGET], the earth stopped rotating briefly causing an extreme cosmic jetlag on my nervous system.",
-      "Oh man [TARGET], time keeps looping in my house, I've repeated my morning shower for three weeks now."
+      "Oh man [TARGET], time keeps looping in my house, I've repeated my morning shower for three weeks now.",
+      "Sorry [TARGET], my house was disconnected from the main reality network and is drifting in the cosmic void.",
+      "Oh man [TARGET], my face disappeared in the mirror reflection, I need time to restore my facial data.",
+      "Sorry [TARGET], I found a door to the underworld inside my closet, I must explore it right now.",
+      "Hello [TARGET], I accidentally shape-shifted into an antique Ming dynasty flower vase.",
+      "Sorry [TARGET], my time is stuck in a 5-second loop forcing me to continuously reach for my drinking glass.",
+      "Oh man [TARGET], intergalactic telepathy is summoning me to prevent a star war between reptiles and aliens.",
+      "Sorry [TARGET], earth's gravity doubled specifically in my living room, my body isn't strong enough to stand.",
+      "Hello [TARGET], my shadow stole my clothes and ran through the wall outside the house.",
+      "Sorry [TARGET], my body suddenly turned transparent, exposing my skeletal skull in public.",
+      "Oh man [TARGET], every time I try to walk out the door, I magically teleport back into my bathroom."
     ]
   }
 }

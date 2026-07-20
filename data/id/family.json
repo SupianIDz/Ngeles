@@ -52,7 +52,17 @@
       "Aduh [TARGET], aku tiba-tiba disuruh bos *standby* jaga *server* karena ada pemeliharaan sistem malam ini.",
       "Maaf [TARGET], keponakanku tiba-tiba dititipin di rumah sakit karena tanteku masuk UGD, aku harus nemenin.",
       "Sori [TARGET], kacamata bacaku patah, kepalaku pusing banget kalau harus memaksakan diri nyetir jauh.",
-      "Halo [TARGET], atap rumahku bocor parah pas ujan deras, airnya ngegenang di kasur, aku harus beresin dulu."
+      "Halo [TARGET], atap rumahku bocor parah pas ujan deras, airnya ngegenang di kasur, aku harus beresin dulu.",
+      "Maaf [TARGET], bos kantorku tiba-tiba minta aku ngerjain presentasi buat tender bernilai miliaran besok pagi.",
+      "Halo [TARGET], perutku melilit parah, bolak-balik kamar mandi 5 kali dalam waktu satu jam.",
+      "Aduh [TARGET], ada bocor di pipa wastafel dapur, airnya tumpah ke mana-mana dan aku lagi ngepel keras.",
+      "Maaf [TARGET], tetangga sebelah rumah pingsan dan keluarganya panik, aku bantuin angkat ke mobil.",
+      "Sori [TARGET], mobil temen yang biasanya sering kupinjem ternyata lagi turun mesin hari ini.",
+      "Halo [TARGET], migrainku kumat sangat hebat sebelah kiri, liat cahaya terang rasanya sakit banget.",
+      "Aduh [TARGET], anak temen kerjaku kecelakaan dan aku harus ikut donor darah dadakan ke rumah sakit.",
+      "Maaf [TARGET], gembok pagar rumahku macet nggak bisa dibuka kuncinya, aku terkurung di dalam rumah.",
+      "Sori [TARGET], paket besar berisi barang pecah belah tiba, aku harus *unboxing* hati-hati karena kurirnya rewel.",
+      "Halo [TARGET], aku harus nyari apotek 24 jam karena obat asam urat suamiku habis total malam ini."
     ],
     "ridiculous": [
       "Maaf banget keluarga besar [TARGET], baju batik andalan satu-satunya tidak sengaja dijadikan alas tidur oleh kucing liar dan sekarang penuh bulu magis.",
@@ -101,7 +111,17 @@
       "Aduh [TARGET], aku salah pakai bumbu dapur, malah pakai bubuk cabai buat maskeran wajah, sekarang mukaku merah melepuh.",
       "Maaf [TARGET], bajuku ketumpahan sirup pandan sebotol, sekarang aku bau seperti es dawet berjalan.",
       "Halo [TARGET], aku terjepit keranjang belanja swalayan pas lagi iseng nyobain masuk, nggak bisa keluar.",
-      "Sori [TARGET], aku salah naik angkot dan malah sampai ke pasar hewan ujung kota yang bau kambing."
+      "Sori [TARGET], aku salah naik angkot dan malah sampai ke pasar hewan ujung kota yang bau kambing.",
+      "Maaf [TARGET], kepalaku terbentur pinggiran meja makan dengan keras sampai aku melihat bintang-bintang kartun berputar.",
+      "Sori [TARGET], aku tak sengaja mengoleskan balsem panas ke seluruh wajahku karena botolnya mirip krim malam.",
+      "Aduh [TARGET], aku disandera oleh burung hantu liar yang masuk ke kamarku dan melotot tanpa henti.",
+      "Maaf [TARGET], kaos kakiku yang sebelah diculik oleh entitas tak kasat mata di bawah mesin cuci.",
+      "Halo [TARGET], aku terjepit di celah antara tempat tidur dan tembok saat berusaha mengambil uang logam jatuh.",
+      "Sori [TARGET], lidahku tergigit parah saat makan kerupuk, aku bicaranya cadel berdarah-darah.",
+      "Aduh [TARGET], aku sedang ngambek dengan boneka beruangku dan kami butuh *quality time* untuk berbaikan.",
+      "Maaf [TARGET], celanaku ketumpahan kecap manis sebotol penuh, lengketnya sampai ke paha dalam.",
+      "Halo [TARGET], aku salah melangkah dan masuk jebakan tikus yang kupasang sendiri di dapur.",
+      "Sori [TARGET], aku nggak berani keluar karena di depan pintu ada kecoa terbang yang bertugas jadi satpam."
     ],
     "realityBending": [
       "Maaf paman/bibi [TARGET], saya sedang tidak berada di bumi. Tidak sengaja masuk ke dalam portal lemari pakaian dan sekarang tersesat di Narnia bersama kawanan singa berbicara.",
@@ -150,7 +170,17 @@
       "Aduh [TARGET], aku tersedot ke dalam lukisan pemandangan di ruang tamu dan sedang berusaha mencari jalan keluar.",
       "Maaf [TARGET], gravitasi di kamarku terbalik seratus delapan puluh derajat, aku terjebak di langit-langit kamar.",
       "Halo [TARGET], aliran waktu di sekitarku melambat sangat ekstrem, satu tarikan napasku memakan waktu dua jam.",
-      "Sori [TARGET], aku telah dipilih menjadi ksatria pelindung dunia paralel, misiku tidak bisa ditunda."
+      "Sori [TARGET], aku telah dipilih menjadi ksatria pelindung dunia paralel, misiku tidak bisa ditunda.",
+      "Maaf [TARGET], foto-foto keluargaku perlahan bergerak dan hidup menceritakan kisah kelam dari masa lalu.",
+      "Sori [TARGET], pohon mangga di halaman rumah kita mencabut akarnya dan mulai berjalan-jalan mengitari blok.",
+      "Aduh [TARGET], DNA-ku mengalami mutasi spontan, aku perlahan-lahan berubah wujud menjadi serigala.",
+      "Maaf [TARGET], rumah kita tertelan oleh kabut dimensi yang pekat, tidak ada yang bisa menembus batas ini.",
+      "Halo [TARGET], roh leluhur turun dari lukisan tua dan menyuruhku menjaga portal gaib di bawah tangga.",
+      "Sori [TARGET], aliran waktu di sekitar rumahku dibekukan secara parsial oleh dewa pengawas realitas.",
+      "Aduh [TARGET], bayanganku memberontak dan mengancam akan menghapus keberadaanku jika aku pergi dari rumah.",
+      "Maaf [TARGET], setiap kali aku membuka mata, aku melihat dunia dari sudut pandang cacing tanah di taman.",
+      "Halo [TARGET], suaraku tertukar dengan suara penyiar radio jadul, siapapun yang mendengarku akan tertidur lelap.",
+      "Sori [TARGET], eksistensiku di dunia nyata tidak lagi diakui oleh matriks simulasi tempat kita berada."
     ]
   }
 }

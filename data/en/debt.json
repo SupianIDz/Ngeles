@@ -43,7 +43,17 @@
       "Sorry [TARGET], my credit card is over the limit and I'm being chased by bank debt collectors, I'm so stressed out.",
       "Oh man [TARGET], the money was used to pay a traffic police fine yesterday because my registration was expired.",
       "Sorry [TARGET], the company I work for is in a crisis, my salary is being paid in two installments this month.",
-      "Hello [TARGET], my money ran out to buy very expensive diabetes medication for my mother."
+      "Hello [TARGET], my money ran out to buy very expensive diabetes medication for my mother.",
+      "I'm really sorry [TARGET], the money was used to repair my work laptop whose motherboard suddenly died.",
+      "Oh man [TARGET], my mom was just hospitalized and I had to put down a heavy room deposit tonight.",
+      "Hello [TARGET], my salary was cut this month due to an invoice error, I'm currently stressing out trying to find a loan.",
+      "Sorry [TARGET], I accidentally spilled coffee on my friend's laptop and was forced to compensate for a brand new one.",
+      "Sorry [TARGET], my bank account was temporarily frozen due to suspicious transactions, I am dealing with the branch right now.",
+      "Hello [TARGET], the cash I meant to give you dropped and got lost in a public minibus, I'm crying my eyes out.",
+      "Sorry [TARGET], I was scammed by an online investment group and all my savings are gone, I'm completely devastated.",
+      "Oh man [TARGET], I had to use the money to pay an overdue credit card penalty that's been dragging for 3 months.",
+      "Sorry [TARGET], I'm unemployed this month because my work contract wasn't renewed suddenly.",
+      "Hello [TARGET], my bedroom roof collapsed from termites and all my savings went to hiring builders immediately."
     ],
     "ridiculous": [
       "I'm sorry [TARGET], the cash I saved for you was eaten by termites under my mattress. I'm currently trying to piece the bills back together.",
@@ -88,7 +98,17 @@
       "Sorry [TARGET], my wallet was pickpocketed by a monkey at the zoo while on a study tour, I lost everything.",
       "Hello [TARGET], I used the money to hire a witch doctor to ward off a bad luck curse from my rival.",
       "Sorry [TARGET], I accidentally donated all my money to an orphanage because I typed three extra zeros by mistake.",
-      "Oh man [TARGET], I was scammed by a fake ornamental gecko investment scheme, the gecko died and my money is gone."
+      "Oh man [TARGET], I was scammed by a fake ornamental gecko investment scheme, the gecko died and my money is gone.",
+      "Sorry [TARGET], I accidentally swallowed the money meant for you along with my flu pills last night, it was the size of a coin.",
+      "Oh man [TARGET], my banknotes were carried away by my pet iguana who escaped into the water drainage system.",
+      "Sorry [TARGET], the ATM I used to withdraw the money exploded and spewed thick smoke, my cash was burned to a crisp.",
+      "Hello [TARGET], I was extorted by a gang of kindergarteners armed with giant water guns while trying to deposit the money.",
+      "Sorry [TARGET], my money evaporated into dust because I left it on top of a short-circuiting microwave emitting weird radiation.",
+      "Oh man [TARGET], I mistakenly fed the money into a piggy bank that turned out to be a live piglet which swallowed it whole.",
+      "Sorry [TARGET], I was hypnotized by a magic pan salesman at the market and handed over all my pocket money.",
+      "Hello [TARGET], the money I was going to give you was given to a parrot threatening to spill my deepest secrets.",
+      "Sorry [TARGET], the neighbor's dog dug up my secret backyard safe and ate half of its contents.",
+      "Oh man [TARGET], I accidentally mixed the cash into my cookie dough, now it's baked hard as a rock."
     ],
     "realityBending": [
       "Listen [TARGET], technically money is energy. According to the Laws of Thermodynamics, energy cannot be created or destroyed. So your money isn't gone, it has just changed into a cosmic aura surrounding me.",
@@ -133,7 +153,17 @@
       "Oh man [TARGET], I'm trapped in a time casino loop, every coin I win disappears when I wake up.",
       "Hello [TARGET], world currency has been changed to pearl seashells by the sea king, my paper money is useless.",
       "Sorry [TARGET], my shadow stole my wallet and used it to gamble in the mirror dimension.",
-      "Sorry [TARGET], my bank balance was sucked into a microscopic wormhole that appeared inside my smartphone."
+      "Sorry [TARGET], my bank balance was sucked into a microscopic wormhole that appeared inside my smartphone.",
+      "Sorry [TARGET], the galactic censorship department forbade me from using Earth's primitive currency to settle debts.",
+      "Sorry [TARGET], the money in my account was automatically converted into cosmic karma to restore the solar system's balance.",
+      "Oh man [TARGET], I swapped destinies with a medieval king, my wealth is now in the form of gold chests deep in Atlantis.",
+      "Hello [TARGET], the world's currency has been replaced by dry mango leaves, sadly this paper money is no longer valid.",
+      "Sorry [TARGET], my debt to you has been paid in an alternate timeline where we married and your wealth is mine.",
+      "Sorry [TARGET], every time I hold money meant for you, it transforms into glowing flying jellyfish.",
+      "Oh man [TARGET], the god of wealth revoked my financial license, my bank balance resets to zero every day at 3 PM.",
+      "Hello [TARGET], my body rejects the concept of capitalism on a molecular level, I spontaneously combust touching paper money.",
+      "Sorry [TARGET], the bank where I store my money was lifted by a flying saucer heading towards the Orion constellation.",
+      "Sorry [TARGET], our transaction was suspended by the space-time oversight council to prevent the collapse of the multiverse."
     ]
   },
   "meta": {

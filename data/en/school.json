@@ -49,7 +49,17 @@
       "Sorry [TARGET], I have severe dust allergies from cleaning the storage room yesterday, my nose is blocked and eyes are swollen.",
       "Hello [TARGET], the street in front of my house is totally closed due to a 2-meter deep sewer construction.",
       "Excuse me [TARGET], I overslept after dawn because I couldn't sleep all night due to a raging toothache.",
-      "Sorry [TARGET], my school shoes are soaking wet because my cat peed inside them."
+      "Sorry [TARGET], my school shoes are soaking wet because my cat peed inside them.",
+      "Sorry [TARGET], I lost one of my school shoes because my pet dog chewed it in the yard.",
+      "Hello [TARGET], the street in front of my house is knee-deep in floodwater due to overnight rain, motorcycles can't pass.",
+      "Excuse me [TARGET], my eye is red and severely swollen on one side due to street dust irritation.",
+      "Sorry [TARGET], my assignment book and worksheets are soaked from spilled soup during breakfast.",
+      "Hello [TARGET], my mom forgot to wake me up and my phone alarm volume was way too low.",
+      "Excuse me [TARGET], the zipper on my backpack burst so all my books scattered everywhere on the ground.",
+      "Sorry [TARGET], the online motorcycle taxi I ordered got completely lost and never arrived.",
+      "Hello [TARGET], I have to take my baby sibling to the clinic for immunization because my parents suddenly had to work.",
+      "Excuse me [TARGET], my sore throat is so severe that I absolutely cannot produce any sound.",
+      "Sorry [TARGET], my gym uniform blew away in a strong wind while drying and got stuck in the neighbor's tree."
     ],
     "ridiculous": [
       "I'm so sorry [TARGET], I'm late because the neighbor's rooster crowed in a minor key this morning, sending me into a three-hour existential crisis.",
@@ -95,7 +105,17 @@
       "Sorry [TARGET], I was intercepted by kindergarten kids who demanded I judge their street drawing contest.",
       "Hello [TARGET], my index finger got stuck in the neck of a glass bottle and won't come out.",
       "Excuse me [TARGET], I was chased by an angry flock of geese until I had to hide in a security guard post.",
-      "Sorry [TARGET], I cancelled my trip because I felt immensely guilty leaving my teddy bear alone at home."
+      "Sorry [TARGET], I cancelled my trip because I felt immensely guilty leaving my teddy bear alone at home.",
+      "Sorry [TARGET], I accidentally dipped my head into my mom's cake batter, my hair is stiff and sticky.",
+      "Hello [TARGET], I am hiding from my regular dumpling vendor who is aggressively demanding my snack debt.",
+      "Excuse me [TARGET], I forgot to wear my school pants and am only wearing Spongebob shorts.",
+      "Sorry [TARGET], my thumb is swollen after being pinched by an ornamental crab in my bedroom aquarium.",
+      "Hello [TARGET], I fell asleep hugging a power pole at the bus stop because I was so incredibly drowsy.",
+      "Excuse me [TARGET], I was chased by an ostrich that escaped from the local zoo.",
+      "Sorry [TARGET], I cannot move because my body is tightly bound in a blanket whose buttons tangled around me.",
+      "Hello [TARGET], I mistakenly applied superglue to my toothbrush, luckily it didn't enter my mouth yet.",
+      "Excuse me [TARGET], my glasses were stolen by a wild monkey and are now being worn on top of a mosque tower.",
+      "Sorry [TARGET], I got into a minibus full of a housewives' gathering group who refuse to let me off."
     ],
     "realityBending": [
       "Sorry [TARGET], I won't be in class today because I accidentally stepped into a parallel dimension where school hasn't been invented yet, and it's my duty to establish it.",
@@ -141,7 +161,17 @@
       "Sorry [TARGET], my house suddenly activated a deadly laser security system that refuses to let me out.",
       "Hello [TARGET], I accidentally touched a cursed artifact and now my body is turning into solid marble.",
       "Excuse me [TARGET], our dimension is overlapping with a cartoon world, I am currently being chased by a piano falling from the sky.",
-      "Sorry [TARGET], I can't go to school because today's weather forecast predicted a planet-destroying meteor shower."
+      "Sorry [TARGET], I can't go to school because today's weather forecast predicted a planet-destroying meteor shower.",
+      "Sorry [TARGET], my history textbook sucked me into the industrial revolution era.",
+      "Hello [TARGET], I accidentally drank a shrinking potion and now my body size is the same as an ant.",
+      "Excuse me [TARGET], our school was moved to a mirror dimension where bad grades are considered good grades.",
+      "Sorry [TARGET], my teacher was revealed to be an AI hologram, I refuse to be educated by a robot.",
+      "Hello [TARGET], all the writing in my book suddenly transformed into ancient Mayan secret codes.",
+      "Excuse me [TARGET], a meteor shower destroyed the school bus route and left a five-hundred-meter deep crater.",
+      "Sorry [TARGET], the wall clock in my room runs backward so fast I regressed to kindergarten age.",
+      "Hello [TARGET], my shadow rebelled and ran away from my body, I am conducting a chase in the astral plane.",
+      "Excuse me [TARGET], my body rejects Newton's laws of gravity and prefers to float on the ceiling.",
+      "Sorry [TARGET], our school has been besieged by a giant ice dragon, I think we need a magic knight's help."
     ]
   }
 }

@@ -52,7 +52,17 @@
       "Sorry [TARGET], my boss suddenly ordered me to stand by and monitor the server for a system maintenance tonight.",
       "Hello [TARGET], my niece was suddenly dropped off at the hospital because my aunt is in the ER, I have to accompany them.",
       "Oh man [TARGET], my reading glasses broke, my head spins if I force myself to drive a long distance.",
-      "Sorry [TARGET], my roof leaked terribly during the heavy rain, water pooled on my bed, I have to clean it up first."
+      "Sorry [TARGET], my roof leaked terribly during the heavy rain, water pooled on my bed, I have to clean it up first.",
+      "Sorry [TARGET], my boss suddenly asked me to prepare a billion-dollar tender presentation for tomorrow morning.",
+      "Hello [TARGET], my stomach cramps are terrible, I've been to the bathroom 5 times in the past hour.",
+      "Oh man [TARGET], there's a leak in the kitchen sink pipe, water spilled everywhere and I'm mopping hard.",
+      "Sorry [TARGET], my next-door neighbor fainted and their family panicked, I helped carry them into the car.",
+      "Sorry [TARGET], the friend's car I usually borrow is unexpectedly at the mechanic for a major overhaul today.",
+      "Hello [TARGET], my migraine flared up severely on the left side, looking at bright lights hurts so much.",
+      "Oh man [TARGET], my coworker's kid had an accident and I have to go give an emergency blood donation at the hospital.",
+      "Sorry [TARGET], my house gate padlock is jammed and won't unlock, I'm locked inside the house.",
+      "Sorry [TARGET], a huge fragile package arrived, I have to unbox it carefully because the courier is fussy.",
+      "Hello [TARGET], I have to search for a 24-hour pharmacy because my husband's gout medicine ran out completely tonight."
     ],
     "ridiculous": [
       "Deeply sorry [TARGET], my only decent family-gathering outfit was commandeered as a bed by a stray cat and is now covered in inexplicably magical fur.",
@@ -101,7 +111,17 @@
       "Sorry [TARGET], I used the wrong spice and applied chili powder as a face mask, now my face is burning red.",
       "Hello [TARGET], a whole bottle of pandan syrup spilled on my shirt, now I smell like a walking iced dessert.",
       "Oh man [TARGET], I got stuck inside a supermarket shopping cart while goofing around trying to fit inside.",
-      "Sorry [TARGET], I took the wrong minibus and ended up at the animal market on the edge of town that smells like goats."
+      "Sorry [TARGET], I took the wrong minibus and ended up at the animal market on the edge of town that smells like goats.",
+      "Sorry [TARGET], my head hit the edge of the dining table so hard I saw spinning cartoon stars.",
+      "Sorry [TARGET], I accidentally applied hot muscle balm all over my face because the bottle looks like my night cream.",
+      "Oh man [TARGET], I'm held hostage by a wild owl that flew into my bedroom and is glaring at me endlessly.",
+      "Sorry [TARGET], one of my socks was abducted by an invisible entity living under the washing machine.",
+      "Hello [TARGET], I got wedged in the gap between the bed and the wall trying to reach a dropped coin.",
+      "Sorry [TARGET], I bit my tongue so badly while eating crackers, I'm lisping and it's bleeding.",
+      "Oh man [TARGET], I am currently sulking with my teddy bear and we need quality time to make up.",
+      "Sorry [TARGET], a full bottle of sweet soy sauce spilled on my pants, it's sticky all the way down my inner thigh.",
+      "Hello [TARGET], I took a wrong step and got caught in a mousetrap I set myself in the kitchen.",
+      "Sorry [TARGET], I don't dare go out because there's a flying cockroach acting as a security guard right outside my door."
     ],
     "realityBending": [
       "So sorry uncle/aunt [TARGET], I'm not currently on Earth. I accidentally walked through a wardrobe portal and I'm now stranded in Narnia with a very talkative lion.",
@@ -150,7 +170,17 @@
       "Sorry [TARGET], I got sucked into a landscape painting in the living room and am trying to find the exit.",
       "Hello [TARGET], gravity in my room inverted 180 degrees, I'm stuck on my bedroom ceiling.",
       "Oh man [TARGET], the flow of time around me slowed down extremely, a single breath takes me two hours.",
-      "Sorry [TARGET], I have been chosen as the guardian knight of a parallel world, my mission cannot be delayed."
+      "Sorry [TARGET], I have been chosen as the guardian knight of a parallel world, my mission cannot be delayed.",
+      "Sorry [TARGET], my family photos are slowly moving and coming alive to tell dark stories from the past.",
+      "Sorry [TARGET], the mango tree in our yard pulled its roots out and started walking around the block.",
+      "Oh man [TARGET], my DNA experienced a spontaneous mutation, I'm slowly transforming into a wolf.",
+      "Sorry [TARGET], our house was swallowed by a thick dimensional fog, nothing can penetrate this barrier.",
+      "Hello [TARGET], ancestral spirits descended from an old painting and ordered me to guard the magic portal under the stairs.",
+      "Sorry [TARGET], the flow of time around my house was partially frozen by the god of reality surveillance.",
+      "Oh man [TARGET], my shadow rebelled and threatened to erase my existence if I leave the house.",
+      "Sorry [TARGET], every time I open my eyes, I see the world from the perspective of an earthworm in the garden.",
+      "Hello [TARGET], my voice got swapped with an old-school radio announcer, anyone hearing me falls into a deep sleep.",
+      "Sorry [TARGET], my existence in the real world is no longer recognized by the simulation matrix we reside in."
     ]
   }
 }

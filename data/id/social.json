@@ -52,7 +52,17 @@
       "Aduh [TARGET], ada tamu penting keluarga dari luar kota mampir ke rumah dan aku dipaksa nemenin ngobrol.",
       "Maaf ya [TARGET], motor temenku yang aku pinjem mogok di jalan, aku harus nemenin benerin di bengkel.",
       "Halo [TARGET], aku keracunan makanan gara-gara makan kerang semalam, muntah-muntah terus nggak kuat jalan.",
-      "Sori [TARGET], listrik rumahku mati lampu dan aku belum mandi sama sekali, nggak mungkin aku pergi kucel begini."
+      "Sori [TARGET], listrik rumahku mati lampu dan aku belum mandi sama sekali, nggak mungkin aku pergi kucel begini.",
+      "Maaf banget [TARGET], perutku mendadak kembung dan mual parah, kayaknya masuk angin berat.",
+      "Aduh [TARGET], ibuku minta tolong diantarkan ke apotek darurat buat beli obat tekanan darahnya.",
+      "Sori [TARGET], kunci kamarku macet dan aku bener-bener terkurung di dalam nggak bisa keluar.",
+      "Halo [TARGET], aku tiba-tiba disuruh *handle* laporan akhir bulan yang salah perhitungan oleh kantorku.",
+      "Maaf [TARGET], kepalaku pusing banget kurang darah, rasanya lantai kayak muter terus.",
+      "Aduh [TARGET], motorku tiba-tiba mogok nggak mau di-*starter*, businya kayaknya kerendam air.",
+      "Sori [TARGET], ada sepupu jauhku datang dari desa mendadak bawa oleh-oleh dan maksa aku nemenin keliling kota.",
+      "Halo [TARGET], anjingku tiba-tiba sakit lemas nggak mau makan, aku harus jagain dia di rumah.",
+      "Maaf [TARGET], dompet dan STNK-ku ketinggalan di rumah temanku semalam, aku harus ngambil dulu.",
+      "Aduh [TARGET], gigiku yang berlubang tiba-tiba ngilu parah, aku butuh rebahan dan minum obat pereda nyeri."
     ],
     "ridiculous": [
       "Sorry ya [TARGET], gue gak bisa keluar rumah malam ini karena tiba-tiba peliharaan gue memperlihatkan tatapan menghakimi yang bikin gue merasa bersalah kalau ditinggal pergi.",
@@ -101,7 +111,17 @@
       "Maaf [TARGET], aku terjebak gara-gara nonton *review* panci teflon di YouTube selama 6 jam nonstop dan lupa waktu.",
       "Halo [TARGET], kucing tetangga numpang buang air besar di sepatuku, baunya nggak hilang meski udah dicuci 3 kali.",
       "Sori [TARGET], gigiku copot pas lagi ngunyah es batu, masa aku mau nongkrong dengan gigi ompong.",
-      "Aduh [TARGET], aku nyangkut di pagar rumah sendiri gara-gara nekat lompat karena kunci pagarnya ilang."
+      "Aduh [TARGET], aku nyangkut di pagar rumah sendiri gara-gara nekat lompat karena kunci pagarnya ilang.",
+      "Sori [TARGET], aku nggak bisa datang karena lagi ngambek sama *ending* drama Korea yang kutonton semalaman.",
+      "Aduh [TARGET], aku salah memotong bulu mata pakai gunting kuku, mataku kelihatan sangat aneh.",
+      "Maaf [TARGET], celana jeans-ku terlalu ketat setelah dicuci, aku jatuh ke belakang saat berusaha memakainya.",
+      "Halo [TARGET], aku dicegat oleh sekawanan kucing jalanan yang membentuk barikade di depan pagar rumahku.",
+      "Sori [TARGET], aku salah menyemir sepatu hitam dengan pasta gigi charcoal, warnanya luntur ke lantai semua.",
+      "Aduh [TARGET], aku terkunci di balkon kamarku sendiri dan berteriak minta tolong tapi tak ada yang dengar.",
+      "Maaf [TARGET], aku tidak sengaja meminum air sabun cuci piring karena ku kira itu sirup melon.",
+      "Halo [TARGET], aku diculik secara paksa oleh keponakanku untuk bermain peran sebagai monster di kamarnya.",
+      "Sori [TARGET], resleting bajuku tersangkut di jaring-jaring jendela, aku terperangkap tidak bisa gerak.",
+      "Aduh [TARGET], aku sibuk menghitung jumlah rambut rontokku di kamar mandi sampai lupa waktu janjian."
     ],
     "realityBending": [
       "Sorry [TARGET], gue gak bisa nongkrong. Rumah gue tiba-tiba dikepung oleh pasukan alien ramah yang minta diajarin cara bikin kopi lokal, gak sopan kalau ditinggal.",
@@ -150,7 +170,17 @@
       "Maaf [TARGET], frekuensi suaraku tiba-tiba berubah menjadi gelombang ultrasonik, kalian tidak akan bisa mendengarku.",
       "Halo [TARGET], aku diculik oleh sekawanan kurcaci penambang emas yang membutuhkan tenagaku di bawah tanah.",
       "Sori [TARGET], bumi berhenti berotasi sebentar dan menyebabkan jetlag kosmik yang luar biasa pada sistem sarafku.",
-      "Aduh [TARGET], waktu berulang terus di rumahku, aku terus mengulang aktivitas mandi pagi selama tiga minggu ini."
+      "Aduh [TARGET], waktu berulang terus di rumahku, aku terus mengulang aktivitas mandi pagi selama tiga minggu ini.",
+      "Sori [TARGET], rumahku terputus dari jaringan realita utama dan melayang di kehampaan kosmik.",
+      "Aduh [TARGET], wajahku menghilang di pantulan cermin, aku butuh waktu merestorasi data wajahku kembali.",
+      "Maaf [TARGET], aku menemukan pintu menuju alam baka di lemariku, aku harus mengeksplorasinya sekarang.",
+      "Halo [TARGET], aku tidak sengaja berubah bentuk menjadi sebuah vas bunga dinasti Ming yang antik.",
+      "Sori [TARGET], waktuku terjebak dalam *looping* 5 detik yang membuatku terus menerus mengambil gelas minum.",
+      "Aduh [TARGET], telepati antar galaksi memanggilku untuk mencegah perang bintang antara ras reptil dan alien.",
+      "Maaf [TARGET], gravitasi bumi meningkat dua kali lipat khusus di ruang tamuku, tubuhku tidak kuat berdiri.",
+      "Halo [TARGET], bayanganku mencuri bajuku dan berlari menembus dinding keluar rumah.",
+      "Sori [TARGET], tubuhku transparan secara tiba-tiba, menampakkan tulang tengkorakku di hadapan publik.",
+      "Aduh [TARGET], setiap kali aku mencoba berjalan keluar pintu, aku malah *teleport* kembali ke kamar mandiku."
     ]
   }
 }

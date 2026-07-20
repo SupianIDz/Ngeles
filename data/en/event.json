@@ -25,7 +25,17 @@
       "Hello [TARGET], I am so sorry, I lost my work planner on the train and I heavily relied on that book.",
       "Sorry [TARGET], I misconfigured the monthly alarm, I put it on the wrong date. Forgive my carelessness.",
       "Sorry [TARGET], I've been out in the field all week far from a signal, I literally haven't thought about the calendar.",
-      "Oh man [TARGET], I slept so heavily due to out-of-town jetlag, when I woke up the day had already changed."
+      "Oh man [TARGET], I slept so heavily due to out-of-town jetlag, when I woke up the day had already changed.",
+      "I'm so sorry [TARGET], this entire week I was chased by a massive tender project deadline that consumed my sleep until I lost track of days.",
+      "Oh man [TARGET], I'm so sorry I missed it, my mind is shattered worrying about my mother's swelling hospital bills.",
+      "Hello [TARGET], I truly apologize, my phone factory reset itself and all my calendar reminders are totally gone.",
+      "Sorry [TARGET], I caught typhoid and was on total bedrest for days at the hospital, I couldn't think about calendars at all.",
+      "Sorry [TARGET], I was extremely busy handling an out-of-town house move, my entire schedule was chaotic this month.",
+      "Oh man [TARGET], sorry I only realized what date today is after seeing the calendar in the morning paper, I really missed it.",
+      "Hello [TARGET], I apologize profusely, my daily planner book was left behind on an intercity train.",
+      "Sorry [TARGET], the monthly alarm I set apparently went off a month late because I clicked the wrong setting.",
+      "Sorry [TARGET], I was trapped in a field survey in a remote area without signal or electricity, I was completely blind to the date.",
+      "Oh man [TARGET], I was severely exhausted and slept for over 18 hours a day after returning from a business trip, the days passed without me noticing."
     ],
     "ridiculous": [
       "Sorry [TARGET], the wall calendar in my house was eaten by termites exactly on today's date, I lost my concept of time.",
@@ -47,7 +57,17 @@
       "Oh man [TARGET], I was too focused counting the number of tiles in my living room that I forgot everything important in the world.",
       "Hello [TARGET], my brain overheated thinking about a crossword puzzle, so the memory of this important day was auto-deleted.",
       "Sorry [TARGET], my phone alarm played a lullaby, instead of waking up I entered level 3 of a dream.",
-      "Sorry [TARGET], I forgot because I squatted too long in the bathroom contemplating the fate of a drowning ant."
+      "Sorry [TARGET], I forgot because I squatted too long in the bathroom contemplating the fate of a drowning ant.",
+      "Sorry [TARGET], the wall calendar in my room was torn up and scratched by my Persian cat until the numbers vanished, so I forgot the day.",
+      "Sorry [TARGET], my head bumped hard against the fridge door edge, I suffered partial amnesia forgetting only this specific date.",
+      "Oh man [TARGET], my little sibling scribbled over the numbers on my desk calendar with a black crayon, I'm blind to the order of months and days.",
+      "Hello [TARGET], I was busy debating with my Alexa smart speaker about a scrambled egg recipe until I lost the concept of time for days.",
+      "Sorry [TARGET], I spent the whole night watching origami folding tutorials on YouTube until I forgot the important appointment.",
+      "Sorry [TARGET], I mistakenly took a high-dose sleeping pill I hid in my drawer, I slept long like a hibernating bear.",
+      "Oh man [TARGET], I was too engrossed counting the countdown of raindrops from a leaking roof until my mind went blank.",
+      "Hello [TARGET], my brain's navigation system errored because I ate too much ice cream, my memory of this celebration froze perfectly.",
+      "Sorry [TARGET], my phone alarm rang loudly but I changed the sound to an ASMR whisper, I ended up sleeping even more soundly.",
+      "Sorry [TARGET], I spent two days and nights sitting on a squat toilet mourning a flying mosquito, my memory faded away."
     ],
     "realityBending": [
       "Sorry [TARGET], aliens from the Zeta Reticuli constellation abducted my memories of this important day for human emotion research.",
@@ -69,7 +89,17 @@
       "Oh man [TARGET], the god of time handed me a fast-forward button and I accidentally sat on it.",
       "Hello [TARGET], today is locked inside a quantum prison, I cannot access this moment in my mind.",
       "Sorry [TARGET], your photo in my memory is slowly fading as if blown by dimensional winds, I don't remember today.",
-      "Sorry [TARGET], my shadow stole today's celebration and ran away with it to the world behind the mirror."
+      "Sorry [TARGET], my shadow stole today's celebration and ran away with it to the world behind the mirror.",
+      "Sorry [TARGET], time-traveling aliens stole my memory of this historic event to use as an archive in the Andromeda galaxy.",
+      "Sorry [TARGET], the dimensions of space and time folded before my eyes, today's date was entirely skipped by magic.",
+      "Oh man [TARGET], I was sucked into the cosmic void where the concept of the solar calendar time is no longer relevant.",
+      "Hello [TARGET], the time police department erased today from my brain's memory to prevent a paradox of earth's destruction.",
+      "Sorry [TARGET], I was offered a memory-erasing drink by a fairy guarding an old well, all my beautiful moments were swallowed by magic.",
+      "Sorry [TARGET], the universe rebooted our reality at dawn, all memories of calendar schedules were force-reset to default settings.",
+      "Oh man [TARGET], the cosmic god's hourglass keeper dropped my sands of time, causing me to forget an entire month in my memory.",
+      "Hello [TARGET], this important day is locked inside a quantum prison by a 4th-dimensional entity, I can't remember it even if I try.",
+      "Sorry [TARGET], memories of today have faded carried away by solar wind storms, it seems we have to start over.",
+      "Sorry [TARGET], my shadow rebelled and stole the moment of this celebration, it celebrated alone in the mirror world without inviting me."
     ]
   }
 }
