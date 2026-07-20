@@ -44,22 +44,18 @@
 
   function timeAgo(ms: number, l: string): string {
     if (!ms) return "";
-    const diff = Date.now() - ms;
-    const minutes = Math.floor(diff / 60000);
-    const hours = Math.floor(minutes / 60);
-    const days = Math.floor(hours / 24);
+    const diffMs = ms - Date.now();
+    const diffSec = Math.round(diffMs / 1000);
+    const diffMin = Math.round(diffSec / 60);
+    const diffHour = Math.round(diffMin / 60);
+    const diffDay = Math.round(diffHour / 24);
 
-    if (l === "id") {
-      if (minutes < 1) return "Baru saja";
-      if (minutes < 60) return `${minutes} menit lalu`;
-      if (hours < 24) return `${hours} jam lalu`;
-      return `${days} hari lalu`;
-    } else {
-      if (minutes < 1) return "Just now";
-      if (minutes < 60) return `${minutes} min ago`;
-      if (hours < 24) return `${hours} hr ago`;
-      return `${days} days ago`;
-    }
+    const rtf = new Intl.RelativeTimeFormat(l === "id" ? "id-ID" : "en-US", { numeric: "auto" });
+
+    if (Math.abs(diffSec) < 60) return rtf.format(diffSec, "second");
+    if (Math.abs(diffMin) < 60) return rtf.format(diffMin, "minute");
+    if (Math.abs(diffHour) < 24) return rtf.format(diffHour, "hour");
+    return rtf.format(diffDay, "day");
   }
 </script>
 
