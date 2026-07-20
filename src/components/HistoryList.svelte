@@ -38,7 +38,7 @@
     const absDays = Math.abs(diffMs) / 86400000;
 
     if (absDays >= 7) {
-      return new Date(ms).toLocaleString(l === "id" ? "id-ID" : "en-US", {
+      return new Date(ms).toLocaleString(l, {
         month: "short",
         day: "numeric",
         hour: "2-digit",
@@ -51,7 +51,7 @@
     const diffHour = Math.round(diffMin / 60);
     const diffDay = Math.round(diffHour / 24);
 
-    const rtf = new Intl.RelativeTimeFormat(l === "id" ? "id-ID" : "en-US", { numeric: "auto" });
+    const rtf = new Intl.RelativeTimeFormat(l, { numeric: "auto" });
 
     if (Math.abs(diffSec) < 60) return rtf.format(diffSec, "second");
     if (Math.abs(diffMin) < 60) return rtf.format(diffMin, "minute");
