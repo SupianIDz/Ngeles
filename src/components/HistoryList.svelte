@@ -32,19 +32,20 @@
     onShowToast(t(lang, "toastCopied"));
   }
 
-  function formatDate(ts: number, l: string): string {
-    if (!ts) return "";
-    return new Date(ts).toLocaleString(l === "id" ? "id-ID" : "en-US", {
-      month: "short",
-      day: "numeric",
-      hour: "2-digit",
-      minute: "2-digit",
-    });
-  }
-
-  function timeAgo(ms: number, l: string): string {
+  function formatTimeDisplay(ms: number, l: string): string {
     if (!ms) return "";
     const diffMs = ms - Date.now();
+    const absDays = Math.abs(diffMs) / 86400000;
+
+    if (absDays >= 7) {
+      return new Date(ms).toLocaleString(l === "id" ? "id-ID" : "en-US", {
+        month: "short",
+        day: "numeric",
+        hour: "2-digit",
+        minute: "2-digit",
+      });
+    }
+
     const diffSec = Math.round(diffMs / 1000);
     const diffMin = Math.round(diffSec / 60);
     const diffHour = Math.round(diffMin / 60);
@@ -105,9 +106,7 @@
                 <span class="opacity-40">•</span>
               {/if}
               {#if entry.created_at}
-                <span><i class="fa-regular fa-calendar mr-1"></i>{formatDate(entry.created_at, lang)}</span>
-                <span class="opacity-40">•</span>
-                <span><i class="fa-regular fa-clock mr-1"></i>{timeAgo(entry.created_at, lang)}</span>
+                <span><i class="fa-regular fa-clock mr-1"></i>{formatTimeDisplay(entry.created_at, lang)}</span>
               {/if}
             </div>
           </div>
